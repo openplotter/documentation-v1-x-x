@@ -1,5 +1,5 @@
 # Table of contents
 
-* [OpenPlotter](README.md)
-* [What is OpenPlotter?](what-is-openplotter.md)
+* [What is OpenPlotter?](README.md)
+* [Features](features.md)
 

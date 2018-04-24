@@ -1,13 +1,11 @@
-# What is OpenPlotter?
+# Features
 
-### Features
-
-* **OpenCPN**[\[2\]](http://opencpn.org). Concise and robust navigation software. Chart a course and track your position.
-* **zyGrib**[\[3\]](http://www.zygrib.org). Weather data download and visualization of GRIB files format 1 and 2.
+* **OpenCPN**. Concise and robust navigation software. Chart a course and track your position.
+* **zyGrib**. Weather data download and visualization of GRIB files format 1 and 2.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **NMEA 0183**. Receive, filter, multiplex and send NMEA data through serial and network inputs and outputs.
 * **NMEA 2000**. Connect an USB adapter to your N2K network to receive and send data.
-* **Signal K Server**[\[4\]](http://signalk.org). Convert data from sensors to Signal K and exchange data between all formats.
+* **Signal K Server**. Convert data from sensors to Signal K and exchange data between all formats.
 * **WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
 * **Headless**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **Dashboards**. Build instrument panels to visualize data from your mobile devices.

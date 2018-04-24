@@ -1,7 +1,5 @@
 # What is OpenPlotter?
 
-There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the Raspberry Pi\[[1](https://www.raspberrypi.org)\] and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
-
 ### Features
 
 * **OpenCPN**[\[2\]](http://opencpn.org). Concise and robust navigation software. Chart a course and track your position.
@@ -23,6 +21,8 @@ There are people who buy boats but there are also people who build them, why not
 * **Share data**. Publish data from your boat on Twitter or send emails and SMS automatically.
 * **Remote Monitoring**. Receive or send data to your boat while you are away.
 * **Open tools**. Use multiple built in tools to interact with the system and create your own ones.
+
+
 
 
 

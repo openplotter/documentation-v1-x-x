@@ -25,6 +25,14 @@
 {% endhint %}
 
 {% hint style="success" %}
+**Compass**. Heading and heel from an IMU sensor. Tilt compensated. Self-calibration.
+{% endhint %}
+
+{% hint style="success" %}
+**Autopilot**. Build a cheap, accurate and complete autopilot with pypilot.
+{% endhint %}
+
+{% hint style="success" %}
 **WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
 {% endhint %}
 
@@ -34,10 +42,6 @@
 
 {% hint style="success" %}
 **Dashboards**. Build instrument panels to visualize data from your mobile devices.
-{% endhint %}
-
-{% hint style="success" %}
-**Compass**. Heading and heel from an IMU sensor. Tilt compensated. Self-calibration.
 {% endhint %}
 
 {% hint style="success" %}

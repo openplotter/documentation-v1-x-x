@@ -8,9 +8,9 @@
 
 ## Optional items
 
-### Moitessier HAT
+{% page-ref page="moitessier-hat.md" %}
 
-### CAN-USB Stick
+{% page-ref page="can-usb-stick.md" %}
 
-### Other optional items
+
 

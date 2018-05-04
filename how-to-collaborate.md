@@ -6,9 +6,9 @@
 
 [Moe's Law, Navigatrix project.](http://navigatrix.net)
 
-### Your time
+### Time
 
-### Your money
+### Money
 
 ### Monkeys
 

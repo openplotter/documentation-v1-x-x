@@ -8,9 +8,9 @@
 
 ## Optional items
 
-{% page-ref page="moitessier-hat.md" %}
+{% page-ref page="tools/moitessier-hat.md" %}
 
-{% page-ref page="can-usb-stick.md" %}
+{% page-ref page="can/can-usb-stick.md" %}
 
 
 

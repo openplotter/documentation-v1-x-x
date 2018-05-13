@@ -34,6 +34,7 @@
   * Analog ADS1115
   * Analog Firmata
   * Moitessier HAT
+* FAQ
 * License
 * Credits
 

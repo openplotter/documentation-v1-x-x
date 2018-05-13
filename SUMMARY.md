@@ -8,6 +8,9 @@
 * [Getting started](getting-started.md)
 * OpenCPN
   * Charts
+* [Signal K server](signal-k-server/README.md)
+  * Plugin Config
+* Node-RED
 * Serial
 * Kplex
 * Pypilot
@@ -24,6 +27,12 @@
 * SMS
 * Startup
 * Tools
+  * SDR receiver
+  * Deviation Table
+  * Calculate
+  * NMEA 0183 generator
+  * Analog ADS1115
+  * Analog Firmata
   * Moitessier HAT
 * License
 * Credits

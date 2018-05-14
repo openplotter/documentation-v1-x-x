@@ -15,7 +15,7 @@
 * Kplex
 * Pypilot
 * CAN
-  * CAN-USB Stick
+  * [CAN-USB Stick](can/can-usb-stick.md)
 * WiFI AP
 * Actions
 * GPIO

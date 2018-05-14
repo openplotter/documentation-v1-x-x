@@ -27,7 +27,7 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 The CAN-USB Stick V2 is based on a stm32 micro-controller \(MCU\) connected to an isolated CAN transceiver and an USB to serial converter.
 
-### Warning / Disclaimer {#warning--disclaimer}
+## Warning / Disclaimer
 
 CAN-USB Stick is a research project on data communication on CAN bus and N2K networks in boats.
 
@@ -39,9 +39,21 @@ The CAN-USB Stick is not certified by NMEA®.
 
 It is not allowed to use the Actisense® NMEA Reader software for the CAN-USB Stick.
 
-### N2K networks {#n2k-networks}
+## N2K networks
 
 ![](../.gitbook/assets/n2k_b.jpg)
 
 ![](../.gitbook/assets/n2k_a.jpg)
+
+Example of a small N2K Network.
+
+N2K networks are described in [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). The backbone \(or trunk\) starts with a 120Ω terminator and ends with a 120Ω terminator. Two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
+
+![](../.gitbook/assets/resistor_conn.jpg)
+
+M12 male 120Ω terminator
+
+The drop line to devices should not be longer than 6 m. The backbone can have 100m in length.
+
+The CAN-USB Stick is electrically isolated so devices and your computer are protected even if they are powered by a different source than your N2K network.
 

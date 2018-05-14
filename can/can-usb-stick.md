@@ -6,6 +6,8 @@
 
 The CAN-USB Stick project was done to analyse the data stream on a N2K network sending and receiving CAN messages. It is electrically isolated to avoid damages.
 
+The CAN-USB Stick is based on a stm32 micro-controller \(MCU\) connected to an isolated CAN transceiver and an USB to serial converter.
+
 The program of the MCU has been re-engineered to work together with [CANBOAT](https://github.com/canboat/canboat) project, which is used by [Signal K](http://signalk.org/) project. Both packets are used in OpenPlotter.
 
 The CAN-USB Stick does also work with [OpenSkipper](http://openskipper.org/) project.
@@ -22,10 +24,6 @@ New PGNs are not blocked, as they are on other devices capable to work with CANB
 {% hint style="info" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
-
-## Hardware
-
-The CAN-USB Stick V2 is based on a stm32 micro-controller \(MCU\) connected to an isolated CAN transceiver and an USB to serial converter.
 
 ## Warning / Disclaimer
 

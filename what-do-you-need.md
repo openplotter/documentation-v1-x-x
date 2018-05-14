@@ -1,8 +1,23 @@
 # What do you need?
 
+You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+
 ## Required items
 
+You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor \(**headless**\).
+
+If you need help with these basic parts see the official [Raspberry Pi documentation](https://www.raspberrypi.org/learning/hardware-guide/).
+
 ### Monitor option
+
+* **Raspberry Pi 3**
+* **Box**
+* **Power supply**
+* **HDMI monitor**
+* **Keyboard and mouse**
+* **SD card with OpenPlotter** \(_the software_\)
+
+![](.gitbook/assets/start.png)
 
 ### Headless option
 

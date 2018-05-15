@@ -41,9 +41,27 @@ If your SD card has 64GB or more, it will automatically be formatted as exFAT, w
 
 ## First boot
 
+Connect power to the Raspberry Pi.
+
+OpenPlotter NOOBS installer will make a silent install, this means that you do not have to do anything. It will take several minutes to format partitions and install the system.
+
+Once the OpenPlotter NOOBS installer has installed OpenPlotter, it will start directly every time we connect the Raspberry Pi.
+
 ## H**eadless**
 
 ## First settings
+
+The nativ monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If we have such a monitor. We do a restart.
+
+Go to `Menu > Preferences` and select `Raspberry Pi Configuration`
+
+A window will open where you can personalise your system. 
+
+{% hint style="danger" %}
+It is a good idea to change the password to make OpenPlotter more secure. Click on `Change Password` \(default password: raspberry\).
+{% endhint %}
+
+If you need to set your system localisation, click on the `Localisation` tab and then on `Set Locale` \(language\), `Set Timezone`_, _`Set Keyboard `and_ _`Set WiFi Country` buttons.
 
 ## Updating {#updating-openplotter}
 
@@ -51,5 +69,9 @@ If your SD card has 64GB or more, it will automatically be formatted as exFAT, w
 
 ## Recovery system
 
+If our system gets damaged or unstable, we can recover it from the NOOBS installer and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
 
+{% hint style="danger" %}
+**We will lose all data, manually installed programs and settings after recovering.**
+{% endhint %}
 

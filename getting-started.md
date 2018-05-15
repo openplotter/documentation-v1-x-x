@@ -8,7 +8,7 @@ Then, you have to run the software on your Raspberry. **OpenPlotter** is a modif
 
 ## Installing OpenPlotter
 
-Raspberry Pi and most embedded system use an SD card as hard disk. almost any micro-SD-compatible card will work on your Raspberry. However, there are some guidelines that should be followed:
+Raspberry Pi, and most embedded systems, uses an SD card as Hard Disk. Almost any micro-SD-compatible card will work on your Raspberry. However, there are some guidelines that should be followed:
 
 {% hint style="warning" %}
 A minimum of 8GB is required but 16GB is recommended.

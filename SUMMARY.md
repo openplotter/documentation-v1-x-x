@@ -33,7 +33,7 @@
   * NMEA 0183 generator
   * Analog ADS1115
   * Analog Firmata
-  * Moitessier HAT
+  * [Moitessier HAT](tools/moitessier-hat.md)
 * FAQ
 * License
 * Credits

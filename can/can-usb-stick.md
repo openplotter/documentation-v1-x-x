@@ -55,3 +55,37 @@ The drop line to devices should not be longer than 6 m. The backbone can have 10
 
 The CAN-USB Stick is electrically isolated so devices and your computer are protected even if they are powered by a different source than your N2K network.
 
+## Connection
+
+To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line should have a M12, 5 pin male connector in one side and 5 wires \(but we only need 2\) in the other side. The HIRSCHMANN ELST 5012 PG7 connector has a screw terminal.
+
+![](../.gitbook/assets/t-conn.jpg)
+
+T-connector
+
+![](../.gitbook/assets/m12_conn.jpg)
+
+Drop line M12, 5 pins male connector side
+
+![](../.gitbook/assets/micro_cable.jpg)
+
+Drop line wires side
+
+![](../.gitbook/assets/can_usb_connect.jpg)
+
+* Pull out the green screw terminal of the stick.
+* Connect the drop line blue wire from pin 5 \(pin in the middle\) to the green terminal on CANL.
+* Connect the drop line white wire from pin 4 to the green terminal on CANH.
+* Turn off the main power switch to be sure that there is no power on the network.
+* Connect the drop line to the free T-connector on your backbone.
+* Use a multimeter and measure the resistance between CANH and CANL \(on the screws\). The resistance should be around 60 Ohm.
+* Connect the green screw terminal to the CAN-USB Stick.
+* Check again the 60 Ohm between CANH and CANL.
+* On the drop line there are three cables left. They have to be isolated.
+* Turn on the main power.
+* Switch on instrumentation.
+
+To configure your CAN-USB Stick on Windows use OpenSkipper To configure it on OpenPlotter go to chapter:
+
+{% page-ref page="can-usb-stick.md" %}
+

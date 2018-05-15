@@ -41,15 +41,11 @@ It is not allowed to use the Actisense® NMEA Reader software for the CAN-USB St
 
 ![](../.gitbook/assets/n2k_b.jpg)
 
-![](../.gitbook/assets/n2k_a.jpg)
-
-Example of a small N2K Network.
+![Example of a small N2K Network](../.gitbook/assets/n2k_a.jpg)
 
 N2K networks are described in [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). The backbone \(or trunk\) starts with a 120Ω terminator and ends with a 120Ω terminator. Two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
 
-![](../.gitbook/assets/resistor_conn.jpg)
-
-M12 male 120Ω terminator
+![M12 male 120&#x3A9; terminator](../.gitbook/assets/resistor_conn.jpg)
 
 The drop line to devices should not be longer than 6 m. The backbone can have 100m in length.
 
@@ -59,17 +55,11 @@ The CAN-USB Stick is electrically isolated so devices and your computer are prot
 
 To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line should have a M12, 5 pin male connector in one side and 5 wires \(but we only need 2\) in the other side. The HIRSCHMANN ELST 5012 PG7 connector has a screw terminal.
 
-![](../.gitbook/assets/t-conn.jpg)
+![T-connector](../.gitbook/assets/t-conn.jpg)
 
-T-connector
+![Drop line M12, 5 pins male connector side](../.gitbook/assets/m12_conn.jpg)
 
-![](../.gitbook/assets/m12_conn.jpg)
-
-Drop line M12, 5 pins male connector side
-
-![](../.gitbook/assets/micro_cable.jpg)
-
-Drop line wires side
+![Drop line wires side](../.gitbook/assets/micro_cable.jpg)
 
 ![](../.gitbook/assets/can_usb_connect.jpg)
 
@@ -87,5 +77,18 @@ Drop line wires side
 
 To configure your CAN-USB Stick on Windows use OpenSkipper To configure it on OpenPlotter go to chapter:
 
-{% page-ref page="can-usb-stick.md" %}
+{% page-ref page="./" %}
+
+## LED
+
+The CAN-USB Stick LED will be **OFF** 10" during the boot sequence and then:
+
+* Fixed **ON** if it is not connected to the network.
+* **ON** for a second if it is connected to the network.
+* Fixed **OFF** if there are not input data.
+* **FLASHING** if there are input data.
+
+## Support
+
+If you need support or you have any suggestion you can publish your questions on [OpenMarine forum](http://forum.openmarine.net/forumdisplay.php?fid=11).
 

@@ -39,5 +39,7 @@ We officially develop, support and distribute some devices which are specificall
 
 {% page-ref page="can/can-usb-stick.md" %}
 
-{% page-ref page="what-do-you-need.md" %}
+{% page-ref page="pypilot/pypilot-hardware.md" %}
+
+
 

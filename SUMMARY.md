@@ -14,7 +14,7 @@
 * Serial
 * Kplex
 * Pypilot
-  * Pypilot hardware
+  * [Pypilot hardware](pypilot/pypilot-hardware.md)
 * CAN
   * [CAN-USB Stick](can/can-usb-stick.md)
 * WiFI AP

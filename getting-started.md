@@ -53,7 +53,9 @@ Go to `Menu > Preferences` and select `Raspberry Pi Configuration`
 
 ![](.gitbook/assets/rpisetup1.jpg)
 
-A window will open where you can personalise your system. 
+A window will open where you can personalize your system. 
+
+![](.gitbook/assets/rpisetup3.jpg)
 
 {% hint style="danger" %}
 It is a good idea to change the password to make OpenPlotter more secure. Click on `Change Password` \(default password: raspberry\).

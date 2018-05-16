@@ -69,9 +69,21 @@ If you need to set your system localisation, click on the `Localisation` tab and
 
 From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
 
-Be sure you are connected to Internet and go to `Updates` in the OpenPlotter main menu and then `Update OpenPlotter`. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
+Be sure you are connected to Internet and go to `Updates` in the OpenPlotter main menu and then to `Update OpenPlotter`. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
 
 You can also update OpenCPN and plugins to the latest stable releases and restore the desktop settings if it has changed after an update.
+
+### Version numbering {#version-numbering}
+
+OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
+
+When **c** increases, there is a minor change and means that only the OpenPlotter code has changed. When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated too. When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case a new OpenPlotter image will be released and you have to burn a new SD card.
+
+**Alpha** means that some parts still need development. **Beta** means that all parts have been developed and there are not fatal errors but it needs to be tested by users in different scenarios. Text will be translated from English into other languages on this stage. **Stable** means that OpenPlotter code and dependencies have already been tested and there are not errors.
+
+You can know what version you are running selecting the option `About` in `Help` menu.
+
+![](.gitbook/assets/about.png)
 
 ## Backup
 

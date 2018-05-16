@@ -2,3 +2,7 @@
 
 ## Vessel data
 
+## Signal K diagnostic
+
+
+

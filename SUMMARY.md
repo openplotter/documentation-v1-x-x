@@ -36,6 +36,6 @@
   * Analog Firmata
   * [Moitessier HAT](tools/moitessier-hat.md)
 * FAQ
-* License
+* [License](license.md)
 * Credits
 

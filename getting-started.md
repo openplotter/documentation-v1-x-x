@@ -63,6 +63,8 @@ It is a good idea to change the password to make OpenPlotter more secure. Click 
 
 If you need to set your system localisation, click on the `Localisation` tab and then on `Set Locale` \(language\), `Set Timezone`_,_ `Set Keyboard` and __`Set WiFi Country` buttons.
 
+![](.gitbook/assets/rpisetup2.jpg)
+
 ## Updating {#updating-openplotter}
 
 ## Backup
@@ -70,6 +72,8 @@ If you need to set your system localisation, click on the `Localisation` tab and
 ## Recovery system
 
 If our system gets damaged or unstable, we can recover it from the NOOBS installer and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
+
+![](.gitbook/assets/recovery.png)
 
 {% hint style="danger" %}
 **We will lose all data, manually installed programs and settings after recovering.**

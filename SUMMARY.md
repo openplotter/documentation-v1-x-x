@@ -37,5 +37,5 @@
   * [Moitessier HAT](tools/moitessier-hat.md)
 * FAQ
 * [License](license.md)
-* Credits
+* [Credits](credits.md)
 

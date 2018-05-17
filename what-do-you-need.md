@@ -31,7 +31,9 @@ If you need help with these basic parts see the official [Raspberry Pi documenta
 
 ## Optional items
 
-Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment.
+Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
+
+{% page-ref page="what-do-you-need.md" %}
 
 We officially develop, support and distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
 

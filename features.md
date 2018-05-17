@@ -25,7 +25,7 @@
 {% endhint %}
 
 {% hint style="success" %}
-**Compass**. Heading and heel from an IMU sensor. Tilt compensated. Self-calibration.
+**Compass**. Heading, heel and trim from an IMU sensor. Tilt compensated. Self-calibration.
 {% endhint %}
 
 {% hint style="success" %}

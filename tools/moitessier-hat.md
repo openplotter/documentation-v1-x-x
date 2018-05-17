@@ -27,7 +27,7 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ### Enclosure
 
-![](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
+![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).

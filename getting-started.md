@@ -94,6 +94,6 @@ If our system gets damaged or unstable, we can recover it from the NOOBS install
 ![](.gitbook/assets/recovery.png)
 
 {% hint style="danger" %}
-**We will lose all data, manually installed programs and settings after recovering.**
+**You will lose all data, manually installed programs and settings after recovering.**
 {% endhint %}
 

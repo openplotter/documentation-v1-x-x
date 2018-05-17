@@ -21,7 +21,7 @@ So it does use the command set which is used in the CANBOAT actisense-serial pro
 
 New PGNs are not blocked, as they are on other devices capable to work with CANBOAT. The transmission speed can be set higher than the CAN bus speed. Other devices capable to work with CANBOAT have a lower transferrate than N2K networks and they may suffer a bottleneck.
 
-{% hint style="info" %}
+{% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
 

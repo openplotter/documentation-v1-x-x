@@ -23,6 +23,8 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ![](../.gitbook/assets/moitessier-hat-quick-start-guide-page2.jpg)
 
+![](../.gitbook/assets/moitessier-hat-quick-start-guide-page3.jpg)
+
 ### Enclosure
 
 ![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)

@@ -59,6 +59,8 @@ A window will open where you can personalize your system.
 
 {% hint style="danger" %}
 It is a good idea to change the password to make OpenPlotter more secure. Click on `Change Password` \(default password: raspberry\).
+
+If you do not change the password, anyone will be able to connect to OpenPlotter remotely. Please do it now.
 {% endhint %}
 
 If you need to set your system localisation, click on the `Localisation` tab and then on `Set Locale` \(language\), `Set Timezone`_,_ `Set Keyboard` and __`Set WiFi Country` buttons.

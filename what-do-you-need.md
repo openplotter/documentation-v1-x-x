@@ -33,7 +33,7 @@ If you need help with these basic parts see the official [Raspberry Pi documenta
 
 ## Optional items
 
-We officially develop, support and distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
+We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
 
 {% page-ref page="tools/moitessier-hat.md" %}
 

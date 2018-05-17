@@ -16,20 +16,26 @@
 * Full OpenPlotter compatible. Plug and play.
 
 {% hint style="info" %}
-This item is available in our [Web Shop](http://shop.sailoog.com).
+[www.rooco.eu](https://www.rooco.eu/)
 {% endhint %}
 
-{% hint style="warning" %}
-[www.rooco.eu](https://www.rooco.eu/)
+{% hint style="success" %}
+This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
 
 ## Mounting the HAT
 
 ## Installing drivers
 
-## Compass calibration
+## GNSS, AIS settings
+
+## Compass, heel and trim settings
 
 {% page-ref page="../pypilot/compass-calibration.md" %}
+
+## Pressure sensor settings
+
+## Getting info from the HAT
 
 
 

@@ -1,5 +1,7 @@
 # Moitessier HAT
 
+![](../.gitbook/assets/moitessier-hat-quick-start-guide-page1.jpg)
+
 ## Features
 
 * High-sensitivity \(better than -114 dBm\) **dual channel AIS receiver** with SMA antenna connector.
@@ -18,6 +20,8 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
 
 ## Mounting the HAT
+
+![](../.gitbook/assets/moitessier-hat-quick-start-guide-page2.jpg)
 
 ### Enclosure
 

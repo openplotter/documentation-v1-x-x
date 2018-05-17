@@ -1,7 +1,5 @@
 # Moitessier HAT
 
-![Moitessier HAT mounted on Raspberry Pi](../.gitbook/assets/moitessier-hat-on-raspberry-pi.jpg)
-
 ## Features
 
 * High-sensitivity \(better than -114 dBm\) **dual channel AIS receiver** with SMA antenna connector.
@@ -14,10 +12,6 @@
 * Supports ID EEPROM and automatic device tree loading
 * 3 status LEDs \(AIS status, GNSS status, error\)
 * Full OpenPlotter compatible. Plug and play.
-
-{% hint style="info" %}
-[www.rooco.eu](https://www.rooco.eu/)
-{% endhint %}
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).

@@ -13,10 +13,10 @@
 * Node-RED
 * Serial
 * Kplex
-* Pypilot
-  * Compass calibration
+* [Pypilot](pypilot/README.md)
   * [Pypilot hardware](pypilot/pypilot-hardware.md)
-  * OpenCPN plugin
+  * Compass calibration
+  * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
 * WiFI AP

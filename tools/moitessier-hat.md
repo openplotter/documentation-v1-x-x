@@ -29,5 +29,7 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ## Compass calibration
 
-{% page-ref page="moitessier-hat.md" %}
+{% page-ref page="../pypilot/compass-calibration.md" %}
+
+
 

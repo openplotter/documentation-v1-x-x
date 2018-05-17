@@ -2,8 +2,6 @@
 
 ![Moitessier HAT mounted on Raspberry Pi](../.gitbook/assets/moitessier-hat-on-raspberry-pi.jpg)
 
-![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing.jpg)
-
 ## Features
 
 * High-sensitivity \(better than -114 dBm\) **dual channel AIS receiver** with SMA antenna connector.
@@ -25,5 +23,11 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 [www.rooco.eu](https://www.rooco.eu/)
 {% endhint %}
 
+## Mounting the HAT
 
+## Installing drivers
+
+## Compass calibration
+
+{% page-ref page="moitessier-hat.md" %}
 

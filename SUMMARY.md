@@ -16,6 +16,7 @@
 * Pypilot
   * Compass calibration
   * [Pypilot hardware](pypilot/pypilot-hardware.md)
+  * OpenCPN plugin
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
 * WiFI AP

@@ -12,6 +12,7 @@
   * Plugin Config
 * Node-RED
 * Serial
+  * Serial devices
 * Kplex
 * [Pypilot](pypilot/README.md)
   * [Pypilot hardware](pypilot/pypilot-hardware.md)
@@ -22,9 +23,13 @@
 * WiFI AP
 * Actions
 * GPIO
+  * Digital sensors
 * I2C
+  * I2C sensors
 * 1W
+  * 1W sensors
 * SPI
+  * SPI devices
 * MQTT
 * Accounts
 * SMS

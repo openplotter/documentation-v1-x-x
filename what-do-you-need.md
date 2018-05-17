@@ -27,13 +27,11 @@ If you need help with these basic parts see the official [Raspberry Pi documenta
 * **SD card with OpenPlotter** \(_the software_\)
 * **Any laptop, tablet or smartphone**
 
+
+
 ![](.gitbook/assets/start2.png)
 
 ## Optional items
-
-Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
-
-{% page-ref page="what-do-you-need.md" %}
 
 We officially develop, support and distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
 
@@ -43,5 +41,21 @@ We officially develop, support and distribute some devices which are specificall
 
 {% page-ref page="pypilot/pypilot-hardware.md" %}
 
+Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
 
+{% page-ref page="serial/serial-devices.md" %}
+
+{% page-ref page="gpio/digital-sensors.md" %}
+
+{% page-ref page="i2c/i2c-sensors.md" %}
+
+{% page-ref page="1w/1w-sensors.md" %}
+
+{% page-ref page="spi/spi-devices.md" %}
+
+{% page-ref page="tools/sdr-receiver.md" %}
+
+{% page-ref page="tools/analog-firmata.md" %}
+
+{% page-ref page="tools/analog-ads1115.md" %}
 

@@ -25,6 +25,20 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ## Mounting the HAT
 
+### Enclosure
+
+![](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
+
+{% hint style="success" %}
+This item is available in our [Web Shop](http://shop.sailoog.com).
+{% endhint %}
+
+### External antennas
+
+{% hint style="success" %}
+This item is available in our [Web Shop](http://shop.sailoog.com).
+{% endhint %}
+
 ## Installing drivers
 
 ## GNSS, AIS settings

@@ -65,6 +65,12 @@ If you need to set your system localisation, click on the `Localisation` tab and
 
 ![](.gitbook/assets/rpisetup2.jpg)
 
+### Signal K settings
+
+#### Password
+
+#### Vessel data
+
 ## Updating {#updating-openplotter}
 
 From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.

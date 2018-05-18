@@ -39,15 +39,15 @@ If your SD card has 64GB or more, it will automatically be formatted as exFAT, w
 
 Connect power to the Raspberry Pi.
 
-OpenPlotter NOOBS installer will make a silent install, this means that you do not have to do anything. It will take several minutes to format partitions and install the system.
+OpenPlotter NOOBS installer will make a silent install, this means that you have to do anything. It will take several minutes to format partitions and install the system.
 
 Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
 
-![](../.gitbook/assets/startup.png)
+![OpenPlotter startup window](../.gitbook/assets/startup.png)
 
 You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 
-{% page-ref page="./" %}
+{% page-ref page="headless.md" %}
 
 ## First settings
 

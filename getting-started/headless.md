@@ -8,17 +8,17 @@ SSID: openplotter
 Password: 12345678
 
 {% hint style="danger" %}
-Please change the password as soon as possible in WiFi AP tab.
+Please change the password as soon as possible in WiFi AP tab
 {% endhint %}
 
-{% page-ref page="headless.md" %}
+{% page-ref page="../wifi-ap.md" %}
 
 ## Connecting
 
 
 
 {% hint style="info" %}
-Install [RealVNC](https://www.realvnc.com) Viewer on your laptop, desktop computer, tablet or smart-phone.
+Install [RealVNC](https://www.realvnc.com) Viewer on your laptop, desktop computer, tablet or smart-phone
 {% endhint %}
 
 * Open VNC Viewer and select _File -&gt; New connection_
@@ -33,8 +33,10 @@ Install [RealVNC](https://www.realvnc.com) Viewer on your laptop, desktop comput
 ![](../.gitbook/assets/vnc_client2.png)
 
 {% hint style="danger" %}
-Please change the password as soon as possible. See _Getting started_, _first settings_.
+Please change the password as soon as possible. See _Getting started_, _first settings_
 {% endhint %}
 
-{% page-ref page="headless.md" %}
+{% page-ref page="./" %}
+
+
 

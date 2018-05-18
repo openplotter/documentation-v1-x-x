@@ -75,6 +75,8 @@ If you need to set your system localisation, click on the _Localisation_ tab and
 
 #### Password
 
+![](../.gitbook/assets/sk_login.png)
+
 #### Vessel data
 
 ## Updating {#updating-openplotter}

@@ -5,7 +5,8 @@
 * [How does it work?](how-does-it-work.md)
 * [What do you need?](what-do-you-need.md)
 * [How to collaborate](how-to-collaborate.md)
-* [Getting started](getting-started.md)
+* [Getting started](getting-started/README.md)
+  * [Headless](getting-started/headless.md)
 * OpenCPN
   * Charts
 * [Signal K server](signal-k-server/README.md)

@@ -2,7 +2,7 @@
 
 First of all you have to put together at least all the required hardware parts:
 
-{% page-ref page="what-do-you-need.md" %}
+{% page-ref page="../what-do-you-need.md" %}
 
 Then, you have to run the software on your Raspberry. **OpenPlotter** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need. OpenPlotter is open-source and free.
 
@@ -21,7 +21,7 @@ To begin with, it's always a good idea to make sure you have formatted your SD c
 * Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`
 * In SD Formatter, select the drive letter for your SD card and format it.
 
-![SDFormatter V4.0](.gitbook/assets/sd-formatter.jpg)
+![SDFormatter V4.0](../.gitbook/assets/sd-formatter.jpg)
 
 {% hint style="warning" %}
 If your SD card has 64GB or more, it will automatically be formatted as exFAT, which is not compatible with OpenPlotter. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use OpenPlotter.
@@ -33,7 +33,7 @@ If your SD card has 64GB or more, it will automatically be formatted as exFAT, w
 * The necessary files will then be transferred to your SD card.
 * When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
-![](.gitbook/assets/boot1.png)
+![](../.gitbook/assets/boot1.png)
 
 ## First boot
 
@@ -43,24 +43,9 @@ OpenPlotter NOOBS installer will make a silent install, this means that you do n
 
 Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
 
-## H**eadless**
+You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 
-You can run OpenPlotter without monitor using any laptop, desktop computer, tablet or smart-phone to set a remote desktop.
-
-{% hint style="info" %}
-Install [RealVNC](https://www.realvnc.com) client on your laptop, desktop computer, tablet or smart-phone.
-{% endhint %}
-
-After creating the SD with OpenPlotter NOOBS installer, insert it into your Raspberry Pi, connect power and wait until a new WiFi network _openplotter_ appears on the list of available access points.
-
-SSID: openplotter  
-Password: 12345678
-
-{% hint style="danger" %}
-Please change the password as soon as possible in WiFi AP tab:
-{% endhint %}
-
-{% page-ref page="getting-started.md" %}
+{% page-ref page="./" %}
 
 ## First settings
 
@@ -68,11 +53,11 @@ The nativ monitor resolution for 800x480 monitors will be auto detected. The rig
 
 Go to `Menu > Preferences` and select `Raspberry Pi Configuration`
 
-![](.gitbook/assets/rpisetup1.jpg)
+![](../.gitbook/assets/rpisetup1.jpg)
 
 A window will open where you can personalize your system. 
 
-![](.gitbook/assets/rpisetup3.jpg)
+![](../.gitbook/assets/rpisetup3.jpg)
 
 {% hint style="danger" %}
 It is a good idea to change the password to make OpenPlotter more secure. Click on `Change Password` \(default password: raspberry\).
@@ -82,7 +67,7 @@ If you do not change the password, anyone will be able to connect to OpenPlotter
 
 If you need to set your system localisation, click on the `Localisation` tab and then on `Set Locale` \(language\), `Set Timezone`_,_ `Set Keyboard` and __`Set WiFi Country` buttons.
 
-![](.gitbook/assets/rpisetup2.jpg)
+![](../.gitbook/assets/rpisetup2.jpg)
 
 ### Signal K settings
 
@@ -108,7 +93,7 @@ When **c** increases, there is a minor change and means that only the OpenPlotte
 
 You can know what version you are running selecting the option `About` in `Help` menu.
 
-![](.gitbook/assets/about.png)
+![](../.gitbook/assets/about.png)
 
 ## Backup
 
@@ -116,7 +101,7 @@ You can know what version you are running selecting the option `About` in `Help`
 
 If our system gets damaged or unstable, we can recover it from the NOOBS installer and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
 
-![](.gitbook/assets/recovery.png)
+![](../.gitbook/assets/recovery.png)
 
 {% hint style="danger" %}
 **You will lose all data, manually installed programs and settings after recovering.**

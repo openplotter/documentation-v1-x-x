@@ -41,8 +41,6 @@ Connect power to the Raspberry Pi.
 
 OpenPlotter NOOBS installer will make a silent install, this means that you have to do nothing. It will take several minutes to format partitions and install the system.
 
-
-
 Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
 
 ![OpenPlotter startup window](../.gitbook/assets/startup.png)
@@ -55,7 +53,7 @@ You can also run OpenPlotter without monitor \(headless\) using any laptop, desk
 
 ## First settings
 
-Go to `Menu > Preferences` and select `Raspberry Pi Configuration`
+Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
 
 ![](../.gitbook/assets/rpisetup1.jpg)
 
@@ -64,12 +62,12 @@ A window will open where you can personalize your system.
 ![](../.gitbook/assets/rpisetup3.jpg)
 
 {% hint style="danger" %}
-It is a good idea to change the password to make OpenPlotter more secure. Click on `Change Password` \(default password: raspberry\).
+It is a good idea to change the password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
 
 If you do not change the password, anyone will be able to connect to OpenPlotter remotely. Please do it now.
 {% endhint %}
 
-If you need to set your system localisation, click on the `Localisation` tab and then on `Set Locale` \(language\), `Set Timezone`_,_ `Set Keyboard` and __`Set WiFi Country` buttons.
+If you need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_ \(language\), _Set Timezone, Set Keyboard_ and _Set WiFi Country_ buttons.
 
 ![](../.gitbook/assets/rpisetup2.jpg)
 
@@ -83,9 +81,11 @@ If you need to set your system localisation, click on the `Localisation` tab and
 
 From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
 
-Be sure you are connected to Internet and go to `Updates` in the OpenPlotter main menu and then to `Update OpenPlotter`. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
+Be sure you are connected to Internet and go to _Updates_ in the OpenPlotter main menu and then to _Update OpenPlotter_. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
 
 You can also update OpenCPN and plugins to the latest stable releases and restore the desktop settings if it has changed after an update.
+
+![](../.gitbook/assets/update.png)
 
 ### Version numbering {#version-numbering}
 
@@ -95,7 +95,7 @@ When **c** increases, there is a minor change and means that only the OpenPlotte
 
 **Alpha** means that some parts still need development. **Beta** means that all parts have been developed and there are not fatal errors but it needs to be tested by users in different scenarios. Text will be translated from English into other languages on this stage. **Stable** means that OpenPlotter code and dependencies have already been tested and there are not errors.
 
-You can know what version you are running selecting the option `About` in `Help` menu.
+You can know what version you are running selecting the option _About_ in _Help_ menu.
 
 ![](../.gitbook/assets/about.png)
 

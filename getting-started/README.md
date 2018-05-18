@@ -43,6 +43,8 @@ OpenPlotter NOOBS installer will make a silent install, this means that you do n
 
 Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
 
+![](../.gitbook/assets/startup.png)
+
 You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 
 {% page-ref page="./" %}

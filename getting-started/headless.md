@@ -2,13 +2,13 @@
 
 ## First boot
 
-After creating the SD with OpenPlotter NOOBS installer, insert it into your Raspberry Pi, connect power and wait until a new WiFi network _openplotter_ appears on the list of available access points.
+After creating the SD with OpenPlotter NOOBS installer, insert it into your Raspberry Pi, connect power and wait until a new WiFi network _openplotter_ appears on the list of available access points. It could take up to half an hour to complete the process.
 
 SSID: openplotter  
 Password: 12345678
 
 {% hint style="danger" %}
-Please change the password as soon as possible in WiFi AP tab
+Please change this password as soon as possible in WiFi AP tab
 {% endhint %}
 
 {% page-ref page="../wifi-ap.md" %}

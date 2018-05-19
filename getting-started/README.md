@@ -73,11 +73,24 @@ If you need to set your system localisation, click on the _Localisation_ tab and
 
 ### Signal K settings
 
+Signal K server provides many useful tools and you will have to visit its administration panel often. Go to _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
+
 #### Password
+
+Data visualization is open but settings is under authentication. Press _Login_ button upper right.
+
+User name: openplotter  
+Password: openplotter
 
 ![](../.gitbook/assets/sk_login.png)
 
+{% hint style="danger" %}
+Please change this password as soon as possible. Login and go to Signal K &gt; Security &gt; Users &gt; openplotter
+{% endhint %}
+
 #### Vessel data
+
+![](../.gitbook/assets/sk_vessel_data.png)
 
 ## Updating {#updating-openplotter}
 
@@ -105,7 +118,7 @@ You can know what version you are running selecting the option _About_ in _Help_
 
 ## Recovery system
 
-If our system gets damaged or unstable, we can recover it from the NOOBS installer and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
+If our system gets damaged or unstable, we can recover it from the NOOBS installer that resides on your SD and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
 
 ![](../.gitbook/assets/recovery.png)
 

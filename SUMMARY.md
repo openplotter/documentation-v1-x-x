@@ -10,7 +10,7 @@
 * OpenCPN
   * Charts
 * [Signal K server](signal-k-server/README.md)
-  * Plugin Config
+  * Signal K to NMEA 0183
 * Node-RED
 * Serial
   * Serial devices

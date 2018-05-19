@@ -85,7 +85,7 @@ Password: openplotter
 ![](../.gitbook/assets/sk_login.png)
 
 {% hint style="danger" %}
-Please change this password as soon as possible. Login and go to Signal K &gt; Security &gt; Users &gt; openplotter
+Please change this password as soon as possible. Login and go to _Signal K_ &gt; _Security_ &gt; _Users_ &gt; _openplotter_
 {% endhint %}
 
 #### Vessel data

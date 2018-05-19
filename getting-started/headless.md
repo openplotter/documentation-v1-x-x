@@ -15,14 +15,9 @@ Please change the password as soon as possible in WiFi AP tab
 
 ## Connecting
 
-
-
-{% hint style="info" %}
-Install [RealVNC](https://www.realvnc.com) Viewer on your laptop, desktop computer, tablet or smart-phone
-{% endhint %}
-
+* Install [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) on your laptop, desktop computer, tablet or smart-phone
 * Open VNC Viewer and select _File -&gt; New connection_
-* Introduce the address of OpenPlotter: 10.10.10.1 and press _OK_
+* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of an access point, you have to find out what address has the access point given to OpenPlotter.
 
 ![](../.gitbook/assets/vnc_client1.png)
 
@@ -33,7 +28,7 @@ Install [RealVNC](https://www.realvnc.com) Viewer on your laptop, desktop comput
 ![](../.gitbook/assets/vnc_client2.png)
 
 {% hint style="danger" %}
-Please change the password as soon as possible. See _Getting started_, _first settings_
+Please change this password as soon as possible. See _Getting started_, _first settings_
 {% endhint %}
 
 {% page-ref page="./" %}

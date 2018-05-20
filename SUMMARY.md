@@ -21,7 +21,7 @@
   * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
-* WiFI AP
+* Network
 * Actions
 * GPIO
   * Digital sensors

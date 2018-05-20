@@ -8,10 +8,10 @@ SSID: openplotter
 Password: 12345678
 
 {% hint style="danger" %}
-Please change this password as soon as possible in WiFi AP tab
+Please change this password as soon as possible in _Network_ tab
 {% endhint %}
 
-{% page-ref page="../wifi-ap.md" %}
+{% page-ref page="../network.md" %}
 
 ## Connecting
 

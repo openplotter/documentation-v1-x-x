@@ -27,8 +27,8 @@ To begin with, it's always a good idea to make sure you have formatted your SD c
 If your SD card has 64GB or more, it will automatically be formatted as exFAT, which is not compatible with OpenPlotter. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use OpenPlotter.
 {% endhint %}
 
-* Download the latest NOOBS installer version of **OpenPlotter.** It is a compressed file of about 1GB so it will take a while. 
-* Extract the files from the zip.
+* [Download the latest NOOBS installer version of **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** It is a compressed file of about 1GB so it will take a while. 
+* Extract the files from the compressed file **openplotter\_vx.x.x\_noobs.zip**
 * Drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 * The necessary files will then be transferred to your SD card.
 * When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.

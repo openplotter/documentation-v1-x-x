@@ -47,7 +47,7 @@ Please change this password as soon as possible. Login and go to _Signal K_ &gt;
 
 #### Vessel data
 
-If you are going to share data with other boats you should have an unique identifier. Login to Signal K and go to _Server_ &gt; _Vessel_ _data_ and change at least your bot name and MMSI.
+If you are going to share data with other boats you should have an unique identifier. Login to Signal K and go to _Server_ &gt; _Vessel_ _data_ and change at least your boat name and MMSI.
 
 Here you can also provide data about your boat that could be useful for some Signal K tools.
 

@@ -1,5 +1,7 @@
 # First settings
 
+## General settings
+
 Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
 
 ![](../.gitbook/assets/rpisetup1.jpg)

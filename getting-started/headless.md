@@ -11,7 +11,7 @@ Password: 12345678
 
 * Install [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) on your laptop, desktop computer, tablet or smart-phone
 * Open VNC Viewer and select _File -&gt; New connection_
-* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of an access point, you have to find out what address has the access point given to OpenPlotter.
+* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of another access point, you have to find out what address has the access point given to OpenPlotter.
 
 ![](../.gitbook/assets/vnc_client1.png)
 

@@ -28,7 +28,7 @@ Please change this password as soon as possible in _Network_ tab
 ![](../.gitbook/assets/vnc_client2.png)
 
 {% hint style="danger" %}
-Please change this password as soon as possible. See _Getting started_, _first settings_
+Please change this password as soon as possible. See _First settings._
 {% endhint %}
 
 {% page-ref page="./" %}

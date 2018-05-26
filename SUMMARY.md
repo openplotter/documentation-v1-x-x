@@ -6,6 +6,7 @@
 * [What do you need?](what-do-you-need.md)
 * [How to collaborate](how-to-collaborate.md)
 * [Getting started](getting-started/README.md)
+  * [First settings](getting-started/first-settings.md)
   * [Headless](getting-started/headless.md)
 * OpenCPN
   * Charts

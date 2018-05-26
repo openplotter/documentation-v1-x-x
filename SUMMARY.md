@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [What is OpenPlotter?](README.md)
 * [Features](features.md)
@@ -15,15 +15,15 @@
 * Node-RED
 * Serial
   * Serial devices
-* Kplex
+* [Kplex](kplex.md)
 * [Pypilot](pypilot/README.md)
   * [Pypilot hardware](pypilot/pypilot-hardware.md)
   * Compass calibration
   * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
-* Network
-* Actions
+* [Network](network.md)
+* [Actions](actions.md)
 * GPIO
   * Digital sensors
 * I2C

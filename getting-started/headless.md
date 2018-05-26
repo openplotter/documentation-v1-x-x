@@ -7,17 +7,11 @@ After creating the SD with OpenPlotter NOOBS installer, insert it into your Rasp
 SSID: openplotter  
 Password: 12345678
 
-{% hint style="danger" %}
-Please change this password as soon as possible in _Network_ tab
-{% endhint %}
-
-{% page-ref page="../network.md" %}
-
 ## Connecting
 
 * Install [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) on your laptop, desktop computer, tablet or smart-phone
 * Open VNC Viewer and select _File -&gt; New connection_
-* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of an access point, you have to find out what address has the access point given to OpenPlotter.
+* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of another access point, you have to find out what address has the access point given to OpenPlotter.
 
 ![](../.gitbook/assets/vnc_client1.png)
 
@@ -27,11 +21,13 @@ Please change this password as soon as possible in _Network_ tab
 
 ![](../.gitbook/assets/vnc_client2.png)
 
+## Change passwords
+
 {% hint style="danger" %}
-Please change this password as soon as possible. See _Getting started_, _first settings_
+Please change the WiFi access point defaul password and the _pi_ user default password as soon as possible. If you do not do this, anyone will be able to connect to your system. See _First settings._
 {% endhint %}
 
-{% page-ref page="./" %}
+{% page-ref page="first-settings.md" %}
 
 
 

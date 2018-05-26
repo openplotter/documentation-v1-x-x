@@ -27,8 +27,8 @@ To begin with, it's always a good idea to make sure you have formatted your SD c
 If your SD card has 64GB or more, it will automatically be formatted as exFAT, which is not compatible with OpenPlotter. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use OpenPlotter.
 {% endhint %}
 
-* Download the latest NOOBS installer version of **OpenPlotter.** It is a compressed file of about 1GB so it will take a while. 
-* Extract the files from the zip.
+* [Download the latest NOOBS installer version of **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** It is a compressed file of about 1GB so it will take a while. 
+* Extract the files from the compressed file **openplotter\_vx.x.x\_noobs.zip**
 * Drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
 * The necessary files will then be transferred to your SD card.
 * When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
@@ -47,56 +47,22 @@ Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will 
 
 The native monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If you have such a monitor, restart.
 
+OpenPlotter is configured as a WiFi access point by default. You can connect to it using this pasword:
+
+SSID: openplotter  
+Password: 12345678
+
+{% hint style="danger" %}
+You should change this password as soon as possible. Other important settings should be changed, please go to _First settings_ page to know how.
+{% endhint %}
+
+{% page-ref page="first-settings.md" %}
+
 You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 
 {% page-ref page="headless.md" %}
 
-## First settings
-
-Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
-
-![](../.gitbook/assets/rpisetup1.jpg)
-
-A window will open where you can personalize your system. 
-
-![](../.gitbook/assets/rpisetup3.jpg)
-
-{% hint style="danger" %}
-It is a good idea to change the password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
-
-If you do not change the password, anyone will be able to connect to OpenPlotter remotely. Please do it now.
-{% endhint %}
-
-If you need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_ \(language\), _Set Timezone, Set Keyboard_ and _Set WiFi Country_ buttons.
-
-![](../.gitbook/assets/rpisetup2.jpg)
-
-### Signal K settings
-
-Signal K server provides many useful tools and you will have to visit its administration panel often. Go to _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
-
-#### Password
-
-Data visualization is open but settings is under authentication. Press _Login_ button upper right.
-
-User name: openplotter  
-Password: openplotter
-
-![](../.gitbook/assets/sk_login.png)
-
-{% hint style="danger" %}
-Please change this password as soon as possible. Login and go to _Signal K_ &gt; _Security_ &gt; _Users_ &gt; _openplotter_
-{% endhint %}
-
-#### Vessel data
-
-If you are going to share data with other boats you should have an unique identifier. Login to Signal K and go to _Server_ &gt; _Vessel_ _data_ and change at least your bot name and MMSI.
-
-Here you can also provide data about your boat that could be useful for some Signal K tools.
-
-![](../.gitbook/assets/sk_vessel_data.png)
-
-## Updating {#updating-openplotter}
+## Updating
 
 From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
 

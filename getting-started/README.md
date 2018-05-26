@@ -47,6 +47,17 @@ Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will 
 
 The native monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If you have such a monitor, restart.
 
+OpenPlotter is configured as a WiFi access point by default. You can connect to it using this pasword:
+
+SSID: openplotter  
+Password: 12345678
+
+{% hint style="danger" %}
+Please change this password as soon as possible in _Network_ tab. There you can disable the access point and set another network mode.
+{% endhint %}
+
+{% page-ref page="./" %}
+
 You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 
 {% page-ref page="headless.md" %}

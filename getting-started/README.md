@@ -53,10 +53,10 @@ SSID: openplotter
 Password: 12345678
 
 {% hint style="danger" %}
-Please change this password as soon as possible in _Network_ tab. There you can disable the access point and set another network mode.
+You should change this password as soon as possible. Other important settings should be changed, please go to _First settings_ page to know how.
 {% endhint %}
 
-{% page-ref page="./" %}
+{% page-ref page="first-settings.md" %}
 
 You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
 

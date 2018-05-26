@@ -18,7 +18,15 @@ If you need to set your system localisation, click on the _Localisation_ tab and
 
 ![](../.gitbook/assets/rpisetup2.jpg)
 
-### Signal K settings
+## Network settings
+
+{% hint style="danger" %}
+If a WiFi access point is enabled please change the default password as soon as possible in _Network_ tab. There you can disable the access point or set another network mode too.
+{% endhint %}
+
+{% page-ref page="../network.md" %}
+
+## Signal K settings
 
 Signal K server provides many useful tools and you will have to visit its administration panel often. Go to _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
 

@@ -1,82 +1,82 @@
 # Features
 
 {% hint style="success" %}
-**OpenCPN**. Concise and robust navigation software. Chart a course and track your position.
+**OpenCPN**. Software de navegación preciso y robusto. Muestra el rumbo en la carta y registra tu posición.
 {% endhint %}
 
 {% hint style="success" %}
-**zyGrib**. Weather data download and visualization of GRIB files format 1 and 2.
+**zyGrib**. Descarga datos meteorológicos y visualiza archivos GRIB \(formato 1 y 2\).
 {% endhint %}
 
 {% hint style="success" %}
-**SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
+**SDR-AIS**. Recibe y decodifica datos AIS usando adaptadores \(dongles\) receptores baratos de DVB-T. Incluye herramientas de calibración.
 {% endhint %}
 
 {% hint style="success" %}
-**NMEA 0183**. Receive, filter, multiplex and send NMEA data through serial and network inputs and outputs.
+**NMEA 0183**. Recibe, filtra, multiplexa y envía datos NMEA a través de entradas y salidas serie y de red.
 {% endhint %}
 
 {% hint style="success" %}
-**NMEA 2000**. Connect an USB adapter to your N2K network to receive and send data.
+**NMEA 2000**. Conecte un adaptador USB a su red N2K para recibir y enviar datos.
 {% endhint %}
 
 {% hint style="success" %}
-**Signal K Server**. Convert data from sensors to Signal K and exchange data between all formats.
+**Servidor Signal K**. Convierta los datos recibidos desde sensores a Signal K e intercambie datos a cualquier formato.
 {% endhint %}
 
 {% hint style="success" %}
-**Compass**. Heading, heel and trim from an IMU sensor. Tilt compensated. Self-calibration.
+**Compás**. Datos de rumbo, escora y ajuste desde un sensor IMU. Inclinación compensada. Auto calibración.
 {% endhint %}
 
 {% hint style="success" %}
-**Autopilot**. Build a cheap, accurate and complete autopilot with pypilot.
+**Piloto automático**. Construya un piloto automático barato, preciso y completo con pypilot.
 {% endhint %}
 
 {% hint style="success" %}
-**WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
+**Punto de acceso WiFi**. Comparta datos NMEA y Signal K con portátiles, tabletas y teléfonos.
 {% endhint %}
 
 {% hint style="success" %}
-**Headless**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+**No dependa de una pantalla**. Acceda al escritorio de OpenPlotter desde la bañera a través de sus dispositivos móviles.
 {% endhint %}
 
 {% hint style="success" %}
-**Dashboards**. Build instrument panels to visualize data from your mobile devices.
+**Paneles**. Construya paneles de instrumentos para ver datos desde sus dispositivos móviles.
 {% endhint %}
 
 {% hint style="success" %}
-**1W sensors**. Connect multiple temperature sensors. Motor, exhaust, fridge, water ...
+**Sensores 1W**. Conecte múltiples sensores de temperatura. Motor, escape, nevera, agua...
 {% endhint %}
 
 {% hint style="success" %}
-**I2C sensors**. Connect temperature, pressure, humidity or light sensors.
+**Sensores I2C**. Conecte sensores de temperatura, presión, humedad o luminosidad.
 {% endhint %}
 
 {% hint style="success" %}
-**Analog sensors**. Measure battery charge, tank level or any data from an analog sensor.
+**Sensores Analógicos**. Mida la carga de las baterías, niveles de tanques o cualquier dato de un sensor analógico.
 {% endhint %}
 
 {% hint style="success" %}
-**Digital inputs**. Connect common or specials switches. Detect smoke, opening doors, motion ...
+**Entrada de datos digitales**. Conecte interruptores especiales o normales. Detección de humos, puertas abiertas, movimientos...
 {% endhint %}
 
 {% hint style="success" %}
-**Digital outputs**. Activate relays, LEDs, buzzers ...
+**Salidas digitales outputs**. Active relés, LEDs, alarmas...
 {% endhint %}
 
 {% hint style="success" %}
-**Actions**. Use date, time or value of any data flowing through your system as a trigger to run multiple actions.
+**Acciones**. Utilice fechas, tiempo o valores de cualquier dato que fluya por su sistema como desencadenante de múltiples acciones.
 {% endhint %}
 
 {% hint style="success" %}
-**Share data**. Publish data from your boat on Twitter or send emails and SMS automatically.
+**Compartir datos**. Publique datos desde su barco en Twitter o envíe correos electrónicos o SMS automáticamente.
 {% endhint %}
 
 {% hint style="success" %}
-**Remote Monitoring**. Receive or send data to your boat while you are away.
+**Monitorización remota**. Reciba o envíe datos a su barco cuando no esté en él.
 {% endhint %}
 
 {% hint style="success" %}
-**Open tools**. Use multiple built in tools to interact with the system and create your own ones.
+**Herramientas libres**. Use múltiples herramientas incorporadas para interactuar con el sistema y cree sus propias herramientas.
 {% endhint %}
 

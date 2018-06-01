@@ -22,7 +22,7 @@
   * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
-* Network
+* [Network](network.md)
 * Actions
 * GPIO
   * Digital sensors

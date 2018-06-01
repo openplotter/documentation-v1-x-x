@@ -1,7 +1,7 @@
 # Características
 
 {% hint style="success" %}
-**OpenCPN**. Software de navegación preciso y robusto. Muestra el rumbo en la carta y registra tu posición.
+**OpenCPN**. Software de navegación preciso y robusto. Muestra el rumbo en la carta y registra su posición.
 {% endhint %}
 
 {% hint style="success" %}
@@ -79,4 +79,6 @@
 {% hint style="success" %}
 **Herramientas libres**. Use múltiples herramientas incorporadas para interactuar con el sistema y cree sus propias herramientas.
 {% endhint %}
+
+
 

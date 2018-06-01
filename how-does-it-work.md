@@ -1,20 +1,20 @@
-# How does it work?
+# ¿Cómo funciona?
 
-OpenPlotter can manage NMEA 0183, NMEA 2000 and Signal K data.
+OpenPlotter puede manejar datos NMEA 0183, NMEA 2000 y Signal K.
 
-All data entering in NMEA 0183 and 2000 format are translated into Signal K format. Some sensors generate data in Signal K format directly.
+Todos los datos recibidos en formato NMEA 0183 y 2000 son convertidos a formato Signal K. Algunos sensores generan directamente datos en formato Signal K.
 
-Once data is converted into Signal K, you can display it in the different apps for visualization or convert it back to NMEA 0183 and 2000 to send it to other devices or apps.
+Una vez que los datos se han convertido a Signal K, usted puede mostrarlos en distintas aplicaciones, para visualizarlos o convertirlos de nuevo a NMEA 0183 y 2000 para enviarlos a otros dispositivos o aplicaciones.
 
-## Data flow
+## Flujo de datos
 
 ![](.gitbook/assets/nav_data3.png)
 
 ## NMEA 0183
 
-OpenPlotter can get NMEA 0183 data from connected serial devices \(USB, UART...\) or connecting to a TCP or UDP network sources.
+OpenPlotter puede obtener datos NMEA 0183 desde dispositivos serie conectados \(USB, UART...\) o conectándose a fuentes de datos en red TCP o UDP.
 
-Define serial devices on _Serial_ tab and network connections on _Kplex_ tab:
+Defina  dispositivos serie en la pestaña \[_Serial\]_ y conexiones de red en la pestaña _Kplex_:
 
 {% page-ref page="serial/" %}
 

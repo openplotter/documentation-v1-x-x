@@ -10,7 +10,7 @@ You can connect your laptop, plotter... to the ethernet port of the Raspberry an
 
 ![](.gitbook/assets/network_modes.png)
 
-Choose one of the available standard configurations. To activate the selection click on _Set_.
+Choose one of the available standard configurations and click on _Set_ to enable it.
 
 ![](.gitbook/assets/network_ui.png)
 

@@ -1,12 +1,12 @@
 # Empezando
 
-Antes que nada reúna por lo menos los elementos requeridos de hardwareFirst of all you have to put together at least all the required hardware parts:
+Antes que nada reúna por lo menos los elementos requeridos de hardware:
 
 {% page-ref page="../what-do-you-need.md" %}
 
-Then, you have to run the software on your Raspberry. **OpenPlotter** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need. OpenPlotter is open-source and free.
+Después, ejecute el software en su Raspberry. **OpenPlotter** es una versión modificada de [Raspbian](https://www.raspbian.org/), el sistema operativo oficial para la Raspberry Pi. Tiene todo lo que pueda necesitar. OpenPlotter es software de código abierto y libre.
 
-## Installing OpenPlotter
+## Instalando OpenPlotter
 
 Raspberry Pi, and most embedded systems, uses an SD card as Hard Disk. Almost any micro-SD-compatible card will work on your Raspberry.
 

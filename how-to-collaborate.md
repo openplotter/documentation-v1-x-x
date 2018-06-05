@@ -10,9 +10,9 @@
 
 Hágase con una Raspberry Pi y los elementos necesarios, descargue OpenPlotter y pruebe y pruebe y pruebe...
 
-Informe de los errores y solicite nuevas funcionalidades en [OpenMarine forums](http://forum.openmarine.net/).
+Informe de los errores y solicite nuevas funcionalidades en los [foros de OpenMarine](http://forum.openmarine.net/).
 
-Spread the word among your friends in ports and forums.
+Corra la voz entre sus amitos en puertos y foros.
 
 If you want to help translating this documentation to your language get in [contact with us](http://www.sailoog.com/contact). English is not our first language, so please feel free to correct any mistake.
 

@@ -11,9 +11,9 @@
 * OpenCPN
   * Charts
 * [Signal K server](signal-k-server/README.md)
-  * Signal K to NMEA 0183
+  * Signal K a NMEA 0183
 * Node-RED
-* Serial
+* Serie
   * Serial devices
 * Kplex
 * [Pypilot](pypilot/README.md)

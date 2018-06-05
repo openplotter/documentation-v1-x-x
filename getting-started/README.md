@@ -1,6 +1,6 @@
-# Getting started
+# Empezando
 
-First of all you have to put together at least all the required hardware parts:
+Antes que nada reúna por lo menos los elementos requeridos de hardwareFirst of all you have to put together at least all the required hardware parts:
 
 {% page-ref page="../what-do-you-need.md" %}
 

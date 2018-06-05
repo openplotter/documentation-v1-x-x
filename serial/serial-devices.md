@@ -1,2 +1,2 @@
-# Serial devices
+# Dispositivos serie
 

@@ -14,7 +14,7 @@
   * [Signal K a NMEA 0183](signal-k-server/signal-k-to-nmea-0183.md)
 * [Node-RED](node-red.md)
 * [Serie](serial/README.md)
-  * [Serial devices](serial/serial-devices.md)
+  * [Dispositivos serie](serial/serial-devices.md)
 * [Kplex](kplex.md)
 * [Pypilot](pypilot/README.md)
   * [Hardware para Pypilot](pypilot/pypilot-hardware.md)

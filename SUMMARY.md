@@ -6,7 +6,7 @@
 * [¿Qué se necesita?](what-do-you-need.md)
 * [Cómo colaborar](how-to-collaborate.md)
 * [Empezando](getting-started/README.md)
-  * [First settings](getting-started/first-settings.md)
+  * [Configuraciones iniciales](getting-started/first-settings.md)
   * [Headless](getting-started/headless.md)
 * [OpenCPN](opencpn/README.md)
   * [Charts](opencpn/charts.md)

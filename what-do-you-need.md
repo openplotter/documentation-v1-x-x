@@ -8,10 +8,10 @@ Necesita al menos estos elementos para ejecutar el _software_ y tiene dos opcion
 
 Si necesita ayuda con estos elementos básicos consulte la [documentación oficial de Raspberry Pi](https://www.raspberrypi.org/learning/hardware-guide/). Puede comprar estos elementos básicos en cualquier [distribuidor oficial](https://www.raspberrypi.org/products/) o en cualquier tienda de Raspberry.
 
-### Monitor option
+### Opción usando un monitor
 
 * **Raspberry Pi 3**
-* **Box**
+* **Caja**
 * **Power supply**
 * **HDMI monitor**
 * **Keyboard and mouse**

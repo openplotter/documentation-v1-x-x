@@ -41,7 +41,7 @@
   * Deviation Table
   * Calculate
   * NMEA 0183 generator
-  * Analog ADS1115
+  * ADS1115 analógico
   * Analog Firmata
   * [Moitessier HAT](tools/moitessier-hat.md)
 * FAQ

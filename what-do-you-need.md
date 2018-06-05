@@ -12,10 +12,10 @@ Si necesita ayuda con estos elementos básicos consulte la [documentación ofici
 
 * **Raspberry Pi 3**
 * **Caja**
-* **Power supply**
-* **HDMI monitor**
-* **Keyboard and mouse**
-* **SD card with OpenPlotter** \(_the software_\)
+* **Fuente de alimentación**
+* **Monitor HDMI**
+* **Teclado y ratón**
+* **Tarjeta SD con OpenPlotter** \(_el software_\)
 
 ![](.gitbook/assets/start.png)
 

@@ -1,2 +1,2 @@
-# SDR receiver
+# Receptor SDR
 

@@ -37,7 +37,7 @@
 * [SMS](sms.md)
 * [Startup](startup.md)
 * [Tools](tools/README.md)
-  * [SDR receiver](tools/sdr-receiver.md)
+  * [Receptor SDR](tools/sdr-receiver.md)
   * [Deviation Table](tools/deviation-table.md)
   * [Calculate](tools/calculate.md)
   * [NMEA 0183 generator](tools/nmea-0183-generator.md)

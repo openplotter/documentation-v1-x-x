@@ -45,15 +45,15 @@ Una vez que el instalador NOOBS de Once the OpenPlotter haya terminado de instal
 
 ![OpenPlotter startup window](../.gitbook/assets/startup.png)
 
-The native monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If you have such a monitor, restart.
+Se autodetectará la resolución nativa del monitor de 800x480. ¡La configuración correcta funcionará en el próximo arranque! Si tiene un monitor, reinície el sistema de nuevo.
 
-OpenPlotter is configured as a WiFi access point by default. You can connect to it using this pasword:
+OpenPlotter está configurado por defecto como un punto de acceso WiFi. Puede conectarse a él usando esta contraseña:
 
-SSID: openplotter  
-Password: 12345678
+Nombre de la red \(SSID\): openplotter  
+Contraseña: 12345678
 
 {% hint style="danger" %}
-You should change this password as soon as possible. Other important settings should be changed, please go to _First settings_ page to know how.
+Debe cambiar la contraseña lo antes que pueda. Debiera cambiar también otras configuraciones importantes; por favor, vaya a la página _Primeras configuraciones_ para ver cómo hacerlo. 
 {% endhint %}
 
 {% page-ref page="first-settings.md" %}

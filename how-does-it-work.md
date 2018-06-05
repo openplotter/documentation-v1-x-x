@@ -28,7 +28,7 @@ Si tiene dispositivos que generen datos NMEA 2000 o datos Signal K y los quiere 
 
 ## NMEA 2000
 
-Para obtener y enviar datos NMEA 2000 necesita conectar un convertidor serie como nuestro  módulo CAN-USB. El Actisense NGT-1 también es compatible.
+Para obtener y enviar datos NMEA 2000 necesita conectar un convertidor serie como nuestro  CAN-USB stick. El Actisense NGT-1 también es compatible.
 
 {% page-ref page="can/can-usb-stick.md" %}
 

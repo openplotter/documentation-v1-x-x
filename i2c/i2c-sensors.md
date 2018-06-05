@@ -1,2 +1,2 @@
-# I2C sensors
+# Sensores I2C
 

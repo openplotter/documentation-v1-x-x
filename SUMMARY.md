@@ -27,7 +27,7 @@
 * [GPIO](gpio/README.md)
   * [Sensores digitales](gpio/digital-sensors.md)
 * [I2C](i2c/README.md)
-  * [I2C sensors](i2c/i2c-sensors.md)
+  * [Sensores I2C](i2c/i2c-sensors.md)
 * [1W](1w/README.md)
   * [1W sensors](1w/1w-sensors.md)
 * [SPI](spi/README.md)

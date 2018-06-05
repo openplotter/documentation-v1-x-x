@@ -8,13 +8,13 @@ Después, ejecute el software en su Raspberry. **OpenPlotter** es una versión m
 
 ## Instalando OpenPlotter
 
-Raspberry Pi, and most embedded systems, uses an SD card as Hard Disk. Almost any micro-SD-compatible card will work on your Raspberry.
+Raspberry Pi, y la mayoría de sistemas embebidos, utilizan una tarjeta SD como disco duro. Casi todas las tarjetas compatibles micro-SD funcionarán en su Raspberry.
 
 {% hint style="warning" %}
-A minimum of 8GB is required but 16GB is recommended.
+Se requiere un mínimo de 8GB pero se recomiendan 16GB.
 {% endhint %}
 
-To begin with, it's always a good idea to make sure you have formatted your SD card. You'll need to make sure your computer has a built-in SD card reader, or you can use an USB SD card reader.
+Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarjeta SD. Asegúrese de que su ordenador tiene un lector de tarjetas SD integrado o utilice, en otro caso, un lector USB de tarjetas SD.
 
 * Visit the [SD Association’s website](http://www.sdcard.org//) and download [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) program for either Windows or Mac.
 * Follow the instructions to install the software.

@@ -53,7 +53,7 @@ Nombre de la red \(SSID\): openplotter
 Contraseña: 12345678
 
 {% hint style="danger" %}
-Debe cambiar la contraseña lo antes que pueda. Debiera cambiar también otras configuraciones importantes; por favor, vaya a la página _Primeras configuraciones_ para ver cómo hacerlo. 
+Debe cambiar la contraseña lo antes que pueda. Debiera cambiar también otras configuraciones importantes; por favor, vaya a la página _Configuraciones iniciales_ para ver cómo hacerlo. 
 {% endhint %}
 
 {% page-ref page="first-settings.md" %}

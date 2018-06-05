@@ -1,2 +1,2 @@
-# 1W sensors
+# Sensores 1W
 

@@ -42,7 +42,7 @@
   * Calculate
   * NMEA 0183 generator
   * ADS1115 analógico
-  * Analog Firmata
+  * Firmata analógico
   * [Moitessier HAT](tools/moitessier-hat.md)
 * FAQ
 * [License](license.md)

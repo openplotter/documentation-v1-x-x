@@ -35,13 +35,13 @@ Si su tarjeta micro-SD tiene 64GB o más, será automáticamente formateada como
 
 ![](../.gitbook/assets/boot1.png)
 
-## First boot
+## Primer arranque
 
-Connect power to the Raspberry Pi.
+Conecte la alimentación a su Raspberry Pi.
 
-OpenPlotter NOOBS installer will make a silent install, this means that you have to do nothing. It will take several minutes to format partitions and install the system.
+El instalador NOOBS de OpenPlotter hará una instalación silenciosa; esto es, usted no tendrá que hacer nada. Este proceso tardará unos cuantos minutos, para formatear e instalar el sistema.
 
-Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
+Una vez que el instalador NOOBS de Once the OpenPlotter haya terminado de instalar el sistema, OpenPlotter se iniciará automáticamente cada vez que conecte la Raspberry Pi.
 
 ![OpenPlotter startup window](../.gitbook/assets/startup.png)
 

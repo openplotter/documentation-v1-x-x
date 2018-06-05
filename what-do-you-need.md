@@ -33,7 +33,7 @@ Si necesita ayuda con estos elementos básicos consulte la [documentación ofici
 
 ## Elementos opcionales
 
-We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
+Oficialmente desarrollamos, damos soporte o distribuimos algunos dispositivos específiciamente disñados para ser usados con OpenPlotter aunque puede usarlos con otros sistemas:
 
 {% page-ref page="tools/moitessier-hat.md" %}
 
@@ -41,7 +41,7 @@ We officially develop, support or distribute some devices which are specifically
 
 {% page-ref page="pypilot/pypilot-hardware.md" %}
 
-Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
+Los siguientes capítulos contienen una lista de dispositivos soportados para comunicarse con su barco y sus sensores para recoger datos del entorno:
 
 {% page-ref page="serial/serial-devices.md" %}
 

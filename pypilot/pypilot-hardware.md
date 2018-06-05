@@ -1,4 +1,4 @@
-# Pypilot hardware
+# Hardware para Pypilot
 
 ## What do you need?
 

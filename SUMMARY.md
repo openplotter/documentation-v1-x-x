@@ -17,7 +17,7 @@
   * [Serial devices](serial/serial-devices.md)
 * [Kplex](kplex.md)
 * [Pypilot](pypilot/README.md)
-  * [Pypilot hardware](pypilot/pypilot-hardware.md)
+  * [Hardware para Pypilot](pypilot/pypilot-hardware.md)
   * [Calibración del compás](pypilot/compass-calibration.md)
   * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)

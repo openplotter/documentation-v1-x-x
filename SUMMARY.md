@@ -43,7 +43,7 @@
   * [NMEA 0183 generator](tools/nmea-0183-generator.md)
   * [ADS1115 analógico](tools/analog-ads1115.md)
   * [Firmata analógico](tools/analog-firmata.md)
-  * [Moitessier HAT](tools/moitessier-hat.md)
+  * [Sombrero \(Hat\) Moitessier](tools/moitessier-hat.md)
 * [FAQ](faq.md)
 * [License](license.md)
 * [Credits](credits.md)

@@ -1,4 +1,4 @@
-# Moitessier HAT
+# Sombrero \(Hat\) Moitessier
 
 ![](../.gitbook/assets/moitessier-hat-quick-start-guide-page1.jpg)
 

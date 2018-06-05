@@ -10,7 +10,7 @@ Si necesita ayuda con estos elementos básicos consulte la [documentación ofici
 
 ### Opción usando un monitor
 
-* **Raspberry Pi 3**
+* **Raspberry Pi 3B or 3B+** \(RPi Zero o 1 no son compatibles. RPi 2B podría tener algunas limitaciones\)
 * **Caja**
 * **Fuente de alimentación**
 * **Monitor HDMI**
@@ -21,7 +21,7 @@ Si necesita ayuda con estos elementos básicos consulte la [documentación ofici
 
 ### Opción sin pantalla
 
-* **Raspberry Pi 3**
+* **Raspberry Pi 3B or 3B+** \(RPi Zero o 1 no son compatibles. RPi 2B podría tener algunas limitaciones\)
 * **Caja**
 * **Fuente de alimentación**
 * **Tarjeta SD con OpenPlotter** \(_el software_\)

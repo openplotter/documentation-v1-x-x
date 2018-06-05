@@ -27,11 +27,11 @@ Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarje
 Si su tarjeta micro-SD tiene 64GB o más, será automáticamente formateada como exFAT, que no es compatible con OpenPlotter. Siga [estas instrucciones](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) para formatear su tarjeta micro-SD como FAT32 para que pueda usar OpenPlotter.
 {% endhint %}
 
-* [Download the latest NOOBS installer version of **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** It is a compressed file of about 1GB so it will take a while. 
-* Extract the files from the compressed file **openplotter\_vx.x.x\_noobs.zip**
-* Drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
-* The necessary files will then be transferred to your SD card.
-* When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
+* [Bájese la última versión del instalador NOOBS de **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** Es un archivo comprimido de cerca de 1GB, por lo que puede llevar un tiempo. 
+* Descomprima el archivo **openplotter\_vx.x.x\_noobs.zip**
+* Seleccione todos los archivos y carpetas presentes dentro de la carpeta extraída NOOBS y arrástrelos adentro de la tarjeta micro-SD.
+* Así, todos los archivos necesarios se transferirán a la tarjeta micro-SD.
+* Cuando haya terminado, extraiga en modo seguro la tarjeta micro-SD e insértela en su  Raspberry Pi.
 
 ![](../.gitbook/assets/boot1.png)
 

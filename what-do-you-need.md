@@ -1,6 +1,6 @@
-# What do you need?
+# ¿Qué se necesita?
 
-You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+Necesitará al menos las piezas mínimas necesarias y puede que algunos accesorios opcionales, dependiendo de qué tipo de datos deseamos obtener, procesar o mostrar y qué tipo de equipo tenga ya instalado en su barco..
 
 ## Required items
 

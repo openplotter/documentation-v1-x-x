@@ -8,23 +8,23 @@ Después, ejecute el software en su Raspberry. **OpenPlotter** es una versión m
 
 ## Instalando OpenPlotter
 
-Raspberry Pi, y la mayoría de sistemas embebidos, utilizan una tarjeta SD como disco duro. Casi todas las tarjetas compatibles micro-SD funcionarán en su Raspberry.
+Raspberry Pi, y la mayoría de sistemas embebidos, utilizan una tarjeta micro-SD como disco duro. Casi todas las tarjetas compatibles micro-SD funcionarán en su Raspberry.
 
 {% hint style="warning" %}
 Se requiere un mínimo de 8GB pero se recomiendan 16GB.
 {% endhint %}
 
-Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarjeta SD. Asegúrese de que su ordenador tiene un lector de tarjetas SD integrado o utilice, en otro caso, un lector USB de tarjetas SD.
+Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarjeta micro-SD. Asegúrese de que su ordenador tiene un lector de tarjetas SD integrado o utilice, en otro caso, un lector USB de tarjetas micro-SD.
 
-* Visit the [SD Association’s website](http://www.sdcard.org//) and download [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) program for either Windows or Mac.
-* Follow the instructions to install the software.
-* Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`
-* In SD Formatter, select the drive letter for your SD card and format it.
+* Visite la [Web de la Asociación SD](http://www.sdcard.org) y descargue el programa [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows o Mac.
+* Siga las instrucciones para instalar el programa.
+* Inserte su tarjeta micro-SD en lector de tarjetas SD de su ordenador o portátil y tome nota de la letra de unidad asignada a aquella, por ejemplo `F:/`
+* En SD Formatter, selecciones la letra de unidad de su tarjeta micro-SD y formatéela.
 
 ![SDFormatter V4.0](../.gitbook/assets/sd-formatter.jpg)
 
 {% hint style="warning" %}
-If your SD card has 64GB or more, it will automatically be formatted as exFAT, which is not compatible with OpenPlotter. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use OpenPlotter.
+Si su tarjeta micro-SD tiene 64GB o más, será automáticamente formateada como exFAT, que no es compatible con OpenPlotter. Follow [these instructions](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) to force your SD card to format as FAT32 so that you can use OpenPlotter.
 {% endhint %}
 
 * [Download the latest NOOBS installer version of **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** It is a compressed file of about 1GB so it will take a while. 

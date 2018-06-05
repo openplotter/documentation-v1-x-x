@@ -18,19 +18,19 @@ Si quiere colaborar traduciendo esta documentación a su idioma [contacte con no
 
 Si quiere ayudar traduciendo el software a su idioma cree una cuenta en la [plataforma Crowdin y edite nuestro proyecto](https://crowdin.com/project/openplotter).
 
-### Money
+### Dinero
 
-This project is financed by selling related and tested products or by voluntary contributions. You can buy or donate on the [Web Shop](http://shop.sailoog.com/).
+Este proyecto se financia con la venta de productos relacionados y probados o mediante contribuciones voluntarias. Puede comprarlos o donar en la [Tienda de la Web](http://shop.sailoog.com/).
 
-### Monkeys
+### Gente
 
-> Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
+> Se buscan hombres para un viaje peligroso. Salarios bajos, frío extremo, largas horas de oscuridad completa. Sin garantías de volver. Honor y reconocimiento en caso de éxito.
 
 Ernest Shackleton
 
-If you have python skills, push your commits to the [github repository](https://github.com/sailoog/openplotter).
+Si tiene conocimientos de python, suba sus contribuciones al [repositorio de github](https://github.com/sailoog/openplotter).
 
-If you have electronics skills, share your work on [OpenMarine forums](http://forum.openmarine.net/).
+Si tiene conocimientos de electrónica, comparta sus trabajos en los [foros de OpenMarine](http://forum.openmarine.net/).
 
 
 

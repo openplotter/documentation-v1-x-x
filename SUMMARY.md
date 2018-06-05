@@ -31,7 +31,7 @@
 * [1W](1w/README.md)
   * [Sensores 1W](1w/1w-sensors.md)
 * [SPI](spi/README.md)
-  * [SPI devices](spi/spi-devices.md)
+  * [Dispositivos SPI](spi/spi-devices.md)
 * [MQTT](mqtt.md)
 * [Accounts](accounts.md)
 * [SMS](sms.md)

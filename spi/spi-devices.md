@@ -1,2 +1,2 @@
-# SPI devices
+# Dispositivos SPI
 

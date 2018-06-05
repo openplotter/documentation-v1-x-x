@@ -1,10 +1,10 @@
-# How to collaborate
+# Cómo colaborar
 
-## What do we need from you?
+## ¿Qué necesitamos de usted?
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Todo lleva tiempo, dinero y gente que trabaje. Se necesita un montón de los dos primeros y un poco del tercero. Un incremento en alguno reduce la necesidad de los otros dos. Los cambios ocuren cuando alguno de los tres cambia.
 
-[Moe's Law, Navigatrix project.](http://navigatrix.net)
+[Ley de Moe, proyecto Navigatrix.](http://navigatrix.net)
 
 ### Time
 

@@ -4,7 +4,7 @@
 * [Características](features.md)
 * [¿Cómo funciona?](how-does-it-work.md)
 * [¿Qué se necesita?](what-do-you-need.md)
-* [How to collaborate](how-to-collaborate.md)
+* [Cómo colaborar](how-to-collaborate.md)
 * [Getting started](getting-started/README.md)
   * [First settings](getting-started/first-settings.md)
   * [Headless](getting-started/headless.md)

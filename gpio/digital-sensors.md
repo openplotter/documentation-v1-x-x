@@ -1,2 +1,2 @@
-# Digital sensors
+# Sensores digitales
 

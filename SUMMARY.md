@@ -25,7 +25,7 @@
 * [Network](network.md)
 * [Actions](actions.md)
 * [GPIO](gpio/README.md)
-  * [Digital sensors](gpio/digital-sensors.md)
+  * [Sensores digitales](gpio/digital-sensors.md)
 * [I2C](i2c/README.md)
   * [I2C sensors](i2c/i2c-sensors.md)
 * [1W](1w/README.md)

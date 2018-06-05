@@ -19,19 +19,19 @@ Si necesita ayuda con estos elementos básicos consulte la [documentación ofici
 
 ![](.gitbook/assets/start.png)
 
-### Headless option
+### Opción sin pantalla
 
 * **Raspberry Pi 3**
-* **Box**
-* **Power supply**
-* **SD card with OpenPlotter** \(_the software_\)
-* **Any laptop, tablet or smartphone**
+* **Caja**
+* **Fuente de alimentación**
+* **Tarjeta SD con OpenPlotter** \(_el software_\)
+* **Cualquier portátil, tableta o smartphone**
 
 
 
 ![](.gitbook/assets/start2.png)
 
-## Optional items
+## Elementos opcionales
 
 We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
 

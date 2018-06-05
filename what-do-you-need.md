@@ -10,7 +10,7 @@ If you need help with these basic parts see the official [Raspberry Pi documenta
 
 ### Monitor option
 
-* **Raspberry Pi 3**
+* **Raspberry Pi 3B or 3B+**
 * **Box**
 * **Power supply**
 * **HDMI monitor**
@@ -21,7 +21,7 @@ If you need help with these basic parts see the official [Raspberry Pi documenta
 
 ### Headless option
 
-* **Raspberry Pi 3**
+* **Raspberry Pi 3B or 3B+**
 * **Box**
 * **Power supply**
 * **SD card with OpenPlotter** \(_the software_\)

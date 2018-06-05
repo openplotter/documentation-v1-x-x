@@ -2,11 +2,11 @@
 
 Necesitará al menos las piezas mínimas necesarias y puede que algunos accesorios opcionales, dependiendo de qué tipo de datos deseamos obtener, procesar o mostrar y qué tipo de equipo tenga ya instalado en su barco..
 
-## Required items
+## Elementos requeridos
 
-You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor \(**headless**\).
+Necesita al menos estos elementos para ejecutar el _software_ y tiene dos opciones: **con  pantalla** o **sin pantalla**.
 
-If you need help with these basic parts see the official [Raspberry Pi documentation](https://www.raspberrypi.org/learning/hardware-guide/). You can buy these basic parts from any [official distributor](https://www.raspberrypi.org/products/) or any Raspberry store.
+Si necesita ayuda con estos elementos básicos consulte la [documentación oficial de Raspberry Pi](https://www.raspberrypi.org/learning/hardware-guide/). Puede comprar estos elementos básicos en cualquier [distribuidor oficial](https://www.raspberrypi.org/products/) o en cualquier tienda de Raspberry.
 
 ### Monitor option
 

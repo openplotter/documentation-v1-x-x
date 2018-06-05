@@ -18,7 +18,7 @@
 * Kplex
 * [Pypilot](pypilot/README.md)
   * [Pypilot hardware](pypilot/pypilot-hardware.md)
-  * Compass calibration
+  * Calibración del compás
   * [OpenCPN plugin](pypilot/opencpn-plugin.md)
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)

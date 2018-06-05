@@ -6,11 +6,11 @@
 
 [Ley de Moe, proyecto Navigatrix.](http://navigatrix.net)
 
-### Time
+### Tiempo
 
-Get a Raspberry Pi and the required elements, download OpenPlotter and test and test and test ...
+Hágase con una Raspberry Pi y los elementos necesarios, descargue OpenPlotter y pruebe y pruebe y pruebe...
 
-Report bugs and request new features on [OpenMarine forums](http://forum.openmarine.net/).
+Informe de los errores y solicite nuevas funcionalidades en [OpenMarine forums](http://forum.openmarine.net/).
 
 Spread the word among your friends in ports and forums.
 

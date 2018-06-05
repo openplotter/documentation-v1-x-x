@@ -14,9 +14,9 @@ Informe de los errores y solicite nuevas funcionalidades en los [foros de OpenMa
 
 Corra la voz entre sus amitos en puertos y foros.
 
-If you want to help translating this documentation to your language get in [contact with us](http://www.sailoog.com/contact). English is not our first language, so please feel free to correct any mistake.
+Si quiere colaborar traduciendo esta documentación a su idioma [contacte con nosotros](http://www.sailoog.com/contact). El inglés no es nuestra lengua materna, así que siéntase libre para corregir cualquier error que advierta.
 
-If you want to help translating the software to your language create an account on [Crowdin platform and edit our project](https://crowdin.com/project/openplotter).
+Si quiere ayudar traduciendo el software a su idioma cree una cuenta en la [plataforma Crowdin y edite nuestro proyecto](https://crowdin.com/project/openplotter).
 
 ### Money
 

@@ -1,4 +1,4 @@
-# Headless
+# Modo sin monitor
 
 ## First boot
 

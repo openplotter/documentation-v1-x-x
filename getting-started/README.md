@@ -43,6 +43,8 @@ OpenPlotter NOOBS installer will make a silent install, this means that you have
 
 Once the OpenPlotter NOOBS installer has installed the system, OpenPlotter will start directly every time we connect the Raspberry Pi.
 
+
+
 ![OpenPlotter startup window](../.gitbook/assets/startup.png)
 
 The native monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If you have such a monitor, restart.
@@ -86,6 +88,32 @@ You can know what version you are running selecting the option _About_ in _Help_
 
 ## Backup
 
+We strongly recommend to make a copy of your system when you are happy with your configuration. SD cards are not the most reliable devices and they can fail. Having a backup allows you to easily replace your system, just extract your failing SD and insert the backup SD.
+
+Put a fat 32 formatted SD card in an USB card writer and plug it into your Pi.
+
+Open a _Terminal_ from _Accessories_ menu and type:
+
+ `df -h`
+
+You will get a list of mounted devices. Check the right device name, in my case _/dev/sde1_. Ignore the last character that should be a number, in my case _1_.
+
+![](../.gitbook/assets/backup.png)
+
+Open _SD Card Copier_ from _Accessories_ menu. In _Copy From Device_ select the internal SD card _/dev/mmcblk0_. In _Copy To Device_ select the device that matches the device from the terminal list, in my case _/dev/sde_.
+
+{% hint style="info" %}
+**Do not check** _New Partition UUIDs_ or something could not work right on your copy.
+{% endhint %}
+
+Press _Start_, wait 10 or 15 minutes and you are done.
+
+If you do not have an USB card writer you can use the same method you would use to write an image to a new card, **but in reverse**. Here are the instructions to do this from you preferred system:
+
+* [Linux](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
+* [MAC OS](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
+* [Windows](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
+
 ## Recovery system
 
 If our system gets damaged or unstable, we can recover it from the NOOBS installer that resides on your SD and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
@@ -95,4 +123,6 @@ If our system gets damaged or unstable, we can recover it from the NOOBS install
 {% hint style="danger" %}
 **You will lose all data, manually installed programs and settings after recovering.**
 {% endhint %}
+
+
 

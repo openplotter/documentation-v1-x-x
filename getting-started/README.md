@@ -102,7 +102,7 @@ You will get a list of mounted devices. Check the right device name, in my case 
 
 Open _SD Card Copier_ from _Accessories_ menu. In _Copy From Device_ select the internal SD card _/dev/mmcblk0_. In _Copy To Device_ select the device that matches the device from the terminal list, in my case _/dev/sde_.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 **Do not check** _New Partition UUIDs_ or something could not work right on your copy.
 {% endhint %}
 

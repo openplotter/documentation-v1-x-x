@@ -66,13 +66,13 @@ También puede ejecutar OpenPlotter en modo sin monitor, usando cualquier portá
 
 Desde OpenPlotter  v1.0.0 puede actualizar su instalación sin necesidad de grabar de nuevo la tarjeta micro-SD.
 
-Asegúrese de estar conectado a Internet y vaya a _Actualizaciones_ en el menú principal de OpenPlotter y después a \[_Update OpenPlotter\]_. OpenPlotter comprobará si necesita una actualización mayor o menhor  y hará todo el trabajo por usted.
+Asegúrese de estar conectado a Internet y vaya a _Actualizaciones_ en el menú principal de OpenPlotter y después a \[_Update OpenPlotter\]_. OpenPlotter comprobará si necesita una actualización mayor o menor  y hará todo el trabajo por usted.
 
-You can also update OpenCPN and plugins to the latest stable releases and restore the desktop settings if it has changed after an update.
+También puede actualizar OpenCPN y sus plugins a la última versión estable liberada y restaurar las configuraciones de escritorio si ha habido cambios tras una actualización.
 
 ![](../.gitbook/assets/update.png)
 
-### Version numbering {#version-numbering}
+### Numeración de las versiones {#version-numbering}
 
 OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
 

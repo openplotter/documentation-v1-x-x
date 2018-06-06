@@ -58,15 +58,15 @@ Debe cambiar la contraseña lo antes que pueda. Debiera cambiar también otras c
 
 {% page-ref page="first-settings.md" %}
 
-You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
+También puede ejecutar OpenPlotter en modo sin monitor, usando cualquier portátil, ordenador de sobemesa, tableta o smartphone como cliente de escritorio remoto.
 
 {% page-ref page="headless.md" %}
 
-## Updating
+## Actualizando
 
-From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
+Desde OpenPlotter  v1.0.0 puede actualizar su instalación sin necesidad de grabar de nuevo la tarjeta micro-SD.
 
-Be sure you are connected to Internet and go to _Updates_ in the OpenPlotter main menu and then to _Update OpenPlotter_. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
+Asegúrese de estar conectado a Internet y vaya a _Actualizaciones_ en el menú principal de OpenPlotter y después a \[_Update OpenPlotter\]_. OpenPlotter comprobará si necesita una actualización mayor o menhor  y hará todo el trabajo por usted.
 
 You can also update OpenCPN and plugins to the latest stable releases and restore the desktop settings if it has changed after an update.
 

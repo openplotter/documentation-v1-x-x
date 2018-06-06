@@ -4,7 +4,7 @@
 
 ## Features
 
-* High-sensitivity \(better than -114 dBm\) **dual channel AIS receiver** with SMA antenna connector.
+* High-sensitivity \(better than -112 dBm\) **dual channel AIS receiver** with SMA antenna connector.
 * High-performance **GNSS receiver** with integrated patch antenna and external antenna support via BNC connector.
 * **Compass**, **heel** and **trim** from gyroscope, accelerometer and magnetometer sensors \(IMU\).
 * **Barometric pressure**.
@@ -41,13 +41,13 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ## Installing drivers
 
-## GNSS, AIS settings
+## Configuring GNSS and AIS reception
 
-## Compass, heel and trim settings
+## Configuring compass, heel and trim reception
 
 {% page-ref page="../pypilot/compass-calibration.md" %}
 
-## Pressure sensor settings
+## Configuring pressure reception
 
 ## Getting info from the HAT
 

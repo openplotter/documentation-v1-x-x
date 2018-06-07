@@ -16,7 +16,7 @@ Prêcher la bonne parole auprès de vos amis dans les ports et sur les forums..
 
 Si vous voulez nous aider à traduire dans votre langue cette documention, contactez-nous! Sentez-vous libre de corriger les fautes et erreurs que vous repérez.
 
-Si vous voulez nous aider à traduire le logiciel dans votre langue, créez un compte sur la  [plateforme Crowdin](https://crowdin.com/project/openplotter) et éditez votre projet.
+Si vous voulez nous aider à traduire le logiciel dans votre langue, créez un compte sur la  [plateforme Crowdin et éditez notre projet](https://crowdin.com/project/openplotter).
 
 ### Money
 

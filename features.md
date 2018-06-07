@@ -1,7 +1,7 @@
-# Features
+# Fonctionnalités
 
 {% hint style="success" %}
-**OpenCPN**. Concise and robust navigation software. Chart a course and track your position.
+[**OpenCPN**](https://opencpn.org/)  logiciel de navigation léger et robuste. Préparer des routes et suivre sa position.
 {% endhint %}
 
 {% hint style="success" %}

@@ -1,27 +1,27 @@
 # Fonctionnalités
 
 {% hint style="success" %}
-[**OpenCPN**](https://opencpn.org/)  logiciel de navigation léger et robuste. Préparer des routes et suivre sa position.
+[**OpenCPN**](https://opencpn.org/)  Logiciel de navigation léger et robuste. Préparer des routes et suivre sa position.
 {% endhint %}
 
 {% hint style="success" %}
-**zyGrib**. Weather data download and visualization of GRIB files format 1 and 2.
+[**zyGrib**](http://www.zygrib.org/)  Télécharger et visualiser des fichiers météo GRIB au format 1 et 2.
 {% endhint %}
 
 {% hint style="success" %}
-**SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
+**SDR-AIS**  Recevoir et décoder les signaux AIS via un dongle DVB-T. Outils de calibration inclus.
 {% endhint %}
 
 {% hint style="success" %}
-**NMEA 0183**. Receive, filter, multiplex and send NMEA data through serial and network inputs and outputs.
+**NMEA 0183**  Recevoir, filtrer, multiplexer et envoyer des données NMEA via le port série et les entrées/sorties du réseau.
 {% endhint %}
 
 {% hint style="success" %}
-**NMEA 2000**. Connect an USB adapter to your N2K network to receive and send data.
+**NMEA 2000**  Se connecter à votre réseau NMEA 2000, via un adaptateur USB, pour recevoir et transmettre des données.
 {% endhint %}
 
 {% hint style="success" %}
-**Signal K Server**. Convert data from sensors to Signal K and exchange data between all formats.
+[**Signal K Server**](http://signalk.org/) Convertir les données des capteurs en Signal K et échanger entre divers formats.
 {% endhint %}
 
 {% hint style="success" %}

@@ -2,5 +2,5 @@
 
 ![](.gitbook/assets/openplotter500x300.png)
 
-There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the Raspberry Pi and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself!
+ Quand certains achètent un bateau, d’autres se le construisent. Si vous êtes de ceux là, pourquoi ne pas réaliser aussi l’électronique embarquée? OpenPlotter est un paquetage, matériel et logiciel, à utiliser comme aide à la navigation sur des petites ou moyennes unités. C’est aussi un système complet de domotique destiné aux bateaux. Il fonctionne sur ordinateur à processeur ARM tel que le Raspberry Pi[\[1\]](https://www.raspberrypi.org/), est open-source, économique et peu consommateur. Sa conception est modulaire, il est donc possible de n’implémenter que ce qui est utile sur votre bateau. Faites-le vous-même!
 

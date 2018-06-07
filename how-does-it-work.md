@@ -8,7 +8,7 @@ Una vez que los datos se han convertido a Signal K, usted puede mostrarlos en di
 
 ## Flujo de datos
 
-![](.gitbook/assets/nav_data3.png)
+![](.gitbook/assets/nav_data3_es.png)
 
 ## NMEA 0183
 

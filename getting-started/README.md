@@ -43,7 +43,7 @@ El instalador NOOBS de OpenPlotter hará una instalación silenciosa; esto es, u
 
 Una vez que el instalador NOOBS de Once the OpenPlotter haya terminado de instalar el sistema, OpenPlotter se iniciará automáticamente cada vez que conecte la Raspberry Pi.
 
-![OpenPlotter startup window](../.gitbook/assets/startup.png)
+![](../.gitbook/assets/empezando-openplotter-v1.x.x.png)
 
 Se autodetectará la resolución nativa del monitor de 800x480. ¡La configuración correcta funcionará en el próximo arranque! Si tiene un monitor, reinície el sistema de nuevo.
 

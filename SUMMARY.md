@@ -1,6 +1,6 @@
 # Table of contents
 
-* [OpenPlotter?](README.md)
+* [Qu'est ce qu'OpenPlotter?](README.md)
 * [Features](features.md)
 * [How does it work?](how-does-it-work.md)
 * [What do you need?](what-do-you-need.md)

@@ -25,58 +25,58 @@
 {% endhint %}
 
 {% hint style="success" %}
-**Compass**. Heading, heel and trim from an IMU sensor. Tilt compensated. Self-calibration.
+**Compass** Cap et gîte depuis un capteur IMU, avec compensation d’inclinaison et auto calibration.
 {% endhint %}
 
 {% hint style="success" %}
-**Autopilot**. Build a cheap, accurate and complete autopilot with pypilot.
+[**Pypilot**](http://pypilot.org/) Construire un pilote automatique économique, précis et complet.
 {% endhint %}
 
 {% hint style="success" %}
-**WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
+**WiFi Access Point** Partager les données NMEA et Signal K avec un portable, une tablette ou un smarphone.
 {% endhint %}
 
 {% hint style="success" %}
-**Headless**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+**Headless**  Accéder à OpenPlotter depuis le cockpit via vos appareils mobiles.
 {% endhint %}
 
 {% hint style="success" %}
-**Dashboards**. Build instrument panels to visualize data from your mobile devices.
+**Dashboards**  Construire des tableaux de bord pour visualiser des données de navigation.
 {% endhint %}
 
 {% hint style="success" %}
-**1W sensors**. Connect multiple temperature sensors. Motor, exhaust, fridge, water ...
+**1W sensors**  Connecter de multiples capteurs : température, moteur, échappement, réfrigérateur, eau ...
 {% endhint %}
 
 {% hint style="success" %}
-**I2C sensors**. Connect temperature, pressure, humidity or light sensors.
+**I2C sensors**  Connecter des capteurs de température, pression, taux d’humidité ou des éclairages.
 {% endhint %}
 
 {% hint style="success" %}
-**Analog sensors**. Measure battery charge, tank level or any data from an analog sensor.
+**Analog sensors**  Mesurer la charge des batteries, le niveau des réservoirs ou n’importe quelle information d’un capteur analogique.
 {% endhint %}
 
 {% hint style="success" %}
-**Digital inputs**. Connect common or specials switches. Detect smoke, opening doors, motion ...
+**Digital inputs** Connecter des interrupteurs \(y compris spéciaux\). Détecter fumée, ouverture de portes, mouvements ...
 {% endhint %}
 
 {% hint style="success" %}
-**Digital outputs**. Activate relays, LEDs, buzzers ...
+**Digital outputs**  Activer des relais, des LED, des buzzers ...
 {% endhint %}
 
 {% hint style="success" %}
-**Actions**. Use date, time or value of any data flowing through your system as a trigger to run multiple actions.
+**Actions**  Utiliser date, heure ou n’importe quelle valeur de donnée manipulée par votre système comme déclencheur de multiples actions.
 {% endhint %}
 
 {% hint style="success" %}
-**Share data**. Publish data from your boat on Twitter or send emails and SMS automatically.
+**Share data**  Publier des informations sur votre bateau via Twitter ou envoyer des courriels / SMS automatiquement.
 {% endhint %}
 
 {% hint style="success" %}
-**Remote Monitoring**. Receive or send data to your boat while you are away.
+**Remote Monitoring**  Recevoir ou envoyer des informations de votre bateau pendant que vous n’êtes pas à bord.
 {% endhint %}
 
 {% hint style="success" %}
-**Open tools**. Use multiple built in tools to interact with the system and create your own ones.
+**Open tools**  Utiliser les multiples outils inclus pour interargir avec le système et créer les vôtres.
 {% endhint %}
 

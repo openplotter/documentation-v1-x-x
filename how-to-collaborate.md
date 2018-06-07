@@ -1,22 +1,22 @@
-# How to collaborate
+# Comment participer ?
 
-## What do we need from you?
+## De quoi avons besoin ?
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Toute chose demande du temps, de l'argent, et des volontaires. Il y a besoin d'une grande quantité de deux quelconques de ces groupes, et d'un peu du troisième. Augmenter n'importe lequel réduit le besoin des deux autres. Les choses changent quand l'un des trois évolue.
 
-[Moe's Law, Navigatrix project.](http://navigatrix.net)
+[Moe's Law, Projet Navigatrix.](http://navigatrix.net)
 
-### Time
+### De temps
 
-Get a Raspberry Pi and the required elements, download OpenPlotter and test and test and test ...
+Se procurer un Raspberry Pi et les éléments requis, télécharger OpenPlotter RPI et tester, tester, tester et tester encore...
 
-Report bugs and request new features on [OpenMarine forums](http://forum.openmarine.net/).
+Signaler les bugs et demander des évolutions sur les [forums OpenMarine](http://forum.openmarine.net/).
 
-Spread the word among your friends in ports and forums.
+Prêcher la bonne parole auprès de vos amis dans les ports et sur les forums..
 
-If you want to help translating this documentation to your language get in [contact with us](http://www.sailoog.com/contact). English is not our first language, so please feel free to correct any mistake.
+Si vous voulez nous aider à traduire dans votre langue cette documention, contactez-nous! Sentez-vous libre de corriger les fautes et erreurs que vous repérez.
 
-If you want to help translating the software to your language create an account on [Crowdin platform and edit our project](https://crowdin.com/project/openplotter).
+Si vous voulez nous aider à traduire le logiciel dans votre langue, créez un compte sur la  [plateforme Crowdin](https://crowdin.com/project/openplotter) et éditez votre projet.
 
 ### Money
 

@@ -1,4 +1,4 @@
-# How does it work?
+# Comment cela marche ??
 
 OpenPlotter can manage NMEA 0183, NMEA 2000 and Signal K data.
 

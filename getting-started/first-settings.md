@@ -22,7 +22,7 @@ Cuando vuelva al cuadro _Raspberry Pi Configuration_ pulse Ok. En ese momento le
 
 ## Ajustes generales
 
-Vaya a _Menu &gt; Preferencias_ y seleccione _Configuración de Raspberry Pi  \(en un primer arranque usted encontrará el sistema en inglés\)_
+Vaya a _Menú &gt; Preferencias_ y seleccione _Configuración de Raspberry Pi  \(en un primer arranque usted encontrará el sistema en inglés\)_
 
 ![](../.gitbook/assets/ajustesgenerales_es.png)
 
@@ -31,7 +31,7 @@ Se abrirá una ventana donde usted podrá personalizar su sistema.
 ![](../.gitbook/assets/ajustesgenerales2_es.png)
 
 {% hint style="danger" %}
-Es una buena idea cambiar la contraseña para hacer OpenPlotter más seguro. Clique en _Cambiar Clave_ \(contraseña por defecto: raspberry\).
+Es una buena idea cambiar la contraseña para hacer OpenPlotter más seguro. Haga click en _Cambiar Clave_ \(contraseña por defecto: raspberry\).
 
 Si no cambia la contraseña cualquiera podrá conectarse a OpenPlotter de forma remota. Por favor, hágalo AHORA.
 {% endhint %}
@@ -43,33 +43,33 @@ Si necesita cambiar el idioma de su sistema o configuraciones locales, haga clic
 ## Configuraciones de red
 
 {% hint style="danger" %}
-Si está habilitado el punto de acceso Wifi, por favor cambie la contaseña por defecto cuanto antes en la pestaña _Red_. En esa pestaña podrá deshabilitar el punto de acceso o establecer algún otro modo de red.
+Si está habilitado el punto de acceso Wifi, por favor cambie la contraseña por defecto cuanto antes en la pestaña _Red_. En esa pestaña podrá deshabilitar el punto de acceso o establecer algún otro modo de red.
 {% endhint %}
 
 {% page-ref page="../network.md" %}
 
-## Signal K settings
+## Ajustes de Signal K
 
-Signal K server provides many useful tools and you will have to visit its administration panel often. Go to _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
+El servidor Signal K ofrece muchas herramientas útiles y debería visitar a menudo el panel de administración. Vaya a _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
 
-#### Password
+#### Contraseña
 
-Data visualization is open but settings is under authentication. Press _Login_ button upper right.
+La visualización de los datos está abierta, pero para establecer ajustes es necesaria la autentificación. Presione el botón _Login_, arriba a la derecha, en las tres rayas.
 
-User name: openplotter  
-Password: openplotter
+Nombre de usuario: openplotter  
+Contraseña: openplotter
 
-![](../.gitbook/assets/sk_login.png)
+![](../.gitbook/assets/signalk_login_es.png)
 
 {% hint style="danger" %}
-Please change this password as soon as possible. Login and go to _Signal K_ &gt; _Security_ &gt; _Users_ &gt; _openplotter_
+Por favor, cambie la contraseña cuanto antes. Identifíquese y vaya a _Signal K_ &gt; _Security_ &gt; _Users_ &gt; _openplotter_
 {% endhint %}
 
-#### Vessel data
+#### Datos del barco
 
-If you are going to share data with other boats you should have an unique identifier. Login to Signal K and go to _Server_ &gt; _Vessel_ _data_ and change at least your boat name and MMSI.
+Si va a compartir datos con otros barcos debería tener un identificador único. Inicie sesión en Signal K y vaya a _Server_ &gt; _Vessel_ _data_ y cambie al menos el nombre del barco y el MMSI.
 
-Here you can also provide data about your boat that could be useful for some Signal K tools.
+Aquí también puede incluir datos sobre su barco que pueden ser útiles para algunas herramientas de Signal K.
 
 ![](../.gitbook/assets/sk_vessel_data.png)
 

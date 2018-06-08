@@ -82,7 +82,7 @@ Cuando aumenta **c**, hay un cambio menor y significa que sólo ha cambiado el c
 
 Puede conocer qué versión está ejecutando seleccionando la opción _Acerca de_ en el menú _Ayuda_.
 
-![](../.gitbook/assets/about.png)
+![](../.gitbook/assets/acercade_es.png)
 
 ## Backup
 

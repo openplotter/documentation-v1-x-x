@@ -70,7 +70,7 @@ Asegúrese de estar conectado a Internet y vaya a _Actualizaciones_ en el menú 
 
 También puede actualizar OpenCPN y sus plugins a la última versión estable liberada y restaurar las configuraciones de escritorio si ha habido cambios tras una actualización.
 
-![](../.gitbook/assets/update.png)
+![](../.gitbook/assets/actualizaciones_es.png)
 
 ### Numeración de las versiones {#version-numbering}
 

@@ -1,12 +1,22 @@
-# Configuraciones iniciales
+# Primeras configuraciones
 
-## General settings
+## Cambiando el idioma de su sistema
 
-Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
+Tras el primer arranque su sistema estará probablemente en inglés. Siga las siguientes instrucciones para cambiar el idioma del sistema.
+
+Vaya a _Menu &gt; Preferences_ y seleccione _Raspberry Pi Configuration_ 
 
 ![](../.gitbook/assets/rpisetup1.jpg)
 
-A window will open where you can personalize your system. 
+Se abrirá una ventana donde usted podrá personalizar su sistema. Vaya a la pestaña _Localisation_.
+
+## Ajustes generales
+
+Vaya a _Menu &gt; Preferences_ y seleccione _Raspberry Pi Configuration \(en un primer arranque usted encontrará el sistema en inglés\)_
+
+![](../.gitbook/assets/rpisetup1.jpg)
+
+Se abrirá una ventana donde usted podrá personalizar su sistema. 
 
 ![](../.gitbook/assets/rpisetup3.jpg)
 

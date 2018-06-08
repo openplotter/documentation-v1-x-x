@@ -84,15 +84,17 @@ Puede conocer qué versión está ejecutando seleccionando la opción _Acerca de
 
 ![](../.gitbook/assets/acercade_es.png)
 
-## Backup
+## Copia de seguridad
 
-## Recovery system
+\(vacío temporalmente\)
 
-If our system gets damaged or unstable, we can recover it from the NOOBS installer that resides on your SD and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
+## Sistema de recuperación
+
+Si su sistema resulta dañado o inestable, puede recuperarlo desde el instalador NOOBS que está incluido en su SD e instalar de nuevo OpenPlotter. Pulse la tecla Mayúscula cuando vea este símbolo en el arranque:
 
 ![](../.gitbook/assets/recovery.png)
 
 {% hint style="danger" %}
-**You will lose all data, manually installed programs and settings after recovering.**
+**Perderá todos sus datos, programas que usted haya instalado y sus configuraciones en la recuperación.**
 {% endhint %}
 

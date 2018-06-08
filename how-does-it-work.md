@@ -8,7 +8,11 @@ Once data is converted into Signal K, you can display it in the different apps f
 
 ## Data flow
 
+
+
 ![](.gitbook/assets/nav_data3.png)
+
+
 
 ## NMEA 0183
 

@@ -1,6 +1,6 @@
 # Primeras configuraciones
 
-## Cambiando el idioma de su sistema operativo \(Raspbian\)
+## Cambiar el idioma de su sistema operativo \(Raspbian\)
 
 Tras el primer arranque su sistema estará probablemente en inglés. Siga las siguientes instrucciones para cambiar el idioma del sistema.
 
@@ -22,28 +22,28 @@ Cuando vuelva al cuadro _Raspberry Pi Configuration_ pulse Ok. En ese momento le
 
 ## Ajustes generales
 
-Vaya a _Menu &gt; Preferences_ y seleccione _Raspberry Pi Configuration \(en un primer arranque usted encontrará el sistema en inglés\)_
+Vaya a _Menu &gt; Preferencias_ y seleccione _Configuración de Raspberry Pi  \(en un primer arranque usted encontrará el sistema en inglés\)_
 
-![](../.gitbook/assets/rpisetup1.jpg)
+![](../.gitbook/assets/ajustesgenerales_es.png)
 
 Se abrirá una ventana donde usted podrá personalizar su sistema. 
 
-![](../.gitbook/assets/rpisetup3.jpg)
+![](../.gitbook/assets/ajustesgenerales2_es.png)
 
 {% hint style="danger" %}
-It is a good idea to change the password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
+Es una buena idea cambiar la contraseña para hacer OpenPlotter más seguro. Clique en _Cambiar Clave_ \(contraseña por defecto: raspberry\).
 
-If you do not change the password, anyone will be able to connect to OpenPlotter remotely. Please do it now.
+Si no cambia la contraseña cualquiera podrá conectarse a OpenPlotter de forma remota. Por favor, hágalo AHORA.
 {% endhint %}
 
-If you need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_ \(language\), _Set Timezone, Set Keyboard_ and _Set WiFi Country_ buttons.
+Si necesita cambiar el idioma de su sistema o configuraciones locales, haga clic en la pestaña _Localización_ y después utilice los botones _Configurar Local_ \(idioma\), _Ajustar Zona horaria_, _Configurar teclado_ o _Set Wifi Country_ \(seleccione el país en el que usa el Wifi\).
 
-![](../.gitbook/assets/rpisetup2.jpg)
+![](../.gitbook/assets/ajustesgenerales3_es.png)
 
-## Network settings
+## Configuraciones de red
 
 {% hint style="danger" %}
-If a WiFi access point is enabled please change the default password as soon as possible in _Network_ tab. There you can disable the access point or set another network mode too.
+Si está habilitado el punto de acceso Wifi, por favor cambie la contaseña por defecto cuanto antes en la pestaña _Red_. En esa pestaña podrá deshabilitar el punto de acceso o establecer algún otro modo de red.
 {% endhint %}
 
 {% page-ref page="../network.md" %}

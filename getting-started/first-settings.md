@@ -1,14 +1,24 @@
 # Primeras configuraciones
 
-## Cambiando el idioma de su sistema
+## Cambiando el idioma de su sistema operativo \(Raspbian\)
 
 Tras el primer arranque su sistema estará probablemente en inglés. Siga las siguientes instrucciones para cambiar el idioma del sistema.
 
 Vaya a _Menu &gt; Preferences_ y seleccione _Raspberry Pi Configuration_ 
 
-![](../.gitbook/assets/rpisetup1.jpg)
+![](../.gitbook/assets/cambiaridioma_es.png)
 
-Se abrirá una ventana donde usted podrá personalizar su sistema. Vaya a la pestaña _Localisation_.
+Se abrirá una ventana donde usted podrá personalizar su sistema. Vaya a la pestaña _Localisation_ y pinche el botón _Set Locale..._
+
+![](../.gitbook/assets/cambiaridioma2_es.png)
+
+En el cuadro de diálogo que se le abre, cambie las siguientes configuraciones: _Language_ \(idioma\), elija es \(Spanish\) en la lista desplegable; _Country_ \(país\) elija el que corresponda en lista desplegable. Pulse _Ok_.
+
+![](../.gitbook/assets/cambiaridioma3_es.png)
+
+Cuando vuelva al cuadro _Raspberry Pi Configuration_ pulse Ok. En ese momento le aparecerá un mensaje en el que se le dice que "_Para que los cambios surtan efecto debe reiniciar la Raspberry Pi. ¿Desea reiniciarla ahora?_". Pulse _Yes_ para reiniciar.
+
+![](../.gitbook/assets/cambiaridioma4_es.png)
 
 ## Ajustes generales
 

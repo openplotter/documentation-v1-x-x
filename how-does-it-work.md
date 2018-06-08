@@ -16,9 +16,9 @@ Une fois le flux converti en Signal K, vous pouvez l'afficher dans différentes 
 
 ## NMEA 0183
 
-OpenPlotter peut recevoir des données NMEA 0183 de dispositifs connecté série \(USB, UART...\) ou en se connectant à des sources réseau TCP ou UDP.
+OpenPlotter peut recevoir des données NMEA 0183 de dispositifs connectés en série \(USB, UART...\) ou en se connectant à des sources réseau TCP ou UDP.
 
-Define serial devices on _Serial_ tab and network connections on _Kplex_ tab:
+Configurez les appareils série via l'onglet _Série_ et les connections réseau via l'onglet _Kplex_:
 
 {% page-ref page="serial/" %}
 

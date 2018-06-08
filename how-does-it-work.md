@@ -1,12 +1,12 @@
 # Comment cela marche ??
 
-OpenPlotter can manage NMEA 0183, NMEA 2000 and Signal K data.
+OpenPlotter sait gérer des données NMEA 0183, NMEA 2000 et Signal K.
 
-All data entering in NMEA 0183 and 2000 format are translated into Signal K format. Some sensors generate data in Signal K format directly.
+Tout flux entrant en format NMEA 0183 ou 2000 est traduit au format Signal K. Certains capteurs génèrent directement des flux en au format Signal K.
 
-Once data is converted into Signal K, you can display it in the different apps for visualization or convert it back to NMEA 0183 and 2000 to send it to other devices or apps.
+Une fois le flux converti en Signal K, vous pouvez l'afficher dans différentes applications ou encore, le convertir de nouveau en NMEA 0183 ou 2000 pour le renvoyer vers d'autres appareils ou applications.
 
-## Data flow
+## Le flux de données
 
 
 
@@ -16,7 +16,7 @@ Once data is converted into Signal K, you can display it in the different apps f
 
 ## NMEA 0183
 
-OpenPlotter can get NMEA 0183 data from connected serial devices \(USB, UART...\) or connecting to a TCP or UDP network sources.
+OpenPlotter peut recevoir des données NMEA 0183 de dispositifs connecté série \(USB, UART...\) ou en se connectant à des sources réseau TCP ou UDP.
 
 Define serial devices on _Serial_ tab and network connections on _Kplex_ tab:
 

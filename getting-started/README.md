@@ -14,24 +14,24 @@ Raspberry Pi, y la mayoría de sistemas embebidos, utilizan una tarjeta micro-SD
 Se requiere un mínimo de 8GB pero se recomiendan 16GB.
 {% endhint %}
 
-Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarjeta micro-SD. Asegúrese de que su ordenador tiene un lector de tarjetas SD integrado o utilice, en otro caso, un lector USB de tarjetas micro-SD.
+Para empezar, es siempre una buena idea asegurarse de que ha formateado su tarjeta SD. Asegúrese de que su ordenador tiene un lector de tarjetas SD integrado o utilice, en otro caso, un lector USB de tarjetas SD.
 
 * Visite la [Web de la Asociación SD](http://www.sdcard.org) y descargue el programa [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) para Windows o Mac.
 * Siga las instrucciones para instalar el programa.
-* Inserte su tarjeta micro-SD en lector de tarjetas SD de su ordenador o portátil y tome nota de la letra de unidad asignada a aquella, por ejemplo `F:/`
-* En SD Formatter, selecciones la letra de unidad de su tarjeta micro-SD y formatéela.
+* Inserte su tarjeta SD en lector de tarjetas SD de su ordenador o portátil y tome nota de la letra de unidad asignada a aquella, por ejemplo `F:/`
+* En SD Formatter, selecciones la letra de unidad de su tarjeta SD y formatéela.
 
 ![SDFormatter V4.0](../.gitbook/assets/sd-formatter.jpg)
 
 {% hint style="warning" %}
-Si su tarjeta micro-SD tiene 64GB o más, será automáticamente formateada como exFAT, que no es compatible con OpenPlotter. Siga [estas instrucciones](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) para formatear su tarjeta micro-SD como FAT32 para que pueda usar OpenPlotter.
+Si su tarjeta SD tiene 64GB o más, será automáticamente formateada como exFAT, que no es compatible con OpenPlotter. Siga [estas instrucciones](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md) para formatear su tarjeta SD como FAT32 para que pueda usar OpenPlotter.
 {% endhint %}
 
 * [Bájese la última versión del instalador NOOBS de **OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** Es un archivo comprimido de cerca de 1GB, por lo que puede llevar un tiempo. 
 * Descomprima el archivo **openplotter\_vx.x.x\_noobs.zip**
-* Seleccione todos los archivos y carpetas presentes dentro de la carpeta extraída NOOBS y arrástrelos adentro de la tarjeta micro-SD.
-* Así, todos los archivos necesarios se transferirán a la tarjeta micro-SD.
-* Cuando haya terminado, extraiga en modo seguro la tarjeta micro-SD e insértela en su  Raspberry Pi.
+* Seleccione todos los archivos y carpetas presentes dentro de la carpeta extraída NOOBS y arrástrelos adentro de la tarjeta SD.
+* Así, todos los archivos necesarios se transferirán a la tarjeta SD.
+* Cuando haya terminado, extraiga en modo seguro la tarjeta SD e insértela en su  Raspberry Pi.
 
 ![](../.gitbook/assets/boot1.png)
 
@@ -64,7 +64,7 @@ También puede ejecutar OpenPlotter en modo sin monitor, usando cualquier portá
 
 ## Actualizando
 
-Desde OpenPlotter  v1.0.0 puede actualizar su instalación sin necesidad de grabar de nuevo la tarjeta micro-SD.
+Desde OpenPlotter  v1.0.0 puede actualizar su instalación sin necesidad de grabar de nuevo la tarjeta SD.
 
 Asegúrese de estar conectado a Internet y vaya a _Actualizaciones_ en el menú principal de OpenPlotter y después a \[_Update OpenPlotter\]_. OpenPlotter comprobará si necesita una actualización mayor o menor  y hará todo el trabajo por usted.
 
@@ -74,13 +74,13 @@ También puede actualizar OpenCPN y sus plugins a la última versión estable li
 
 ### Numeración de las versiones {#version-numbering}
 
-OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
+Las versiones de OpenPlotter usan tres números: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) y una palabra \(**alpha**, **beta** y **stable**\).
 
-When **c** increases, there is a minor change and means that only the OpenPlotter code has changed. When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated too. When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case a new OpenPlotter image will be released and you have to burn a new SD card.
+Cuando aumenta **c**, hay un cambio menor y significa que sólo ha cambiado el código de OpenPlotter. Cuando aumenta **b**, hay un cambio mayor y significa que otros paquetes o dependencias necesitan ser añadidas o actualizadas también. Cuando **a** aumenta, significa que es una nueva versión y signfica que Raspbian necesita actualizarse a una nueva versión. En este caso, una nueva imagen de OpenPlotter será liberada y puede grabarla a una tarjeta SD.
 
-**Alpha** means that some parts still need development. **Beta** means that all parts have been developed and there are not fatal errors but it needs to be tested by users in different scenarios. Text will be translated from English into other languages on this stage. **Stable** means that OpenPlotter code and dependencies have already been tested and there are not errors.
+**Alpha** significa que algunas partes todavía necesitan desarrollo. **Beta** quiere decir que todas las partes se han desarrollado y no hay errores graves pero todavía necesita ser testeada por los usuarios en distintos escenarios. El texto se traduciá de inglés a otros idiomas en esta fase. **Stable** **\(estable\)** significa que el código de OpenPlotter y las dependencias han sido probadas y no hay errores.
 
-You can know what version you are running selecting the option _About_ in _Help_ menu.
+Puede conocer qué versión está ejecutando seleccionando la opción _Acerca de_ en el menú _Ayuda_.
 
 ![](../.gitbook/assets/about.png)
 

@@ -26,7 +26,7 @@ Configurez les appareils série via l'onglet _Série_ et les connections réseau
 
 Le serveur Signal K reçoit les trames NMEA 0183. Toutes les phrases qu'il comprend, il les convertit au format Signal K et transfert les données NMEA 0183 sources vers les port TCP 10110.
 
-If you have devices that generate NMEA 2000 or Signal K data and you want to translate it to NMEA 0183 and send it to TCP 10110 port too, you will have to enable the NMEA 0183 sentences you need in the _Convert Signal K to NMEA 0183_ plugin when they exist:
+Si vous avez des appareils qui génèrent des données au format NMEA 2000 ou Signal K et que vous voulez aussi les transférer en NMEA 0183 et les expédier au port TCP 10110, vous devrez activer les phrases NMEA 0183 correspondantes, quand elles existent, dans le pluging _Convert Signal K to NMEA 0183_ :
 
 {% page-ref page="signal-k-server/signal-k-to-nmea-0183.md" %}
 

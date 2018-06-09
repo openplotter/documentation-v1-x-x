@@ -77,6 +77,6 @@
 {% endhint %}
 
 {% hint style="success" %}
-**Open tools**  Utiliser les multiples outils inclus pour interargir avec le système et créer les vôtres.
+**Open tools**  Utiliser les multiples outils inclus pour interargir avec le système et créer les votres.
 {% endhint %}
 

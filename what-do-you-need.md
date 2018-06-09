@@ -35,7 +35,7 @@ Vous pouvez vous procurer ces éléments de base auprès d'un distributeur offic
 
 ## Eléments optionnels 
 
-We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
+Nous développons, maintenons ou distribuons des appareils spécifiquement conçus pour être utiliser avec OpenPlotter, bien qu'ils puissent être utilisés avec d'autres systèmes:
 
 {% page-ref page="tools/moitessier-hat.md" %}
 
@@ -43,7 +43,7 @@ We officially develop, support or distribute some devices which are specifically
 
 {% page-ref page="pypilot/pypilot-hardware.md" %}
 
-Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
+Des prochains chapitres contiennent une liste d'appareils compatibles pour communiquer avec votre bateau, ainsi que des capteurs pour reccueillir des données depuis l'environnement:
 
 {% page-ref page="serial/serial-devices.md" %}
 

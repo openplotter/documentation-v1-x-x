@@ -33,7 +33,7 @@ Vous pouvez vous procurer ces éléments de base auprès d'un distributeur offic
 
 ![](.gitbook/assets/start2.png)
 
-## Optional items
+## Eléments optionnels 
 
 We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
 

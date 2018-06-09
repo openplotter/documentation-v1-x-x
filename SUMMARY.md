@@ -3,7 +3,7 @@
 * [Qu'est ce qu'OpenPlotter?](README.md)
 * [Fonctionnalités](features.md)
 * [Comment cela marche ??](how-does-it-work.md)
-* [What do you need?](what-do-you-need.md)
+* [De quoi avez-vous besoin?](what-do-you-need.md)
 * [Comment participer ?](how-to-collaborate.md)
 * [Getting started](getting-started/README.md)
   * [First settings](getting-started/first-settings.md)

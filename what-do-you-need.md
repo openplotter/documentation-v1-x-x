@@ -1,31 +1,33 @@
-# What do you need?
+# De quoi avez-vous besoin?
 
-You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+ Vous aurez besoin d’éléments requis et de quelques autres optionnels. Cela dépend du type de données que vous voulez collecter, analyser ou afficher et de quel équipement votre bateau dispose..
 
-## Required items
+### Eléments requis
 
-You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor \(**headless**\).
+A minima, vous aurez besoin de ces éléments pour exécuter Openplotter et vous avez deux options : Avec ou sans écran.
 
-If you need help with these basic parts see the official [Raspberry Pi documentation](https://www.raspberrypi.org/learning/hardware-guide/). You can buy these basic parts from any [official distributor](https://www.raspberrypi.org/products/) or any Raspberry store.
+Si vous avez besoin d’aide avec ces éléments basiques, reportez-vous à la [documentation officielle Raspberry Pi](https://www.raspberrypi.org/learning/hardware-guide).
 
-### Monitor option
+Vous pouvez vous procurer ces éléments de base auprès d'un distributeur officiel, ou dans l'une quelconque des boutiques Raspberry.
 
-* **Raspberry Pi 3B or 3B+** \(Not RPi Zero or 1 compatible. RPi 2B will have some limitations\)
-* **Box**
-* **Power supply**
-* **HDMI monitor**
-* **Keyboard and mouse**
-* **SD card with OpenPlotter** \(_the software_\)
+### Option avec écran
+
+* **Raspberry Pi 3B or 3B+** \(Ni le RPi Zero ou le 1 ne sont compatibles. Le RPi 2B a quelques limites\)
+* **Boitier**
+* **Alimentation**
+* **Ecran HDMI**
+* **Clavier et sourie**
+* **Carte SD card avec OpenPlotter** \(le logiciel\)
 
 ![](.gitbook/assets/start.png)
 
-### Headless option
+### Option sans écran
 
-* **Raspberry Pi 3B or 3B+** \(Not RPi Zero or 1 compatible. RPi 2B will have some limitations\)
-* **Box**
-* **Power supply**
-* **SD card with OpenPlotter** \(_the software_\)
-* **Any laptop, tablet or smartphone**
+* **Raspberry Pi 3B or 3B+** \(Ni le RPi Zero ou le 1 ne sont compatibles. Le RPi 2B a quelques limites\)
+* **Boitier**
+* **Alimentation**
+* **Carte SD card avec OpenPlotter** \(le logiciel\)
+* **Un portable, une tablette ou un smartphone**
 
 
 

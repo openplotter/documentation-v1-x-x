@@ -24,7 +24,7 @@ Configurez les appareils série via l'onglet _Série_ et les connections réseau
 
 {% page-ref page="kplex.md" %}
 
-Le serveur Signal K reçoit les trames NMEA 0183. Toutes les phrases qu'il comprend, il les convertit au format Signal K et transfert les données NMEA 0183 sources vers les port TCP 10110.
+Le serveur Signal K reçoit les trames NMEA 0183. Il convertit les phrases qu'il comprend, au format Signal K et transfert les données NMEA 0183 sources vers le port TCP 10110.
 
 Si vous avez des appareils qui génèrent des données au format NMEA 2000 ou Signal K et que vous voulez aussi les transférer en NMEA 0183 et les expédier au port TCP 10110, vous devrez activer les phrases NMEA 0183 correspondantes, quand elles existent, dans le pluging _Convert Signal K to NMEA 0183_ :
 
@@ -32,19 +32,19 @@ Si vous avez des appareils qui génèrent des données au format NMEA 2000 ou Si
 
 ## NMEA 2000
 
-To get and send NMEA 2000 data you need to connect a serial converted like our CAN-USB Stick. The Actisense NGT-1 is also supported.
+Pour recevoir et transmettre des données NMEA 2000 il vaus faut utiliser un adaptateur série, du genre de notre Stick CAN-USB. Le  NGT-1 Actisense est également compatible.
 
 {% page-ref page="can/can-usb-stick.md" %}
 
-You have to define the serial device in _Serial_ tab and configure it in _CAN_ tab. If you have devices that generate NMEA 0183 or Signal K data and you want to translate it to NMEA 2000 and send it by your NMEA 2000 serial device, you will have to allow the reception for those PGN on your device and select what Signal K keys you want to transmit:
+Le dispositif doit être défini dans l'onglet _Serial_  puis configuré dans l'onglet C_AN_ . Si vous avez des appareils générant des données NMEA 0183 ou Signal K et que vous voulez les traduire en NMEA 2000 puis les diriger vers votre appareil série NMEA 2000, vous devez autoriser la réception de ces PGN sur votre appareil. Vous devez également sélectionner quelle clefs Signal K vous voulez transmettre:
 
 {% page-ref page="can/" %}
 
 ## SIGNAL K
 
-Data from NMEA 0183 and 2000 defined devices are translated into Signal K automatically.
+Les données NMEA 0183 et 2000 des appareils définis sont traduites en Signal K automatiquement.
 
-Raw data from IMU - GPIO - I2C - 1W - SPI sensors, MQTT and some tools are converted into Signal K after we define these items in their corresponding tabs.
+Les données sources des capteurs IMU - GPIO - I2C - 1W - SPI - MQTT, ainsi que quelques outils sont convertis en Signal K, après qu'ils aient été définis dans l'onglet correspondant.
 
 {% page-ref page="pypilot/compass-calibration.md" %}
 
@@ -62,5 +62,5 @@ Raw data from IMU - GPIO - I2C - 1W - SPI sensors, MQTT and some tools are conve
 
 {% page-ref page="tools/analog-firmata.md" %}
 
-If you want to convert Signal K data from these sources to NMEA 0183 or 2000, you need to check before if NMEA 0183 sentences or PGN for these data exist. See the previous sections to know how to do it.
+Si vous voulez convertir des données Signal K depuis ces sources vers du NMEA 0183 ou 2000, vous devez d'abord vérifier si la phrase NMEA 0183 ou le PGN NMEA 2000 existe pour ces données. Voir les sections précédentes pour savoir comment le faire.
 

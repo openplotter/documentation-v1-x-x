@@ -6,12 +6,12 @@ Tout d'abord, il vaus faut assembler les éléments prérequis:
 
 Puis, éxécuter le logiciel sur votre Raspberry. **OpenPlotter** est une version modifiée de Ra[spbian](https://www.raspbian.org/), l'OS officiel pour Raspberry Pi. Tout ce dont vous avez besoin est inclus. OpenPlotter est open-source et gratuit.
 
-## Installing OpenPlotter
+## Installer OpenPlotter
 
-Raspberry Pi, and most embedded systems, uses an SD card as Hard Disk. Almost any micro-SD-compatible card will work on your Raspberry.
+Raspberry Pi, ainsi que la plupart des systèmes inclus, utilise une carte SD en tant que disque dur. Presque toutes les cartes micro-SD-compatible fonctionneront avec votre Raspberry.
 
 {% hint style="warning" %}
-A minimum of 8GB is required but 16GB is recommended.
+8GB minimum sont requis, mais 16GB sont recommandés.
 {% endhint %}
 
 To begin with, it's always a good idea to make sure you have formatted your SD card. You'll need to make sure your computer has a built-in SD card reader, or you can use an USB SD card reader.

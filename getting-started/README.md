@@ -1,10 +1,10 @@
-# Getting started
+# Par où commencer?
 
-First of all you have to put together at least all the required hardware parts:
+Tout d'abord, il vaus faut assembler les éléments prérequis:
 
 {% page-ref page="../what-do-you-need.md" %}
 
-Then, you have to run the software on your Raspberry. **OpenPlotter** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need. OpenPlotter is open-source and free.
+Puis, éxécuter le logiciel sur votre Raspberry. **OpenPlotter** est une version modifiée de Ra[spbian](https://www.raspbian.org/), l'OS officiel pour Raspberry Pi. Tout ce dont vous avez besoin est inclus. OpenPlotter est open-source et gratuit.
 
 ## Installing OpenPlotter
 

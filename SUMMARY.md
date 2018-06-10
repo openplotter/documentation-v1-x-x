@@ -5,7 +5,7 @@
 * [Comment cela marche ??](how-does-it-work.md)
 * [De quoi avez-vous besoin?](what-do-you-need.md)
 * [Comment participer ?](how-to-collaborate.md)
-* [Getting started](getting-started/README.md)
+* [Par où commencer?](getting-started/README.md)
   * [First settings](getting-started/first-settings.md)
   * [Headless](getting-started/headless.md)
 * [OpenCPN](opencpn/README.md)

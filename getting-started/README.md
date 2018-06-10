@@ -14,10 +14,10 @@ Raspberry Pi, ainsi que la plupart des systèmes inclus, utilise une carte SD en
 8GB minimum sont requis, mais 16GB sont recommandés.
 {% endhint %}
 
-To begin with, it's always a good idea to make sure you have formatted your SD card. You'll need to make sure your computer has a built-in SD card reader, or you can use an USB SD card reader.
+Un bon commencement est de vérifier que la carte SD est formattée. Assurez-vous que votre ordinateur dispose d'un lecteur de Cartes SD intégré, à défault, vous pourrez en utiliser un USB.
 
-* Visit the [SD Association’s website](http://www.sdcard.org//) and download [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) program for either Windows or Mac.
-* Follow the instructions to install the software.
+* Télécharger [SD Formatter](https://www.sdcard.org/downloads/formatter_4/index.html) \(pour Windows ou Mac\) depuis le [site de l'Association SD Card](http://www.sdcard.org//).
+* Suivre les instructions pour installer le logiciel.
 * Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. `F:/`
 * In SD Formatter, select the drive letter for your SD card and format it.
 

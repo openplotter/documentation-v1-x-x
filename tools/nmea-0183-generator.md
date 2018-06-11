@@ -1,2 +1,2 @@
-# NMEA 0183 generator
+# Generador NMEA 0183
 

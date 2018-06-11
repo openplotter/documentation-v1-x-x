@@ -10,7 +10,7 @@ El  CAN-USB Stick se basa en un micro controlador \(MCU\) stm32 conectado a un t
 
 El programa del MCU se ha rediseñado para trabajar conjuntamente con el proyecto [CANBOAT](https://github.com/canboat/canboat), que es utilizado en el proyecto [Signal K](http://signalk.org/). Ambos paquetes se usan en OpenPlotter.
 
-El CAN-USB Stick tambien funciona con el proyecto [OpenSkipper](http://openskipper.org/).
+El CAN-USB Stick también funciona con el proyecto [OpenSkipper](http://openskipper.org/).
 
 No se ha probado:
 
@@ -22,22 +22,22 @@ Por lo tanto utiliza el conjunto de comandos que a su vez se usan en el programa
 Los nuevos PGNs no están bloqueados, porque están en otros dispositivos capaces de funcionar con CANBOAT. Se puede establecer una velocidad de transmisión mayor que la velocidad del CAN bus. Otros dispositivos capaces de trabajar con CANBOAT tienen una tasa de transferencia más baja que las redes N2K, por lo que pueden sufrir un efecto de  cuello de botella.
 
 {% hint style="success" %}
-Este artículo está disonible en nuestra [Tienda de la Web](http://shop.sailoog.com).
+Este artículo está disponible en nuestra [Tienda de la Web](http://shop.sailoog.com).
 {% endhint %}
 
 ## Aviso / Descargo de responsabilidad
 
 El CAN-USB Stick es un proyecto de investigación sobre comunicación de datos en CAN bus y redes N2K en barcos.
 
-El software está todavía en desarrollo y no ha sido probado totalmente. Funcionarmientos inadecuados del CAN-USB Stick or any connected device might be possible at any time. Manipulating your N2K network could cause damage to connected devices.
+El software está todavía en desarrollo y no ha sido probado totalmente. En cualquier momento se pueden producir funcionamientos inadecuados del CAN-USB Stick o cualquier dispositivo conectado. Manipular la red N2K podría causar daños en los dispositivos conectados.
 
-Do not rely on data from this device and do not use it as primary source for navigation. Liability cannot be accepted for any damages, personal injuries or malfunctions caused by this device.
+No confíe en los datos de este dispositivo y no lo utilice como fuente principal de navegación. No se aceptará ninguna responsabilidad por daños, lesiones personales o mal funcionamiento causados por este dispositivo.
 
-The CAN-USB Stick is not certified by NMEA®.
+El CAN-USB Stick no está certificado por NMEA®.
 
-It is not allowed to use the Actisense® NMEA Reader software for the CAN-USB Stick.
+No está permitido el uso del software Actisense® NMEA Reader para el dispositivo CAN-USB.
 
-## N2K networks
+## Redes N2K
 
 ![](../.gitbook/assets/n2k_b.jpg)
 

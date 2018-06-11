@@ -1,2 +1,2 @@
-# Deviation Table
+# Tabla de desvíos
 

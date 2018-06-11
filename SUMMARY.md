@@ -38,7 +38,7 @@
 * [Puesta en marcha](startup.md)
 * [Herramientas](tools/README.md)
   * [Receptor SDR](tools/sdr-receiver.md)
-  * [Deviation Table](tools/deviation-table.md)
+  * [Tabla de desvíos](tools/deviation-table.md)
   * [Calculate](tools/calculate.md)
   * [NMEA 0183 generator](tools/nmea-0183-generator.md)
   * [ADS1115 analógico](tools/analog-ads1115.md)

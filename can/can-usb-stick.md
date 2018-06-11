@@ -41,7 +41,7 @@ No está permitido el uso del software Actisense® NMEA Reader para el dispositi
 
 ![](../.gitbook/assets/n2k_b.jpg)
 
-![Example of a small N2K Network](../.gitbook/assets/n2k_a.jpg)
+![](../.gitbook/assets/n2k_red.png)
 
 N2K networks are described in [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). The backbone \(or trunk\) starts with a 120Ω terminator and ends with a 120Ω terminator. Two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
 

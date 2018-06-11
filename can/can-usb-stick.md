@@ -39,21 +39,25 @@ No está permitido el uso del software Actisense® NMEA Reader para el dispositi
 
 ## Redes N2K
 
+Ejemplo de una pequeña red N2K
+
 ![](../.gitbook/assets/n2k_b.jpg)
 
 ![](../.gitbook/assets/n2k_red.png)
 
-N2K networks are described in [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). The backbone \(or trunk\) starts with a 120Ω terminator and ends with a 120Ω terminator. Two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
+                                                     Ejemplo de una pequeñ red N2K
+
+Las redes N2K se describen en la [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). El tronco \(backbone\) comienza con un terminador de 120Ω y termina con otro terminador de 120Ω. Dos resistencias trabajan en paralelo, por lo que la resistencia es de 120Ω/2=60Ω. Si hubiera una rotura en el tronco, podría medir sólo 120Ω o nada, pero no 60Ω. Es una forma muy fácil de comprobar el bus.
 
 ![M12 male 120&#x3A9; terminator](../.gitbook/assets/resistor_conn.jpg)
 
-The drop line to devices should not be longer than 6 m. The backbone can have 100m in length.
+La línea de bajada a los dispositivos no debe ser más larga que 6 m. La linea principal puede tener 100 m de longitud.
 
-The CAN-USB Stick is electrically isolated so devices and your computer are protected even if they are powered by a different source than your N2K network.
+El CAN-USB Stick está aislado eléctricamente, por lo que los dispositivos y su ordenador están protegidos, incluso si están alimentados por una fuente diferente a la de su red N2K.
 
-## Connection
+## Conexión
 
-To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line should have a M12, 5 pin male connector in one side and 5 wires \(but we only need 2\) in the other side. The HIRSCHMANN ELST 5012 PG7 connector has a screw terminal.
+Parar conectar el CAN-USB Stick a la red necesita un tconector en T libe en su tronco \(backbone\) y una línea de bajada. La línea de bajada debería tener un conector macho de 5 pines M12 en un extremo y 5 cables en el otro \(aunque sólo necesitemos 2\). El conector  HIRSCHMANN ELST 5012 PG7 tiene un terminal de tornillo.
 
 ![T-connector](../.gitbook/assets/t-conn.jpg)
 

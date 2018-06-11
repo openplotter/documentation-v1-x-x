@@ -1,6 +1,6 @@
 # Signal K server
 
-## Signal K diagnostic
+## Diagnóstico de Signal K
 
 
 

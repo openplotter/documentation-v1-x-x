@@ -36,7 +36,7 @@
 * [Cuentas](accounts.md)
 * [SMS](sms.md)
 * [Puesta en marcha](startup.md)
-* [Tools](tools/README.md)
+* [Herramientas](tools/README.md)
   * [Receptor SDR](tools/sdr-receiver.md)
   * [Deviation Table](tools/deviation-table.md)
   * [Calculate](tools/calculate.md)

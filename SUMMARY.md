@@ -23,7 +23,7 @@
 * [CAN](can/README.md)
   * [CAN-USB Stick](can/can-usb-stick.md)
 * [Red](network.md)
-* [Actions](actions.md)
+* [Acciones](actions.md)
 * [GPIO](gpio/README.md)
   * [Sensores digitales](gpio/digital-sensors.md)
 * [I2C](i2c/README.md)

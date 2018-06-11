@@ -28,10 +28,9 @@ Si votre carte SD est de 64GB ou plus, elle sera automatiquement formatée en ex
 {% endhint %}
 
 * [Télécharger la dernière version d'](http://www.sailoog.com/blog-categories/openplotter-rpi)[**OpenPlotter**](http://www.sailoog.com/blog-categories/openplotter-rpi)[ sous NOOBS](http://www.sailoog.com/blog-categories/openplotter-rpi)**.** Il s'agit d'un fichier compressé ****de presque ****1GB, cela prendra donc un peu de temps. 
-* Extract the files from the compressed file **openplotter\_vx.x.x\_noobs.zip**
-* Drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
-* The necessary files will then be transferred to your SD card.
-* When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
+* Extraire les fichiers du dossier compressé **openplotter\_vx.x.x\_noobs.zip**
+* Les copier tous sur le disque correspondant à la carte SD.
+* Quand la copie est terminée, retirer avec sécurité la carte SD et l'insérer dans votre Raspberry Pi.
 
 ![](../.gitbook/assets/boot1.png)
 

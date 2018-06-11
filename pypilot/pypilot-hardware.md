@@ -1,13 +1,13 @@
 # Hardware para Pypilot
 
-## What do you need?
+## ¿Qué necesita?
 
-* An inertial measurement unit \(IMU\) MPU-9255 or MPU-9250. Moitessier HAT is equipped with MPU-9250
-* A motor controller used to drive a brushed motor
-* An electric motor
+* Una unidad de medición inercial \(IMU\) MPU-9255 or MPU-9250. El HAT Moitessier está equipado con la MPU-9250
+* Un controlador de motor para un motor de escobilas
+* Un motor eléctrico
 
 {% hint style="info" %}
-See more details about [hardware requirements](https://github.com/pypilot/pypilot/wiki/Hardware).
+Vea más detalles sobre [requerimientos de material](https://github.com/pypilot/pypilot/wiki/Hardware) \(en inglés\)
 {% endhint %}
 
 

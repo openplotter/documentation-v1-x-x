@@ -35,7 +35,7 @@ Si votre carte SD est de 64GB ou plus, elle sera automatiquement formatée en ex
 
 ![](../.gitbook/assets/boot1.png)
 
-## First boot
+## Premier démarrage
 
 Connect power to the Raspberry Pi.
 
@@ -62,7 +62,7 @@ You can also run OpenPlotter without monitor \(headless\) using any laptop, desk
 
 {% page-ref page="headless.md" %}
 
-## Updating
+## Mettre à jour
 
 From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
 
@@ -72,7 +72,7 @@ You can also update OpenCPN and plugins to the latest stable releases and restor
 
 ![](../.gitbook/assets/update.png)
 
-### Version numbering {#version-numbering}
+### Numérotation des versions {#version-numbering}
 
 OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
 
@@ -84,9 +84,9 @@ You can know what version you are running selecting the option _About_ in _Help_
 
 ![](../.gitbook/assets/about.png)
 
-## Backup
+## Sauvegarde
 
-## Recovery system
+## Système de restauration
 
 If our system gets damaged or unstable, we can recover it from the NOOBS installer that resides on your SD and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
 

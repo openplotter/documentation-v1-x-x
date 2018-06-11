@@ -1,21 +1,21 @@
 # Pypilot
 
-## Features
+## Características
 
-* Automatic compass calibration
-* Steering modes:
-  * Compass
+* Calibración automática del compás
+* Modos de gobierno:
+  * Compás
   * GPS
-  * Apparent Wind
-  * True Wind
-* Communicates both Signal K and NMEA 0183
-* Integrates with OpenCPN
-* Good performance with low power consumption
-* Remote control, and network control \(smartphone control\)
-* Modular design, ensures reusability, and easily modified
+  * Viento aparente
+  * Viento verdadero
+* Comunica entre sí Signal K y NMEA 0183
+* Se integra con OpenCPN
+* Buen rendimiento con bajo consumo de energía
+* Control remoto y control en red \(control mediante smartphone\)
+* Diseño modular que asegura reusabilidad y fácil de modificar
 
 {% hint style="info" %}
-You will find all you need to know on the official [pypilot](http://www.pypilot.org/) site.
+Encontrará todo lo que necesite en el sitio oficial de [pypilot](http://www.pypilot.org/).
 {% endhint %}
 
 

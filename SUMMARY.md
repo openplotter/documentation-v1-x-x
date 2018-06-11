@@ -10,7 +10,7 @@
   * [Modo sin monitor](getting-started/headless.md)
 * [OpenCPN](opencpn/README.md)
   * [Cartas](opencpn/charts.md)
-* [Servidor Signal](signal-k-server/README.md)
+* [Servidor Signal K](signal-k-server/README.md)
   * [Signal K a NMEA 0183](signal-k-server/signal-k-to-nmea-0183.md)
 * [Node-RED](node-red.md)
 * [Serie](serial/README.md)

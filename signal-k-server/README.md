@@ -1,4 +1,4 @@
-# Signal K server
+# Servidor Signal
 
 ## Diagnóstico de Signal K
 

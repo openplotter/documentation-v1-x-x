@@ -9,7 +9,7 @@
   * [Primeras configuraciones](getting-started/first-settings.md)
   * [Modo sin monitor](getting-started/headless.md)
 * [OpenCPN](opencpn/README.md)
-  * [Charts](opencpn/charts.md)
+  * [Cartas](opencpn/charts.md)
 * [Signal K server](signal-k-server/README.md)
   * [Signal K a NMEA 0183](signal-k-server/signal-k-to-nmea-0183.md)
 * [Node-RED](node-red.md)

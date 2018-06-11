@@ -1,8 +1,8 @@
 # CAN
 
-## Input
+## Entrada
 
-## Output
+## Salida
 
 ## Experimental
 

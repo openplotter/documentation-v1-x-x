@@ -2,34 +2,34 @@
 
 ![](../.gitbook/assets/can-usb-stick.png)
 
-## Project
+## Proyecto
 
-The CAN-USB Stick project was done to analyse the data stream on a N2K network sending and receiving CAN messages. It is electrically isolated to avoid damages.
+El proyecto del dispositivo CAN-USB Stick se realizó para analizar el flujo de datos en una red N2K enviando y recibiendo mensajes CAN. Está aislada eléctricamente para evitar daños.
 
-The CAN-USB Stick is based on a stm32 micro-controller \(MCU\) connected to an isolated CAN transceiver and an USB to serial converter.
+El  CAN-USB Stick se basa en un micro controlador \(MCU\) stm32 conectado a un transceptor CAN aislado y a un convertidor USB a serie.
 
-The program of the MCU has been re-engineered to work together with [CANBOAT](https://github.com/canboat/canboat) project, which is used by [Signal K](http://signalk.org/) project. Both packets are used in OpenPlotter.
+El programa del MCU se ha rediseñado para trabajar conjuntamente con el proyecto [CANBOAT](https://github.com/canboat/canboat), que es utilizado en el proyecto [Signal K](http://signalk.org/). Ambos paquetes se usan en OpenPlotter.
 
-The CAN-USB Stick does also work with [OpenSkipper](http://openskipper.org/) project.
+El CAN-USB Stick tambien funciona con el proyecto [OpenSkipper](http://openskipper.org/).
 
-Not tested:
+No se ha probado:
 
 * [MacENC](http://macenc.com/)
 * [PolarView NS](http://www.polarnavy.com/)
 
-So it does use the command set which is used in the CANBOAT actisense-serial program. Sending and receiving data into the N2K network can be done directly from OpenPlotter too.
+Por lo tanto utiliza el conjunto de comandos que a su vez se usan en el programa CANBOAT actisense-serie. Desde OpenPlotter también se puede enviar y recibir datos de red N2K directamente.
 
-New PGNs are not blocked, as they are on other devices capable to work with CANBOAT. The transmission speed can be set higher than the CAN bus speed. Other devices capable to work with CANBOAT have a lower transferrate than N2K networks and they may suffer a bottleneck.
+Los nuevos PGNs no están bloqueados, porque están en otros dispositivos capaces de funcionar con CANBOAT. Se puede establecer una velocidad de transmisión mayor que la velocidad del CAN bus. Otros dispositivos capaces de trabajar con CANBOAT tienen una tasa de transferencia más baja que las redes N2K, por lo que pueden sufrir un efecto de  cuello de botella.
 
 {% hint style="success" %}
-This item is available in our [Web Shop](http://shop.sailoog.com).
+Este artículo está disonible en nuestra [Tienda de la Web](http://shop.sailoog.com).
 {% endhint %}
 
-## Warning / Disclaimer
+## Aviso / Descargo de responsabilidad
 
-CAN-USB Stick is a research project on data communication on CAN bus and N2K networks in boats.
+El CAN-USB Stick es un proyecto de investigación sobre comunicación de datos en CAN bus y redes N2K en barcos.
 
-The software is still under development and has not been fully tested. Malfunctions of the CAN-USB Stick or any connected device might be possible at any time. Manipulating your N2K network could cause damage to connected devices.
+El software está todavía en desarrollo y no ha sido probado totalmente. Funcionarmientos inadecuados del CAN-USB Stick or any connected device might be possible at any time. Manipulating your N2K network could cause damage to connected devices.
 
 Do not rely on data from this device and do not use it as primary source for navigation. Liability cannot be accepted for any damages, personal injuries or malfunctions caused by this device.
 

@@ -71,9 +71,9 @@ Vous pouvez également mettre à jour OpenCPN et les plugins vers la dernière v
 
 ### Numérotation des versions {#version-numbering}
 
-OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
+Les livraisons d'OpenPlotter ont trois nombres: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) et un mot \(**alpha**, **beta** ou **stable**\).
 
-When **c** increases, there is a minor change and means that only the OpenPlotter code has changed. When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated too. When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case a new OpenPlotter image will be released and you have to burn a new SD card.
+Quand **c** augmente, il s'agit de d'une évolution mineure, et cela veut dire que seul le code d'OpenPlotter a changé. When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated too. When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case a new OpenPlotter image will be released and you have to burn a new SD card.
 
 **Alpha** means that some parts still need development. **Beta** means that all parts have been developed and there are not fatal errors but it needs to be tested by users in different scenarios. Text will be translated from English into other languages on this stage. **Stable** means that OpenPlotter code and dependencies have already been tested and there are not errors.
 

@@ -73,11 +73,19 @@ Vous pouvez également mettre à jour OpenCPN et les plugins vers la dernière v
 
 Les livraisons d'OpenPlotter ont trois nombres: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) et un mot \(**alpha**, **beta** ou **stable**\).
 
-Quand **c** augmente, il s'agit de d'une évolution mineure, et cela veut dire que seul le code d'OpenPlotter a changé. When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated too. When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case a new OpenPlotter image will be released and you have to burn a new SD card.
+Quand **c** augmente, il s'agit de d'une évolution mineure, et cela veut dire que seul le code d'OpenPlotter a changé. 
 
-**Alpha** means that some parts still need development. **Beta** means that all parts have been developed and there are not fatal errors but it needs to be tested by users in different scenarios. Text will be translated from English into other languages on this stage. **Stable** means that OpenPlotter code and dependencies have already been tested and there are not errors.
+Quand **b** augmente, il s'agit d'une évolution majeure et cela veut dire que d'autres packages ou dépendances ont également besoin d'être ajoutés ou mise à jour.
 
-You can know what version you are running selecting the option _About_ in _Help_ menu.
+Quand **a** augmente, il s'agit d'une montée de version et cela veut dire que Raspbian a également besoin d'être mis à jour. Dans ce cas, une nouvelle image d'OpenPlotter est publiée et il est nécessaire de flasher une nouvelle carte SD.
+
+**Alpha** signifie que des parties sont encore en cours de développement. 
+
+**Beta** signifie que tout a été développé, qu'il n'y a plus d'erreurs bloquantes mais que tous les tests, tous les scénarios n'ont pas encore été effectué par les utilisateurs. Les textes d'OpenPlotter sont traduits depuis l'anglais vers les autres langages à ce moment.
+
+**Stable** signifie que tant le code d'OpenPlotter que toutes les dépendances ont été testées et qu'il n'y a plus d'erreur.
+
+Vous pouvez savoir quelle version vous exécutez en choisissant l'option _About_ du menu _Help_.
 
 ![](../.gitbook/assets/about.png)
 
@@ -85,11 +93,13 @@ You can know what version you are running selecting the option _About_ in _Help_
 
 ## Système de restauration
 
-If our system gets damaged or unstable, we can recover it from the NOOBS installer that resides on your SD and install OpenPlotter again. Press the Shift key when you see this symbol at startup:
+Si votre système est endommagé ou instable, vous pouvez le restaurer depuis le module d'installation de NOOBS, qui est stocké sur la carte SD et installe de nouveau OpenPlotter. Pour le lancer, appuyer la touche Shift quand vous voyez ce symbole au démarrage:
 
 ![](../.gitbook/assets/recovery.png)
 
 {% hint style="danger" %}
-**You will lose all data, manually installed programs and settings after recovering.**
+**En le faisant, vous perdrez toutes vos données, les logiciels installés manuellement, et tout le paramétrage effectué après l'installation.**
 {% endhint %}
+
+
 

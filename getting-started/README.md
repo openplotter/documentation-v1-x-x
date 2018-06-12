@@ -46,13 +46,13 @@ Une fois fait, OpenPlotter démarrera directement, chaque fois que Raspberry Pi 
 
 La résolution native des écrans de 800x480 est automatiquement détectée. Le bon réglage pour que cela fonctionnement correctement sera opérationnel au prochain démarrage! Si vous avez un tel écran, re-démarrez.
 
-OpenPlotter is configured as a WiFi access point by default. You can connect to it using this pasword:
+OpenPlotter est configuré en tant que point d'accès WiFi par défaut. Le mot de passe pour s'y connecter est le suivant:
 
 SSID: openplotter  
-Password: 12345678
+Mot de passe: 12345678
 
 {% hint style="danger" %}
-You should change this password as soon as possible. Other important settings should be changed, please go to _First settings_ page to know how.
+Vou devriez changer ce mot de passe dès que possible. Il y a d'autres paramétrages importants qui devraient être changés, rendez-vous sur please go to _First settings_ page to know how.
 {% endhint %}
 
 {% page-ref page="first-settings.md" %}

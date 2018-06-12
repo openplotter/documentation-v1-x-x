@@ -52,12 +52,10 @@ SSID: openplotter
 Mot de passe: 12345678
 
 {% hint style="danger" %}
-Vou devriez changer ce mot de passe dès que possible. Il y a d'autres paramétrages importants qui devraient être changés, rendez-vous sur please go to _First settings_ page to know how.
+Vous devriez changer ce mot de passe dès que possible. Il y a d'autres paramétrages importants qui devraient être changés, rendez-vous sur [Première configuration](first-settings.md) pour savoir lesquels et comment.
 {% endhint %}
 
-{% page-ref page="first-settings.md" %}
-
-You can also run OpenPlotter without monitor \(headless\) using any laptop, desktop computer, tablet or smart-phone as a remote desktop client.
+Il est aussi possible d'exécuter OpenPlotter sans écran, en utilisant soit un portable, soit un ordinateur fixe, une tablette ou un smart-phone en tant que client bureau à distance.
 
 {% page-ref page="headless.md" %}
 

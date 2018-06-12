@@ -1,4 +1,4 @@
-# First settings
+# Première configuration
 
 ## General settings
 

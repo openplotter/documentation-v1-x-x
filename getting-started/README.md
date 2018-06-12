@@ -44,7 +44,7 @@ Une fois fait, OpenPlotter démarrera directement, chaque fois que Raspberry Pi 
 
 ![OpenPlotter startup window](../.gitbook/assets/startup.png)
 
-The native monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If you have such a monitor, restart.
+La résolution native des écrans de 800x480 est automatiquement détectée. Le bon réglage pour que cela fonctionnement correctement sera opérationnel au prochain démarrage! Si vous avez un tel écran, re-démarrez.
 
 OpenPlotter is configured as a WiFi access point by default. You can connect to it using this pasword:
 

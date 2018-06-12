@@ -1,4 +1,4 @@
-# Headless
+# Mode sans écran
 
 ## First boot
 

@@ -59,13 +59,13 @@ Il est aussi possible d'exécuter OpenPlotter sans écran, en utilisant soit un 
 
 {% page-ref page="headless.md" %}
 
-## Mettre à jour
+## Mise à jour
 
-From OpenPlotter  v0.10.0, you can update your installation without need of burning a new SD card.
+Depuis la version v 0.10.0 d'OpenPlotter, il est possible de mettre à jour son installation sans avoir à flasher une nouvelle carte SD.
 
-Be sure you are connected to Internet and go to _Updates_ in the OpenPlotter main menu and then to _Update OpenPlotter_. OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
+Assurez-vous d'être connecté à Internet et ouvrez allez à l'option _Updates,_ du menu principal d'OpenPlotter, puis _Update OpenPlotter_. OpenPlotter vérifiera alors si vous avez besoin d'une mise à jour mineure ou majeur et fera tout le travail pour vous.
 
-You can also update OpenCPN and plugins to the latest stable releases and restore the desktop settings if it has changed after an update.
+Vous pouvez également mettre à jour OpenCPN et les plugins vers la dernière version stable et restaurer la configuration, si elle a changée après une mise à jour.
 
 ![](../.gitbook/assets/update.png)
 

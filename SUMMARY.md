@@ -7,7 +7,7 @@
 * [Comment participer ?](how-to-collaborate.md)
 * [Par où commencer?](getting-started/README.md)
   * [Première configuration](getting-started/first-settings.md)
-  * [Headless](getting-started/headless.md)
+  * [Mode sans écran](getting-started/headless.md)
 * [OpenCPN](opencpn/README.md)
   * [Charts](opencpn/charts.md)
 * [Signal K server](signal-k-server/README.md)

@@ -2,11 +2,11 @@
 
 ## Paramétrage général
 
-Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
+Dans le menu général Raspberry choisir _Preferences_ puis sélectionner _Raspberry Pi Configuration_
 
 ![](../.gitbook/assets/rpisetup1.jpg)
 
-A window will open where you can personalize your system. 
+Une fenêtre s'ouvrira, vous permettant de personaliser votre système. 
 
 ![](../.gitbook/assets/rpisetup3.jpg)
 

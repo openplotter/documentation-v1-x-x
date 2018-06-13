@@ -1,6 +1,6 @@
 # Première configuration
 
-## General settings
+## Paramétrage général
 
 Go to _Menu &gt; Preferences_ and select _Raspberry Pi Configuration_
 
@@ -20,7 +20,7 @@ If you need to set your system localisation, click on the _Localisation_ tab and
 
 ![](../.gitbook/assets/rpisetup2.jpg)
 
-## Network settings
+## Configuration du réseau
 
 {% hint style="danger" %}
 If a WiFi access point is enabled please change the default password as soon as possible in _Network_ tab. There you can disable the access point or set another network mode too.
@@ -28,7 +28,7 @@ If a WiFi access point is enabled please change the default password as soon as 
 
 {% page-ref page="../network.md" %}
 
-## Signal K settings
+## Configuration Signal K
 
 Signal K server provides many useful tools and you will have to visit its administration panel often. Go to _Menu_ &gt; _OpenPlotter_ &gt; _Signal K._
 

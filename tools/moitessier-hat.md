@@ -52,6 +52,14 @@ Press _Install_ and a terminal window will open. The drivers will be installed a
 
 ![](../.gitbook/assets/moitessier_settings4.png)
 
+## Configuring compass, heel and trim reception
+
+{% page-ref page="moitessier-hat.md" %}
+
+## Configuring pressure reception
+
+## Getting info from the HAT
+
 ## Enclosure
 
 ![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
@@ -65,16 +73,6 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
-
-## Configuring GNSS and AIS reception
-
-## Configuring compass, heel and trim reception
-
-{% page-ref page="../pypilot/compass-calibration.md" %}
-
-## Configuring pressure reception
-
-## Getting info from the HAT
 
 
 

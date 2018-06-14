@@ -38,13 +38,19 @@ _Moitessier HAT package is not installed!_
 
 Go to _Install_ tab and check your Kernel version. In the picture below the Kernel version is _4.14.34_
 
-Select the package matching your Kernel version in Available packages field. Only the first 3 figures are important, in this case _4.14.34_
+Select the package matching your Kernel version in _Available packages_ field. Only the first 3 figures are important, in this case _4.14.34_
 
 ![](../.gitbook/assets/moitessier_settings1.png)
 
 Press _Install_ and a terminal window will open. The drivers will be installed and the firmware of the HAT will be updated. The system will automatically reboot at the end of the process.
 
 ![](../.gitbook/assets/moitessier_settings2.png)
+
+## Configuring GNSS and AIS reception
+
+![](../.gitbook/assets/moitessier_settings3.png)
+
+![](../.gitbook/assets/moitessier_settings4.png)
 
 ## Enclosure
 

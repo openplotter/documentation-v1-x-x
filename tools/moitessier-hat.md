@@ -25,7 +25,18 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ![](../.gitbook/assets/moitessier-hat-quick-start-guide-page3.jpg)
 
-### Enclosure
+## Installing drivers
+
+After mounting the HAT go to _OpenPlotter - Tools - Moitessier HAT_. A small window will open, press _start_.
+
+![](../.gitbook/assets/moitessier_settings0.png)
+
+A new window will open and you will see:
+
+_Moitessier HAT is attached._   
+_Moitessier HAT package is not installed!_
+
+## Enclosure
 
 ![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
 
@@ -33,13 +44,11 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
 
-### External antennas
+## External antennas
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
-
-## Installing drivers
 
 ## Configuring GNSS and AIS reception
 

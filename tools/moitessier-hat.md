@@ -54,11 +54,13 @@ Press _Install_ and a terminal window will open. The drivers will be installed a
 
 ## Configuring compass, heel and trim reception
 
-{% page-ref page="moitessier-hat.md" %}
+{% page-ref page="../pypilot/compass-calibration.md" %}
 
 ## Configuring pressure reception
 
 ## Getting info from the HAT
+
+## Advanced settings
 
 ## Enclosure
 

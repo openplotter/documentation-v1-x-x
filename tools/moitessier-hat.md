@@ -36,6 +36,16 @@ A new window will open and you will see:
 _Moitessier HAT is attached._   
 _Moitessier HAT package is not installed!_
 
+Go to _Install_ tab and check your Kernel version. In the picture below the Kernel version is _4.14.34_
+
+Select the package matching your Kernel version in Available packages field. Only the first 3 figures are important, in this case _4.14.34_
+
+![](../.gitbook/assets/moitessier_settings1.png)
+
+Press _Install_ and a terminal window will open. The drivers will be installed and the firmware of the HAT will be updated. The system will automatically reboot at the end of the process.
+
+![](../.gitbook/assets/moitessier_settings2.png)
+
 ## Enclosure
 
 ![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)

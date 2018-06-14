@@ -10,15 +10,17 @@ Une fenêtre s'ouvrira, vous permettant de personaliser votre système.
 
 ![](../.gitbook/assets/rpisetup3.jpg)
 
-{% hint style="danger" %}
-It is a good idea to change the password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
-
-If you do not change the password, anyone will be able to connect to OpenPlotter remotely. Please do it now.
-{% endhint %}
-
-If you need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_ \(language\), _Set Timezone, Set Keyboard_ and _Set WiFi Country_ buttons.
+Si vous avez besoin de préciser la localisation de votre système \(et si vous lisez ces pages, c'est probable\), cliquez sur l'onglet _Localisation_ puis le bouton _Set Locale_ \(pour choisir la langue\), puis sur les boutons _Set Timezone, Set Keyboard  et Set WiFi Country_.
 
 ![](../.gitbook/assets/rpisetup2.jpg)
+
+{% hint style="danger" %}
+C'est une bonne idée que de changer le mot de passe pour rendre OpenPlotter plus sécure. Pour cela, cliquez sur _Change Password_ \( mot de passe par défaut : raspberry\).
+
+Si vous ne le faites pas, n'importe qui pourra se connecter à distance à OpenPlotter. S'il vous plait, faites le maintenant.
+
+Il est préférable d'avoir choisit la localisation avant, de manière à ce que le clavier soit correctement interprété.
+{% endhint %}
 
 ## Configuration du réseau
 

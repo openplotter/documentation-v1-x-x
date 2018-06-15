@@ -86,7 +86,7 @@ Work in progress.
 Work in progress.
 {% endhint %}
 
-{% page-ref page="moitessier-hat.md" %}
+{% page-ref page="../i2c/" %}
 
 ## Getting info from the HAT
 

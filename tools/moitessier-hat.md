@@ -64,27 +64,49 @@ After installing drivers a new device should appear in _Serial_ tab. Select the 
 
 The system will find the best settings for you. 
 
-* You can change the field _name /dev/ttyOP\__ value as you want \(only number, lowercase letters and no symbols or spaces\). 
+* You can change the field _name /dev/ttyOP\__ value as you want \(only numbers, lowercase letters and no symbols or spaces\). 
 * You could set the _assignment_ field value to _Kplex_ too but we recommend _GPSD_. 
 * Select _Remember port \(position on the USB-hub\)_ only if the HAT creates some conflict with another device.
 
 ![](../.gitbook/assets/moitessier_settings4.png)
 
-Press _apply_ and you are done! Open OpenCPN and you should get position and AIS targets.
+Press _apply_ and you are done! go to OpenCPN and you should get position and AIS targets.
 
 ## Configuring compass, heel and trim reception
+
+{% hint style="warning" %}
+Work in progress.
+{% endhint %}
 
 {% page-ref page="../pypilot/compass-calibration.md" %}
 
 ## Configuring pressure reception
 
+{% hint style="warning" %}
+Work in progress.
+{% endhint %}
+
+{% page-ref page="moitessier-hat.md" %}
+
 ## Getting info from the HAT
 
+{% hint style="warning" %}
+Work in progress.
+{% endhint %}
+
 ## Advanced settings
+
+{% hint style="warning" %}
+Work in progress.
+{% endhint %}
 
 ## Enclosure
 
 ![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
+
+{% hint style="warning" %}
+Coming soon
+{% endhint %}
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).

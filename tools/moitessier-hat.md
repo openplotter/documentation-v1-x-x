@@ -23,7 +23,13 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 ![](../.gitbook/assets/moitessier-hat-quick-start-guide-page2.jpg)
 
+## Removing the HAT
+
 ![](../.gitbook/assets/moitessier-hat-quick-start-guide-page3.jpg)
+
+{% hint style="danger" %}
+You can damage your Raspberry or your HAT if you do not remove it carefully, please watch this video before removing: [https://vimeo.com/273692504](https://vimeo.com/273692504)
+{% endhint %}
 
 ## Installing drivers
 
@@ -36,21 +42,35 @@ A new window will open and you will see:
 _Moitessier HAT is attached._   
 _Moitessier HAT package is not installed!_
 
-Go to _Install_ tab and check your Kernel version. In the picture below the Kernel version is _4.14.34_
+Go to _Install_ tab and check your Kernel version. Only the first 3 figures are important, in this case _4.14.34_
 
-Select the package matching your Kernel version in _Available packages_ field. Only the first 3 figures are important, in this case _4.14.34_
+Select the package matching your Kernel version in _Available packages_ field and press _Install_. 
 
 ![](../.gitbook/assets/moitessier_settings1.png)
 
-Press _Install_ and a terminal window will open. The drivers will be installed and the firmware of the HAT will be updated. The system will automatically reboot at the end of the process.
+A terminal window will open. The drivers will be installed and the firmware of the HAT will be updated. The system will automatically reboot at the end of the process.
 
 ![](../.gitbook/assets/moitessier_settings2.png)
 
+{% hint style="warning" %}
+If your HAT stops working after a major OpenPloter update, this means that your Kernel has been updated too. In this case go back to this window and repeat the procedure. If a matching package does not exist, please contact us as soon as possible.
+{% endhint %}
+
 ## Configuring GNSS and AIS reception
+
+After installing drivers a new device should appear in _Serial_ tab. Select the new device an press _auto_.
 
 ![](../.gitbook/assets/moitessier_settings3.png)
 
+The system will find the best settings for you. 
+
+* You can change the field _name /dev/ttyOP\__ value as you want \(only number, lowercase letters and no symbols or spaces\). 
+* You could set the _assignment_ field value to _Kplex_ too but we recommend _GPSD_. 
+* Select _Remember port \(position on the USB-hub\)_ only if the HAT creates some conflict with another device.
+
 ![](../.gitbook/assets/moitessier_settings4.png)
+
+Press _apply_ and you are done! Open OpenCPN and you should get position and AIS targets.
 
 ## Configuring compass, heel and trim reception
 

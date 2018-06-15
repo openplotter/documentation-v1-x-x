@@ -33,6 +33,10 @@ You can damage your Raspberry or your HAT if you do not remove it carefully, ple
 
 ## Installing drivers
 
+{% hint style="warning" %}
+Before installing Moitessier HAT drivers [update to the latest OpenPlotter](https://docs.sailoog.com/openplotter-v1-x-x/getting-started#updating) version.
+{% endhint %}
+
 After mounting the HAT go to _OpenPlotter - Tools - Moitessier HAT_. A small window will open, press _start_.
 
 ![](../.gitbook/assets/moitessier_settings0.png)

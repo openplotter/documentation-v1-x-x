@@ -1,36 +1,38 @@
 # How to collaborate
 
-## What do we need from you?
+## Was brauchen wir von Dir?
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Alles benötigt Zeit, Geld und Fleiß. Von zweien brauchst eine Menge, vom Dritten ein bischen. Nimmt eins zu, verringert sich der Bedarf bei den anderen beiden.
 
-[Moe's Law, Navigatrix project.](http://navigatrix.net)
+Moe's Gesetze, Projekt Navigatrix[.](http://navigatrix.net)
 
-### Time
+### Zeit
 
-Get a Raspberry Pi and the required elements, download OpenPlotter and test and test and test ...
+Beschaffe Dir einen Raspberry Pi und die anderen benötigten Teile, lade OpenPlotter RPI herunter und teste, teste, teste...
 
-Report bugs and request new features on [OpenMarine forums](http://forum.openmarine.net/).
+Fehlermeldungen und Ideen für neue Funktionen kommen in das OpenMarine Forum[\[2\]](http://forum.openmarine.net/).
 
-Spread the word among your friends in ports and forums.
+Verbreite das Projekt unter Deinen Freunden und in den Häfen.
 
 If you want to help translating this documentation to your language get in [contact with us](http://www.sailoog.com/contact). English is not our first language, so please feel free to correct any mistake.
 
 If you want to help translating the software to your language create an account on [Crowdin platform and edit our project](https://crowdin.com/project/openplotter).
 
-### Money
+### Geld
 
-This project is financed by selling related and tested products or by voluntary contributions. You can buy or donate on the [Web Shop](http://shop.sailoog.com/).
+Dieses Projekt wird finanziert durch den Verkauf von damit in Zusammenhang stehenden Produkten und Spenden. Du kannst im Webshop kaufen und spenden.
 
-### Monkeys
+### Fleiß
 
-> Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
+> Männer für gefährliche Reise gesucht. Niedriger Lohn, bittere Kälte, lange Stunden völliger Dunkelheit. Sichere Rückkehr ungewiß.Ehre und Anerkennung im Falle des Erfolgs.
 
 Ernest Shackleton
 
-If you have python skills, push your commits to the [github repository](https://github.com/sailoog/openplotter).
+Wenn Du Fähigkeiten in Python hast, nutze das Github Repo.
 
-If you have electronics skills, share your work on [OpenMarine forums](http://forum.openmarine.net/).
+Liegen Deine Stärken in der Elektronik, teile Deine Entwicklungen im OpenMarine Forum.
+
+
 
 
 

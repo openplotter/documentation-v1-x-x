@@ -1,39 +1,39 @@
-# What do you need?
+# Welche Dinge benötigst Du?
 
-You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+Es gibt unbedingt notwendige und ein paar zusätzliche Teile. Es hängt davon ab, welche Daten Du sammeln, verarbeiten und darstellen willst und wie Dein Boot bereits ausgestattet ist.
 
-## Required items
+## Benötigte Teile
 
-You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor \(**headless**\).
+Zunächst brauchst Du folgende Teil, um _das Programm_ ans Laufen zu bringen, wobei es hier zwei Möglichkeiten gibt: Zum einen den Betrieb mit direkt angeschlossenem **Monitor**, zum anderen den Betrieb ohne Monitor \(**headless**\).
 
-If you need help with these basic parts see the official [Raspberry Pi documentation](https://www.raspberrypi.org/learning/hardware-guide/). You can buy these basic parts from any [official distributor](https://www.raspberrypi.org/products/) or any Raspberry store.
+Wenn Du Hilfe benötigst für die Basis-Teile, wirf einen Blick in die offizielle Raspberry Pi Dokumentation. Du kannst die grundlegenden Teile bei einem offiziellen Distributor kaufen oder in einem Raspberry Shop..
 
-### Monitor option
+### Möglichkeit 1: mit Bildschirm
 
 * **Raspberry Pi 3**
-* **Box**
+* **Gehäuse** 
 * **Power supply**
-* **HDMI monitor**
-* **Keyboard and mouse**
-* **SD card with OpenPlotter** \(_the software_\)
+* **HDMI Bildschirm**
+* **Tastatur und Maus**
+* **SD-Karte mit OpenPlotter** \(_das Programm_\)
 
 ![](.gitbook/assets/start.png)
 
-### Headless option
+### Möglichkeit 2: Headless
 
 * **Raspberry Pi 3**
-* **Box**
-* **Power supply**
-* **SD card with OpenPlotter** \(_the software_\)
-* **Any laptop, tablet or smartphone**
+* **Gehäuse**
+* **Netzteil**
+* **SD-Karte mit OpenPlotter** \(_das Programm_\)
+* **Ein Laptop, Tablett oder Smartphone**
 
 
 
 ![](.gitbook/assets/start2.png)
 
-## Optional items
+## optionales Zubehör
 
-We officially develop, support or distribute some devices which are specifically designed to be used in OpenPlotter but you can also use them with other systems:
+Wir entwicklen, unterstützen und vertreiben einige Geräte, die speziell für die Benutzung mit OpenPlotter gemacht wurden, sie können jedoch auch mit anderen Systemen benutzt werden:
 
 {% page-ref page="tools/moitessier-hat.md" %}
 
@@ -41,7 +41,7 @@ We officially develop, support or distribute some devices which are specifically
 
 {% page-ref page="pypilot/pypilot-hardware.md" %}
 
-Next chapters contain a list of supported devices to communicate with your boat and sensors to collect data from environment:
+Das nächste Kapitel beinhaltet eine Liste der unterstützten Geräte und Sensoren sowie die Kommunikation damit, um Umgebungsdaten zu sammeln:
 
 {% page-ref page="serial/serial-devices.md" %}
 

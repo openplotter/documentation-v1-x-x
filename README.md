@@ -1,4 +1,4 @@
-# Was ist OpelnPlotter?
+# Was ist OpenPlotter?
 
 ![](.gitbook/assets/openplotter500x300.png)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Was ist OpelnPlotter?](README.md)
+* [Was ist OpenPlotter?](README.md)
 * [Features](features.md)
 * [Wie funktioniert es?](how-does-it-work.md)
 * [Welche Dinge benötigst Du?](what-do-you-need.md)

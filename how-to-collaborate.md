@@ -1,4 +1,4 @@
-# How to collaborate
+# Wie können wir zusammenarbeiten?
 
 ## Was brauchen wir von Dir?
 

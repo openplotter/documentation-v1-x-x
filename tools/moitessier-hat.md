@@ -82,6 +82,22 @@ Press _apply_ and you are done! go to OpenCPN and you should get position and AI
 Work in progress.
 {% endhint %}
 
+To enable magnetic heading, heel and trim reception you have to go to _pypilot_ tab.
+
+Select _IMU only_ in _pypilot mode_ or _basic autopilot_ if you have a pypilot installation.
+
+Check the type of data you want to enable, heading or/and trim and heel \(pitch, roll\).
+
+Select a translation rate \(0.5 or 1 seconds should be enough\).
+
+Press _Apply changes_ and you are done!
+
+Open OpenCPN and check that you are getting magnetic heading data.
+
+There are not NMEA 0183 standard sentences for trim and heel so you will not be able to check this in OpenCPN. Open any Signal K data viewer and you will see data for pitch and roll flowing.
+
+OpenPlotter constantly and automatically calibrates the IMU in order to get accurate magnetic heading readings. Read the calibration chapter to follow some advices:
+
 {% page-ref page="../pypilot/compass-calibration.md" %}
 
 ## Configuring pressure reception
@@ -124,7 +140,7 @@ You need to connect a suitable VHF antenna to the HAT in order to be able to get
 
 ### GNSS
 
-There is an integrated patch antenna for GNSS and it should be enough for most cases but if you have an metallic boat or you place the HAT under metallic equipment, you may need an optional external GNSS antenna. The HAT uses a **BNC female connector** for GNSS reception. If your antenna uses a different connector you will need an adapter.
+There is an integrated patch antenna for GNSS and it should be enough for most cases but if you have a metallic boat or you place the HAT under metallic equipment, you may need an optional external GNSS antenna. The HAT uses a **BNC female connector** for GNSS reception. If your antenna uses a different connector you will need an adapter.
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).

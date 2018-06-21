@@ -78,23 +78,25 @@ Press _apply_ and you are done! go to OpenCPN and you should get position and AI
 
 ## Configuring compass, heel and trim reception
 
-{% hint style="warning" %}
-Work in progress.
-{% endhint %}
-
 To enable magnetic heading, heel and trim reception you have to go to _pypilot_ tab.
 
 Select _IMU only_ in _pypilot mode_ or _basic autopilot_ if you have a pypilot installation.
 
 Check the type of data you want to enable, heading or/and trim and heel \(pitch, roll\).
 
-Select a translation rate \(0.5 or 1 seconds should be enough\).
+Select a translation rate \(0.5 or 1 second should be enough\).
 
 Press _Apply changes_ and you are done!
 
+![](../.gitbook/assets/imu0.png)
+
 Open OpenCPN and check that you are getting magnetic heading data.
 
+![](../.gitbook/assets/imu1.png)
+
 There are not NMEA 0183 standard sentences for trim and heel so you will not be able to check this in OpenCPN. Open any Signal K data viewer and you will see data for pitch and roll flowing.
+
+![](../.gitbook/assets/imu2.png)
 
 OpenPlotter constantly and automatically calibrates the IMU in order to get accurate magnetic heading readings. Read the calibration chapter to follow some advices:
 

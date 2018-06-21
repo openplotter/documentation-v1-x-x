@@ -13,7 +13,7 @@
 * Data communication via SPI \(AIS, GNSS and meta data\) and via I2C \(sensor data\). Data accessible via device driver and device file.
 * Supports ID EEPROM and automatic device tree loading
 * 3 status LEDs \(AIS status, GNSS status, error\)
-* Full OpenPlotter compatible. Plug and play.
+* Full OpenPlotter compatible.
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).
@@ -104,9 +104,9 @@ OpenPlotter constantly and automatically calibrates the IMU in order to get accu
 
 ## Configuring pressure reception
 
-{% hint style="warning" %}
-Work in progress.
-{% endhint %}
+Moitessier HAT has a MS5607-02BA03 sensor for barometric pressure and temperature. Atmospheric pressure readings are reliable, but temperature readings can not be considered reliable because it is affected by the temperature of the HAT and the Raspberry. However, it is a good way to get the temperature of your system.
+
+To learn how to configure this feature, go to I2C chapter and follow the example:
 
 {% page-ref page="../i2c/" %}
 

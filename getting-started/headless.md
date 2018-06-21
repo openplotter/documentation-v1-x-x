@@ -1,13 +1,13 @@
 # Mode sans écran
 
-## First boot
+## Premier démarrage
 
-After creating the SD with OpenPlotter NOOBS installer, insert it into your Raspberry Pi, connect power and wait until a new WiFi network _openplotter_ appears on the list of available access points. It could take up to half an hour to complete the process.
+Après avoir créé la carte SD OpenPlotter sous NOOBS, l'insérer dans le Raspberry Pi, connecter l'alimentation et attendre l'apparition d'un nouveau réseau Wifi _openplotter_ dans la liste des points d'accès valides. Le process peut demander jusqu'à une demie heure pour se dérouler.
 
 SSID: openplotter  
-Password: 12345678
+Mot de passe: 12345678
 
-## Connecting
+## Connexion
 
 * Install [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) on your laptop, desktop computer, tablet or smart-phone
 * Open VNC Viewer and select _File -&gt; New connection_

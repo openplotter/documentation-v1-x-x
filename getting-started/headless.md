@@ -15,16 +15,16 @@ Mot de passe: 12345678
 
 ![](../.gitbook/assets/vnc_client1.png)
 
-* Introduce the _Username_: pi
-* Introduce the _Password_: raspberry
-* Select _Remember password_, press _OK_ and you are in!
+* Taper le _Nom utilisateur_: pi
+* Taper le _Mot de passe_: raspberry
+* Cliquer _OK_  et vous y êtes!
 
 ![](../.gitbook/assets/vnc_client2.png)
 
-## Change passwords
+## Changer identité et mot de passe
 
 {% hint style="danger" %}
-Please change the WiFi access point defaul password and the _pi_ user default password as soon as possible. If you do not do this, anyone will be able to connect to your system. See _First settings._
+Changer l'utilisateur du point d'accès et son mot de passe  par défaut au plus tôt. Sinon, n'importe qui pourra se connecter à votre système.
 {% endhint %}
 
 {% page-ref page="first-settings.md" %}

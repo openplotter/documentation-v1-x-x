@@ -9,9 +9,9 @@ Mot de passe: 12345678
 
 ## Connexion
 
-* Install [RealVNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) on your laptop, desktop computer, tablet or smart-phone
-* Open VNC Viewer and select _File -&gt; New connection_
-* Introduce the OpenPlotter address and press _OK._ If OpenPlotter is working as access point, the address is **10.10.10.1**_._ If it is working as client of another access point, you have to find out what address has the access point given to OpenPlotter.
+* Installer RealVNC Viewer sur votre portable, ordinateur, tablette ou smartphone
+* Lancer VNC Viewer et sélectionner _Fichier -&gt; Nouvelle connexion_
+* Renseigner l'adresse d'OpenPlotter et cliquer _OK._ Si OpenPlotter fonctionne en tant que point d'accès Wifi, son adresse est **10.10.10.1**_._ S'il est configuré comme client d'un autre point d'accès, vous devez trouver quelle adresse a été donnée à OpenPlotter au moment de sa connexion.
 
 ![](../.gitbook/assets/vnc_client1.png)
 

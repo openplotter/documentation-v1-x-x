@@ -76,6 +76,8 @@ The system will find the best settings for you.
 
 Press _apply_ and you are done! go to OpenCPN and you should get position and AIS targets.
 
+![](../.gitbook/assets/opencpn.jpg)
+
 ## Configuring compass, heel and trim reception
 
 To enable magnetic heading, heel and trim reception you have to go to _pypilot_ tab.

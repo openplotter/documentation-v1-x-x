@@ -2,95 +2,93 @@
 
 ![](../.gitbook/assets/can-usb-stick.png)
 
-## Project
+## Projet
 
-The CAN-USB Stick project was done to analyse the data stream on a N2K network sending and receiving CAN messages. It is electrically isolated to avoid damages.
+Le projet du Stick CAN-USB a été conduit pour analyser le flux de données d'un réseau N2K en envoyant et recevant des messages CAN. Le Stick est isolé électriquement pour éviter les dommages.
 
-The CAN-USB Stick is based on a stm32 micro-controller \(MCU\) connected to an isolated CAN transceiver and an USB to serial converter.
+ Le Stick CAN-USB V2 est basé sur un micro-contrôleur **stm32** \(MCU\) connecté à un émetteur/récepteur CAN et un adaptateur USB-Série.
 
-The program of the MCU has been re-engineered to work together with [CANBOAT](https://github.com/canboat/canboat) project, which is used by [Signal K](http://signalk.org/) project. Both packets are used in OpenPlotter.
+Le programme du micro-controlleur \(MCU\) a été revu pour travailler de concert avec le [projet CANBOAT](https://github.com/canboat/canboat), lui-même utilisé par le [projet Signal K](http://signalk.org/). Ces deux paquetages sont utilisés par le projet OpenPlotter.
 
-The CAN-USB Stick does also work with [OpenSkipper](http://openskipper.org/) project.
+ Le Stick CAN-USB fonctionne également avec le [projet OpenSkipper](http://openskipper.org/).
 
-Not tested:
+N'ont pas été testés:
 
 * [MacENC](http://macenc.com/)
 * [PolarView NS](http://www.polarnavy.com/)
 
-So it does use the command set which is used in the CANBOAT actisense-serial program. Sending and receiving data into the N2K network can be done directly from OpenPlotter too.
+Le Stick CAN-USB utilise les mêmes commandes que celles de l'interface Actisense-série de CANBOAT. Envoyer et recevoir des données depuis un réseau N2K peut être fait directement sous OpenPlotter.
 
-New PGNs are not blocked, as they are on other devices capable to work with CANBOAT. The transmission speed can be set higher than the CAN bus speed. Other devices capable to work with CANBOAT have a lower transferrate than N2K networks and they may suffer a bottleneck.
+Les nouveaux PGNs ne sont pas bloqués, puisqu'ils fonctionnent avec CANBOAT sur d'autres appareils. La vitesse de transmission peut être réglée plus haute que la vitesse du bus CAN. D'autre appareils, compatibles CANBOAT, ont une vitesse de transfert plus basse que le réseau N2K et peuvent devenir des goulots d'étranglement.
 
 {% hint style="success" %}
-This item is available in our [Web Shop](http://shop.sailoog.com).
+Cet article est disponible dans la [boutique Web](http://shop.sailoog.com).
 {% endhint %}
 
-## Warning / Disclaimer
+## Avertissement
 
-CAN-USB Stick is a research project on data communication on CAN bus and N2K networks in boats.
+Le Stick CAN-USB est un projet de recherche sur la communication de données entre le bus CAN bus et un réseau N2K sur les bateaux.
 
-The software is still under development and has not been fully tested. Malfunctions of the CAN-USB Stick or any connected device might be possible at any time. Manipulating your N2K network could cause damage to connected devices.
+Le programme est toujours en phase de développement et n'a pas été entièrement testé. Des disfonctionnements du Stick CAN-USB ou de tout appareil connecté sont possible à tout momment. Intervenir sur votre réseau N2K peut causer de dommages au appareils connectés.
 
-Do not rely on data from this device and do not use it as primary source for navigation. Liability cannot be accepted for any damages, personal injuries or malfunctions caused by this device.
+**Ne pas se reposer sur les données fournies par le Stick CAN-USB et ne pas l'utiliser comme support principal à la navigation. Aucune responsabilité ne sera acceptée pour tout dommages, blessures de personnes ou disfonctionnements causés par cet appareil.**
 
-The CAN-USB Stick is not certified by NMEA®.
+Le Stick CAN-USB n'est pas certifié NMEA®.
 
-It is not allowed to use the Actisense® NMEA Reader software for the CAN-USB Stick.
-
-## N2K networks
+L'utilisation du lecteur NMEA Actisense® pour le Stick CAN-USB n'est pas autorisée.
 
 ![](../.gitbook/assets/n2k_b.jpg)
 
-![Example of a small N2K Network](../.gitbook/assets/n2k_a.jpg)
+![Exemple d&apos;un petit r&#xE9;seau N2K](../.gitbook/assets/n2k_a.jpg)
 
-N2K networks are described in [Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). The backbone \(or trunk\) starts with a 120Ω terminator and ends with a 120Ω terminator. Two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
+ Les [réseaux N2K sont décrit dans Wikipedia](https://en.wikipedia.org/wiki/NMEA_2000). La colonne vertébrale \(backbone\) commence et finit par un bouchon de terminaison 120Ω \(deux résistances peuvent travailler en parallèle, donc la résistance est de 120Ω/2=60Ω\). S'il y a un connection rompue dans le backbone vous ne pourrez mesurer que 120Ω ou rien mais pas 60Ω. C'est un moyen très facile de vérifier le bus.
 
-![M12 male 120&#x3A9; terminator](../.gitbook/assets/resistor_conn.jpg)
+![Bouchon de terminaison m&#xE2;le 120&#x3A9;](../.gitbook/assets/resistor_conn.jpg)
 
-The drop line to devices should not be longer than 6 m. The backbone can have 100m in length.
+Une branche alimentant les appareils ne peut faire plus de 6m. La longueur du backbone est limitée à 100m.
 
-The CAN-USB Stick is electrically isolated so devices and your computer are protected even if they are powered by a different source than your N2K network.
+Le Stick CAN-USB est isolé électriquement, les appareils et votre ordinateur sont donc protégés même s'ils sont alimentés par d'autres sources que votre réseau N2K.
 
-## Connection
+## Connexion
 
-To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line should have a M12, 5 pin male connector in one side and 5 wires \(but we only need 2\) in the other side. The HIRSCHMANN ELST 5012 PG7 connector has a screw terminal.
+Pour connecter le Stick CAN-USB au réseau, vous avez besoin d'un connecteur en T libre sur votre backbone et d'une branche. La branche doit avoir d'un coté un connecteur mâle M12 5 broches et de l'autre 5 fils \(bien que seuls 2 soient utilisés\). Le connecteur HIRSCHMANN ELST 5012 PG7 a une terminaison visée.
 
-![T-connector](../.gitbook/assets/t-conn.jpg)
+![Connecteur en T](../.gitbook/assets/t-conn.jpg)
 
-![Drop line M12, 5 pins male connector side](../.gitbook/assets/m12_conn.jpg)
+![Branche cot&#xE9; connecteur m&#xE2;le M12 5 broches.](../.gitbook/assets/m12_conn.jpg)
 
-![Drop line wires side](../.gitbook/assets/micro_cable.jpg)
+![Branche cot&#xE9; fils](../.gitbook/assets/micro_cable.jpg)
 
 ![](../.gitbook/assets/can_usb_connect.jpg)
 
-* Pull out the green screw terminal of the stick.
-* Connect the drop line blue wire from pin 5 \(pin in the middle\) to the green terminal on CANL.
-* Connect the drop line white wire from pin 4 to the green terminal on CANH.
-* Turn off the main power switch to be sure that there is no power on the network.
-* Connect the drop line to the free T-connector on your backbone.
-* Use a multimeter and measure the resistance between CANH and CANL \(on the screws\). The resistance should be around 60 Ohm.
-* Connect the green screw terminal to the CAN-USB Stick.
-* Check again the 60 Ohm between CANH and CANL.
-* On the drop line there are three cables left. They have to be isolated.
-* Turn on the main power.
-* Switch on instrumentation.
+* Dévisser les vis de l'embout vert du Stick.
+* Connecter le fil bleu de la broche 5 de la branche \(broche du milieu\) au CANL sur l'embout vert du Stick.
+* Connecter le fil blanc de la broche 4 de la branche au CANH sur l'embout vert du Stick.
+* Ouvrir l'interrupteur principal, pour être sûr qu'il n'y a plus du courant sur le réseau.
+* Connecter la branche au connecteur en T libre sur votre backbone.
+* Utiliser un volmétre pour mesurer la résistance entre CANH et CANL \(sur les vis\). Elle doit être d'environ 60Ω.
+* Connecter l'embout vert au Stick CAN-USB.
+* Vérifier à nouveau les 60Ω entre CANH et CANL.
+* Il reste trois fils sur la branche qui doivent être isolés.
+* Alumer l'alimentation principale.
+* Alumer les instruments.
 
-If you have a Seatalk network, download this useful file: [Raymarine SeaTalk Network Connection Cross Reference](http://shop.sailoog.com/index.php?controller=attachment&id_attachment=1).
+Si vous avez un réseau Seatalk, télécharger cette documentation très utile: [Raymarine SeaTalk Network Connection Cross Reference](http://shop.sailoog.com/index.php?controller=attachment&id_attachment=1).
 
-To configure your CAN-USB Stick on Windows use OpenSkipper To configure it on OpenPlotter go to chapter:
+Pour configurer votre Stick CAN-USB sous Windows, utiliser OpenSkipper. Pour le configurer sous OpenPlotter se référer au chapitre:
 
 {% page-ref page="./" %}
 
 ## LED
 
-The CAN-USB Stick LED will be **OFF** 10" during the boot sequence and then:
+La LED du Stick CAN-USB est éteinte pendant 10" durant la séquence de démarrage puis:
 
-* Fixed **ON** if it is not connected to the network.
-* **ON** for a second if it is connected to the network.
-* Fixed **OFF** if there are not input data.
-* **FLASHING** if there are input data.
+* Allumée en permanence, si non connecté au réseau.
+* Allumée pendant 1", si connecté au réseau.
+* Eteinte, s'il n'y a pas de flux de données.
+* Scintillante si un flux de données transite.
 
 ## Support
 
-If you need support or you have any suggestion you can publish your questions on [OpenMarine forum](http://forum.openmarine.net/forumdisplay.php?fid=11).
+ Si vous avez besoin de support, ou pour toute suggestion, vous pouvez publier vos questions sur le [forum OpenMarine](http://forum.openmarine.net/forumdisplay.php?fid=11).
 

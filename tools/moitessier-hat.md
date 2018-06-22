@@ -96,7 +96,7 @@ Open OpenCPN and check that you are getting magnetic heading data.
 
 There are not NMEA 0183 standard sentences for trim and heel so you will not be able to check this in OpenCPN. Open any Signal K data viewer and you will see data for pitch and roll flowing.
 
-![](../.gitbook/assets/imu2.png)
+![](../.gitbook/assets/i2c3%20%281%29.png)
 
 OpenPlotter constantly and automatically calibrates the IMU in order to get accurate magnetic heading readings. Read the calibration chapter to follow some advices:
 

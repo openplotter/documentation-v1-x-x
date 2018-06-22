@@ -8,11 +8,11 @@
 * High-performance **GNSS receiver** with integrated patch antenna and external antenna support via BNC connector.
 * **Compass**, **heel** and **trim** from gyroscope, accelerometer and magnetometer sensors \(IMU\).
 * **Barometric pressure**.
-* Standalone usage or in combination with Raspberry Pi \(\). Sensors are directly accessible via Raspberry Pi. Standalone usage requires 3.3V power supply and sensors are controlled by the HAT’s microcontroller
-* Fully compatible with Raspberry Pi models supporting 40-pin IO header.
+* Standalone usage or in combination with Raspberry Pi. Standalone usage requires 3.3V power supply and sensors are controlled by the HAT’s microcontroller
+* Fully compatible with Raspberry Pi models 2, 3 and 3+ supporting 40-pin IO header.
 * Data communication via SPI \(AIS, GNSS and meta data\) and via I2C \(sensor data\). Data accessible via device driver and device file.
-* Supports ID EEPROM and automatic device tree loading
-* 3 status LEDs \(AIS status, GNSS status, error\)
+* Supports ID EEPROM and automatic device tree loading.
+* 3 status LEDs \(AIS status, GNSS status, error\).
 * Full OpenPlotter compatible.
 
 {% hint style="success" %}
@@ -112,6 +112,12 @@ To learn how to configure this feature, go to I2C chapter and follow the example
 
 {% page-ref page="../i2c/" %}
 
+## LEDs
+
+{% hint style="warning" %}
+Work in progress
+{% endhint %}
+
 ## Getting info from the HAT
 
 {% hint style="warning" %}
@@ -126,11 +132,11 @@ Work in progress.
 
 ## Enclosure
 
-![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
-
 {% hint style="warning" %}
 Coming soon
 {% endhint %}
+
+![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
 
 {% hint style="success" %}
 This item is available in our [Web Shop](http://shop.sailoog.com).

@@ -1,6 +1,6 @@
 # Comment cela marche ??
 
-OpenPlotter sait gérer des données NMEA 0183, NMEA 2000 et Signal K.
+OpenPlotter gére des données au format NMEA 0183, NMEA 2000 et Signal K.
 
 Tout flux entrant en format NMEA 0183 ou 2000 est traduit au format Signal K. Certains capteurs génèrent directement des flux en au format Signal K.
 

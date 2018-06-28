@@ -1,6 +1,6 @@
 # Moitessier HAT
 
-![](../.gitbook/assets/moitessier_hat.png)
+![](../.gitbook/assets/moitessier_hat%20%281%29.png)
 
 ## Features
 

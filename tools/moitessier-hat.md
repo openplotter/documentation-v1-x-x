@@ -1,6 +1,6 @@
 # Moitessier HAT
 
-![](../.gitbook/assets/moitessier-hat-quick-start-guide-page1.jpg)
+![](../.gitbook/assets/moitessier_hat.png)
 
 ## Features
 
@@ -29,6 +29,34 @@ This item is available in our [Web Shop](http://shop.sailoog.com).
 
 {% hint style="danger" %}
 You can damage your Raspberry or your HAT if you do not remove it carefully, please watch this video before removing: [https://vimeo.com/273692504](https://vimeo.com/273692504)
+{% endhint %}
+
+## Mounting the HAT into the case
+
+![](../.gitbook/assets/case-quick-installation-web-p1.jpg)
+
+![](../.gitbook/assets/case-quick-installation-web-p2.jpg)
+
+![](../.gitbook/assets/case-quick-installation-web-p3.jpg)
+
+![](../.gitbook/assets/case-quick-installation-web-p4.jpg)
+
+{% hint style="success" %}
+This item is available in our [Web Shop](http://shop.sailoog.com).
+{% endhint %}
+
+## External antennas
+
+### AIS
+
+You need to connect a suitable VHF antenna to the HAT in order to be able to get AIS targets. The HAT uses an **SMA female connector** for AIS reception. If your antenna uses a different connector you will need an adapter.
+
+### GNSS
+
+There is an integrated patch antenna for GNSS and it should be enough for most cases but if you have a metallic boat or you place the HAT under metallic equipment, you may need an optional external GNSS antenna. The HAT uses a **BNC female connector** for GNSS reception. If your antenna uses a different connector you will need an adapter.
+
+{% hint style="success" %}
+This item is available in our [Web Shop](http://shop.sailoog.com).
 {% endhint %}
 
 ## Installing drivers
@@ -130,31 +158,7 @@ Work in progress.
 Work in progress.
 {% endhint %}
 
-## Enclosure
-
-{% hint style="warning" %}
-Coming soon
-{% endhint %}
-
-![Moitessier HAT + Raspberry Pi enclosure](../.gitbook/assets/moitessier-enclosure-casing-by-rooco.jpg)
-
-{% hint style="success" %}
-This item is available in our [Web Shop](http://shop.sailoog.com).
-{% endhint %}
-
-## External antennas
-
-### AIS
-
-You need to connect a suitable VHF antenna to the HAT in order to be able to get AIS targets. The HAT uses an **SMA female connector** for AIS reception. If your antenna uses a different connector you will need an adapter.
-
-### GNSS
-
-There is an integrated patch antenna for GNSS and it should be enough for most cases but if you have a metallic boat or you place the HAT under metallic equipment, you may need an optional external GNSS antenna. The HAT uses a **BNC female connector** for GNSS reception. If your antenna uses a different connector you will need an adapter.
-
-{% hint style="success" %}
-This item is available in our [Web Shop](http://shop.sailoog.com).
-{% endhint %}
+## 
 
 
 

@@ -158,7 +158,10 @@ Work in progress.
 Work in progress.
 {% endhint %}
 
-## 
+## Support
 
+You can write to Rooco or ask for help in OpenMarine forums:
 
+* [rooco.eu/questions-answers-moitessier-hat](https://www.rooco.eu/questions-answers-moitessier-hat/)
+* [forum.openmarine.net](http://forum.openmarine.net/)
 

@@ -140,11 +140,25 @@ To learn how to configure this feature, go to I2C chapter and follow the example
 
 {% page-ref page="../i2c/" %}
 
-## LEDs
+## LED status information
 
-{% hint style="warning" %}
-Work in progress
-{% endhint %}
+![](../.gitbook/assets/leds.png)
+
+### **AIS LED**
+
+* LED switched on: No AIS data reception
+* LED flashing at variable/inconsistent frequency: AIS data is received
+
+### **GNSS LED**
+
+* LED switched on: No GNSS fix
+* LED flashing once per second: GNSS fix
+
+### **ERROR LED**
+
+* LED switched off: No error occurred
+* LED flashing at variable/inconsistent frequency: Internal buffer overflows \(the data is processed too slowly by the Raspberry Pi\)
+* LED flashing at consistent frequency: system error \(read the device information to get system error code\)
 
 ## Getting info from the HAT
 

@@ -120,13 +120,11 @@ Press _Apply changes_ and you are done!
 
 ![](../.gitbook/assets/imu0.png)
 
-Open OpenCPN and check that you are getting magnetic heading data.
+Go to OpenCPN and check that you are getting magnetic heading, heel and pitch data.
 
 ![](../.gitbook/assets/imu1.png)
 
-There are not NMEA 0183 standard sentences for trim and heel so you will not be able to check this in OpenCPN. Open any Signal K data viewer and you will see data for pitch and roll flowing.
-
-![](../.gitbook/assets/i2c3%20%281%29.png)
+![](../.gitbook/assets/dashboard.png)
 
 OpenPlotter constantly and automatically calibrates the IMU in order to get accurate magnetic heading readings. Read the calibration chapter to follow some advices:
 
@@ -139,6 +137,21 @@ Moitessier HAT has a MS5607-02BA03 sensor for barometric pressure and temperatur
 To learn how to configure this feature, go to I2C chapter and follow the example:
 
 {% page-ref page="../i2c/" %}
+
+Pressure and temperature data are generated in Signal K format. If you want to get pressure and temperature in OpenCPN you have to convert data into NMEA 0183 format. 
+
+Open the _Signal K_ administrator and login. Go to _Server - Plugin Config - Convert Signal K to NMEA0183_ and check _Active_.
+
+![](../.gitbook/assets/sk1.png)
+
+Scroll down and check:
+
+* _XDR \(Barometer\) - Atmospheric Pressure_
+* _XDR \(TempAir\) - Air temperature_
+
+Press _Submit_ and you are done.
+
+![](../.gitbook/assets/sk2.png)
 
 ## LED status information
 

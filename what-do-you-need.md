@@ -1,6 +1,6 @@
 # De quoi avez-vous besoin?
 
- Vous aurez besoin d’éléments requis et de quelques autres optionnels. Cela dépend du type de données que vous voulez collecter, analyser ou afficher et de quel équipement votre bateau dispose..
+Vous aurez besoin d’éléments requis et de quelques autres optionnels. Cela dépend du type de données que vous voulez collecter, analyser ou afficher et de quel équipement votre bateau dispose..
 
 ### Eléments requis
 

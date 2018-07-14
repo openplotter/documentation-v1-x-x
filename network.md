@@ -8,6 +8,16 @@ You can connect your mobile phone to the USB port and enable USB teathering to s
 
 You can connect your laptop, plotter... to the ethernet port of the Raspberry and OpenPlotter can work as a router \(bridge to AP\).
 
+![](.gitbook/assets/network RPi3 APandSTA.gif)
+Picture 1: RPI3:AP/client + bridge eth0
+
+![](.gitbook/assets/network RPi3 AP+STA.gif)
+Picture 2: RPI3:AP + client + bridge eth0
+
+![](.gitbook/assets/network RPi3 APandSTA.gif)
+Picture 3: RPI3:AP + client + bridge eth0
+(the client is the android smartphone with activated usb tethering.)
+
 ![](.gitbook/assets/network_modes.png)
 
 Choose one of the available standard configurations and click on _Set_ to enable it.
@@ -44,7 +54,7 @@ You do not have to change the network mode when you are in harbour.
 
 **Disadvantage**  
 Lower download performance.  
-OpenPlotter must be in a good place to get a good internet connection.
+OpenPlotter must be in a good place to get a good internet connection (unrealistic).
 {% endhint %}
 
 

@@ -18,7 +18,7 @@ Picture 2: RPI3:AP + client + bridge eth0
 (Same as Picture 1 but a second wifi device.)
 
 
-![](.gitbook/assets/network RPi3 APandSTA.gif)
+![](.gitbook/assets/network RPi3 AP+Tethering.gif)
 Picture 3: RPI3:AP + client + bridge eth0
 (Same as Picture 2 but an android smartphone connected by USB as a replacement for the wifi device.)
 
@@ -26,11 +26,22 @@ to Picture 3:
 The smartphone can be connected to the marina wifi or to the gsm internet. 
 Usb tethering must be activated (android auto disables it!).
 Set "Sharing internet device" to USB0. This is importand when other clients which are connected to the OpenPlotter AP should get internet access.
-_BTW: The tethered connection can be used to remote control the RPi with the VNC-viewer. You only need the IP address.
+_BTW: The tethered connection can be used to remote control the RPi with the VNC-viewer. You only need the IP address which android gave the RPi (192.168.42.xxx). (The android app "Network Tools" from HE.NET does tell you the address in the device Manager. 
+Many like this connection for emergencies
+-if your display doesn't work
+-your mouse or keyboard doesn't work
+and headless use
+-if your network doesn't work
 _
 ![](.gitbook/assets/network_modes.png)
 
 Choose one of the available standard configurations and click on _Set_ to enable it.
+What does bridge mean? 
+This is how routers work. It doesn't matter if you connect your client to an ethernet port or the wifi AP on the router.
+It is not a good idea to connect a router (or your RPi in bridge mode) to a router (only if it has an uplink port)!
+Rpi ethernet port as client -> no bridge
+RPi ethernet port as DHCP server -> bridge
+
 
 ![](.gitbook/assets/network_ui.png)
 

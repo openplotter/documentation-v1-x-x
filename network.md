@@ -10,14 +10,24 @@ You can connect your laptop, plotter... to the ethernet port of the Raspberry an
 
 ![](.gitbook/assets/network RPi3 APandSTA.gif)
 Picture 1: RPI3:AP/client + bridge eth0
+(The RPi works like a router getting the internet connection over wifi. If the chartplotter has an ethernet port and a remote control app "gofree". It can be controled by a tablet.
+Or if you want to connect your notbook to the ethernet port.)
 
 ![](.gitbook/assets/network RPi3 AP+STA.gif)
 Picture 2: RPI3:AP + client + bridge eth0
+(Same as Picture 1 but a second wifi device.)
+
 
 ![](.gitbook/assets/network RPi3 APandSTA.gif)
 Picture 3: RPI3:AP + client + bridge eth0
-(the client is the android smartphone with activated usb tethering.)
+(Same as Picture 2 but an android smartphone connected by USB as a replacement for the wifi device.)
 
+to Picture 3:
+The smartphone can be connected to the marina wifi or to the gsm internet. 
+Usb tethering must be activated (android auto disables it!).
+Set "Sharing internet device" to USB0. This is importand when other clients which are connected to the OpenPlotter AP should get internet access.
+_BTW: The tethered connection can be used to remote control the RPi with the VNC-viewer. You only need the IP address.
+_
 ![](.gitbook/assets/network_modes.png)
 
 Choose one of the available standard configurations and click on _Set_ to enable it.

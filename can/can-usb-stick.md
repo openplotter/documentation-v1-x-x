@@ -75,6 +75,8 @@ To connect the CAN-USB Stick to the network you need a free T-connector on your 
 * Turn on the main power.
 * Switch on instrumentation.
 
+If you have a Seatalk network, download this useful file: [Raymarine SeaTalk Network Connection Cross Reference](http://shop.sailoog.com/index.php?controller=attachment&id_attachment=1).
+
 To configure your CAN-USB Stick on Windows use OpenSkipper To configure it on OpenPlotter go to chapter:
 
 {% page-ref page="./" %}

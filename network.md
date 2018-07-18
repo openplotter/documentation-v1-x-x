@@ -4,7 +4,7 @@ Network management has changed, now it is based on the native management system 
 
 OpenPlotter can configure the built-in wlan device on Raspberry Pi 3 and 3+ to act as an Access Point \(AP\). On Raspberry Pi 3 you can set the built-in wlan device to act as OpenPlotter AP and connect as a client to the AP of the marina simultaneously. On Raspberry Pi 3+ you need an extra wlan device if you want to set OpenPlotter as AP and you want to connect to another AP as client too.
 
-You can connect your mobile phone to the USB port and enable USB tethering to share the GSM/WLAN internet connection with all the devices connected to the AP OpenPlotter. Set _Sharing internet device_ to _USB0_. Android auto disables usb tethering. You must activate it everytime! The tethered connection can be used to remote control the RPi with the VNC-viewer. You only need the IP address which android gave the RPi \(192.168.42.xxx\). The android app "Network Tools" from HE.NET does tell you the address in menu-&gt;device manager. In _client_ mode the ip address is fixed to 192.168.42.100. Many like this connection for:
+You can connect your mobile phone to the USB port and enable USB tethering to share the GSM/WLAN internet connection with all the devices connected to the AP OpenPlotter. Set _Sharing internet device_ to _USB0_. Android auto disables USB tethering. You must activate it everytime! The tethered connection can be used to remote control the RPi with VNC-viewer. You only need the IP address which android gives the RPi \(192.168.42.xxx\). The android app "Network Tools" from HE.NET does tell you the address in menu-&gt;device manager. In _client_ mode the ip address is fixed to 192.168.42.100. Many like this connection for:
 
 * Emergency replacement if your display is broken
 * Your mouse or keyboard does not work
@@ -15,23 +15,15 @@ You can connect your laptop, plotter... to the ethernet port of the Raspberry an
 
 What does bridge mean? This is how routers work. It doesn't matter if you connect your client to an ethernet port of the router or to the routers AP. It is not a good idea to connect a router \(or your RPi in bridge mode\) to a router \(only if it has an uplink port and you use it\)! Rpi ethernet port as client -&gt; no bridge RPi ethernet port as DHCP server -&gt; bridge
 
-![](.gitbook/assets/network_rpi3_ap-sta.gif)
+![Picture 1. RPI3: AP/client + bridge eth0](.gitbook/assets/network_rpi3_ap-sta.gif)
 
-Picture 1. RPI3: AP/client + bridge eth0
+In picture 1, the RPi works like a router \(AP\) for your tablet or smartphone and gets Internet connection over the built-in WIFI. If the chartplotter has an ethernet port and a remote control app "gofree", you can connect it too. You can also connect your netbook to the ethernet port.
 
-In picture 1, the RPi works like a router \(AP\) for your tablet or smartphone and gets Internet connection over the built-in WIFI. If the chartplotter has an ethernet port and a remote control app "gofree", you can connect it too. You can connect your netbook to the ethernet port too.
-
-![](.gitbook/assets/network_rpi3_ap-sta2.gif)
-
-Picture 2. RPI3: AP + client + bridge eth0
+![Picture 2. RPI3: AP + client + bridge eth0](.gitbook/assets/network_rpi3_ap-sta2.gif)
 
 Same as Picture 1 but with a second WIFI device.
 
-
-
-![](.gitbook/assets/network_rpi3_ap_tethering.gif)
-
-Picture 3. RPI3: AP + client + bridge eth0
+![Picture 3. RPI3: AP + client + bridge eth0](.gitbook/assets/network_rpi3_ap_tethering.gif)
 
 Same as picture 2 but with an android smartphone connected by USB as a replacement for the WIFI device. The smartphone can be connected to the marina WIFI or to GSM internet. USB tethering must be activated.
 
@@ -42,8 +34,6 @@ Choose one of the available standard configurations and click on _Set_ to enable
 Choose the device which has the internet connection \(client\). OpenPlotter will share it to the AP and to the ethernet port if a bridged mode is selected. Do not select wlan1 or uap0 \(AP\) in _Share internet device_.
 
 ![](.gitbook/assets/network_ui.png)
-
-
 
 {% hint style="warning" %}
 If you set a mode that is not _client_, wlan0 will be always the client and wlan1 or uap0 will be always the AP.

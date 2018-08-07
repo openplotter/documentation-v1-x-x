@@ -6,9 +6,9 @@ All data entering in NMEA 0183 and 2000 format are translated into Signal K form
 
 Once data is converted into Signal K, you can display it in the different apps for visualization or convert it back to NMEA 0183 and 2000 to send it to other devices or apps.
 
-## Data flow
+## Data routing
 
-![](.gitbook/assets/nav_data3.png)
+![](.gitbook/assets/nav_data3.jpg)
 
 ## NMEA 0183
 

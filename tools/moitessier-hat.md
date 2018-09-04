@@ -85,7 +85,9 @@ A terminal window will open. The drivers will be installed and the firmware of t
 ![](../.gitbook/assets/moitessier_settings2.png)
 
 {% hint style="warning" %}
-If your HAT stops working after a major OpenPloter update, this means that your Kernel has been updated too. In this case go back to this window and repeat the procedure. If a matching package does not exist, please contact us as soon as possible.
+If your HAT stops working after a major OpenPloter update, this means that your Kernel has been updated too. In this case go back to this window and repeat the procedure. If a matching package does not exist, download the right package from:
+
+[http://downloads.rooco.eu/moitessier/packages/release/](http://downloads.rooco.eu/moitessier/packages/release/)
 {% endhint %}
 
 ## Configuring GNSS and AIS reception

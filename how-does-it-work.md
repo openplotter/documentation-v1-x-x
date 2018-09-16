@@ -8,7 +8,7 @@ Once data is converted into Signal K, you can display it in the different apps f
 
 ## Data routing
 
-![](.gitbook/assets/nav_data3.jpg)
+![](.gitbook/assets/nav_data3%20%281%29.jpg)
 
 ## NMEA 0183
 

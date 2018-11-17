@@ -74,7 +74,7 @@ You can also update OpenCPN and plugins to the latest stable releases and restor
 
 ![](../.gitbook/assets/update.png)
 
-### Version numbering {#version-numbering}
+### Version numbering <a id="version-numbering"></a>
 
 OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.10.0, v1.0.0...\) and a word \(**alpha**, **beta** and **stable**\).
 
